@@ -11,7 +11,7 @@ module.exports = function(grunt) {
             source: 'app',
             dist: 'dist',
             baseurl: 'zeppelin-grunt',
-            git_repo: 'git@github.com:gdg-x/zeppelin-grunt.git',
+            git_repo: 'git@github.com:mobileera/zeppelin-grunt.git',
             branch: 'gh-pages'
         },
         watch: {
@@ -136,6 +136,14 @@ module.exports = function(grunt) {
 
                     '.tmp/<%= app.baseurl %>/js/scripts.js': [
                         '<%= app.source %>/_assets/js/scripts.js'
+                    ],
+
+                    '.tmp/<%= app.baseurl %>/js/jquery.min.js': [
+                        'bower_components/jquery/dist/jquery.js'
+                    ],
+
+                    '.tmp/<%= app.baseurl %>/js/bootstrap.min.js': [
+                        'bower_components/bootstrap-sass/assets/javascripts/bootstrap.js'
                     ]
                 }
             },
@@ -157,6 +165,14 @@ module.exports = function(grunt) {
 
                     '<%= app.dist %>/<%= app.baseurl %>/js/scripts.js': [
                         '<%= app.source %>/_assets/js/scripts.js'
+                    ],
+
+                    '.tmp/<%= app.baseurl %>/js/jquery.min.js': [
+                        'bower_components/jquery/dist/jquery.min.js'
+                    ],
+
+                    '.tmp/<%= app.baseurl %>/js/bootstrap.min.js': [
+                        'bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js'
                     ]
                 }
             }

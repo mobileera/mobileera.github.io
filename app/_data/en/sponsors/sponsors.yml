@@ -1,0 +1,5 @@
+title: "These are the benefits of the standard sponsor package"
+blocks:
+ - {title: "Visibility", image: "conference.jpg", text: "Do you want your customers, suppliers and employers to see you as a serious player when it comes to mobile technology?" }
+ - {title: "Community", image: "hackathon.jpg", text: "Do you believe in the power of learning for mobile designers and developers?" }
+ - {title: "Network", image: "workshop.jpg", text: "Do you want to meet the exciting people you may work with in the future?" }

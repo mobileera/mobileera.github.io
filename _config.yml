@@ -15,9 +15,9 @@ markdown: kramdown
 
 # Site settings
 baseurl: "/zeppelin-grunt"
-url: "http://gdg-x.github.io"
+url: "http://mobileera.github.io"
 permalink: '/blog/:title'
 
 # i18n
-languages: ["en", "uk"]
+languages: ["en"]
 exclude_from_localizations: ["js", "img", "css"]

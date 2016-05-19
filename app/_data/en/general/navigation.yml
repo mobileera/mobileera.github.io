@@ -1,18 +1,14 @@
 links:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/cfp/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
- - 
+ - {permalink: "/sponsors/", text: "Sponsors"}
+ -
    subText: "Social"
    links:
-    - {link: "https://plus.google.com/102444623953913144164", text: "+GDGLviv"}
-    - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", text: "@GDGLviv"}
-    - {link: "https://facebook.com/GDGLviv", text: "GDGLviv"}
+    - {link: "https://twitter.com/intent/user?screen_name=MobileEraConf", text: "Twitter: @MobileEraConf"}
+    - {link: "https://facebook.com/MobileEra", text: "Facebook: Mobile Era"}
 bottomLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
 rightButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}

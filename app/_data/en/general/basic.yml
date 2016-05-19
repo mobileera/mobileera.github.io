@@ -1,16 +1,16 @@
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Mobile Era 2016"
+email: "contact@mobileera.rocks"
+description: "Norway's first conference for mobile technologists"
 enablePreloader: false
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, mobileera, mobile, oslo, programming, android, ios, developers, hybrid"
+twitterAccount: "@MobileEraConf"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-themeColor: "#03a9f4"
+themeColor: "#00dbff"
 
 # Organizer Info
 organizerName: "GDG Lviv"
@@ -21,7 +21,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://bit.ly/mobileera2016-cfp"
 c4pButton: "Become a speaker"
 
 # Varibles
@@ -32,4 +32,4 @@ disqusShortName: "devfestua"
 # i18n
 languages:
   en: English
-  uk: Українська
+  
