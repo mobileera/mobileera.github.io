@@ -1,8 +1,0 @@
-title: "Mobile Era is Norway's first conference for mobile technologists"
-abstract: "We are currently looking for speakers, sponsors and more volunteers for our organization team.
-
-The planning of the conference has only just begun. Be sure to check back for more information about speakers and prices soon or sign up to the mailing list to get news as soon as possible."
-blocks:
- - {title: "Want to speak?", image: "conference.jpg", text: "The conference will host Norwegian and international experts on Android, iOS, mobile web and design", buttonText: "Become a speaker", buttonPermalink: "/#speakers" }
- - {title: "Want to sponsor?", image: "hackathon.jpg", text: "As a sponsor of the conference, you can help the mobile developer community in Oslo grow and show your commitment to the mobile era!", buttonText: "Sponsor packages", buttonPermalink: "/#sponsors" }
- - {title: "Want to help?", image: "workshop.jpg", text: "As a volunteer for the conference, you get the chance to learn, grow your network and contribute to the good of your fellow kind.", buttonText: "Join our Slack", buttonLink: "http://mobileera.herokuapp.com/" }
