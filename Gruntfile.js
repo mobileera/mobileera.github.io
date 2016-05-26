@@ -10,9 +10,9 @@ module.exports = function(grunt) {
         app: {
             source: 'app',
             dist: 'dist',
-            baseurl: 'zeppelin-grunt',
-            git_repo: 'git@github.com:mobileera/zeppelin-grunt.git',
-            branch: 'gh-pages'
+            baseurl: '',
+            git_repo: 'git@github.com:mobileera/mobileera.github.io.git',
+            branch: 'master'
         },
         watch: {
             sass: {
