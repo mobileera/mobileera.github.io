@@ -1,6 +1,6 @@
 links:
  - {permalink: "/", text: "Home"}
- - {permalink: "/cfp/", text: "Speakers"}
+ - {permalink: "/call-for-papers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  -

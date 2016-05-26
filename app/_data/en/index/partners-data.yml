@@ -2,9 +2,14 @@
   group: "General sponsor"
   elements:
 -
-  group: "With support of"
+  group: "Gold sponsors"
   elements:
-
+-
+  group: "Silver sponsors"
+  elements:
+-
+  group: "Bronze sponsors"
+  elements:
 -
   group: "Information partners"
   elements:
