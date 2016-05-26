@@ -322,6 +322,12 @@ module.exports = function(grunt) {
                     cwd: 'bower_components/jquery/dist',
                     src: ['jquery.min.js', 'jquery.min.map'],
                     dest: '<%= app.dist %>/<%= app.baseurl %>/js'
+                },
+                {
+                    expand: true,
+                    cwd: 'app/_static',
+                    src: ['*'],
+                    dest: '<%= app.dist %>/<%= app.baseurl %>'
                 }]
             }
         },

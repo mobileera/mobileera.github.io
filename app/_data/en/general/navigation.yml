@@ -6,8 +6,8 @@ links:
  -
    subText: "Social"
    links:
-    - {link: "https://twitter.com/intent/user?screen_name=MobileEraConf", text: "Twitter: @MobileEraConf"}
-    - {link: "https://facebook.com/MobileEra", text: "Facebook: Mobile Era"}
+    - {link: "https://twitter.com/intent/user?screen_name=mobileeraconf", text: "Twitter: @mobileeraconf"}
+    - {link: "https://facebook.com/mobileeraconf", text: "Facebook: Mobile Era Conf"}
 bottomLinks:
  - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
 rightButtons:

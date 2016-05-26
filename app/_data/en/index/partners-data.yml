@@ -13,4 +13,4 @@
 -
   group: "Information partners"
   elements:
-    - {name: "Mobile Meetup Oslo", description: "Mobile Meetup Oslo", link: "http://meetup.com/Mobile-Meetup-Oslo", imageUrl: "google.svg"}
+    - {name: "Mobile Meetup Oslo", description: "Mobile Meetup Oslo", link: "http://meetup.com/Mobile-Meetup-Oslo", imageUrl: "Mobile_Meetup_Oslo.svg"}
