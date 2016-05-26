@@ -1,7 +1,7 @@
 image: "hero.jpg"
 title: "Mobile Era <typeout> 2016"
 eventDate: "October 27th-28th"
-typeoutTextValues: '"", "Oslo", "Norway", "Scandic", "Nordic"'
+typeoutTextValues: '"", "Oslo", "Norway", "Scandinavia", "Nordics", "Europe", "World"'
 typeoutFallback: "Oslo"
 buttons:
  - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
