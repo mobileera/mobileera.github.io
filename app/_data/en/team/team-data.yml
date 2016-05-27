@@ -3,10 +3,11 @@
   name: "Johannes"
   surname: "Brodwall"
   title: "General Manager"
-  thumbnailUrl: anonymous.png
+  thumbnailUrl: JohannesBrodwall.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/jhannes"}
+    - {name: "github", link: "https://github.com/jhannes"}
 -
   id: 1
   name: "Maxim"
