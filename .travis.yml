@@ -6,5 +6,6 @@ before_install:
   - rvm use 2.2.3 --install --fuzzy
 install:
   - travis_retry bundler
+  - travis_retry bower install
   - travis_retry npm install -g grunt-cli
   - travis_retry npm install
