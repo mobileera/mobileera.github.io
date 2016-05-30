@@ -1,5 +1,8 @@
 # .gitignore for Yeoman-Jekyll projects
 
+# Ignore jekyll intermediate directory
+_site/
+
 # Ignore hidden folders #
 # This takes care of .tmp, .sass-cache, and many others #
 .*/
