@@ -4,7 +4,7 @@ module.exports = function(grunt) {
     require('time-grunt')(grunt);
     require('jit-grunt')(grunt, {
         buildcontrol: 'grunt-build-control'
-        });
+    });
 
     grunt.initConfig({
         app: {
@@ -84,7 +84,8 @@ module.exports = function(grunt) {
         jekyll: {
             options: {
                 config: '_config.yml,_config.build.yml',
-                src: '<%= app.source %>'
+                src: '<%= app.source %>',
+                bundleExec: true
             },
             server: {
                 options: {
