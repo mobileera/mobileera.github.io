@@ -13,15 +13,15 @@ feature:
 offers:
  -
   name: "Bronze sponsor"
-  price: "Soon"
-  ticketContentList: ["One free ticket"]
+  price: "Pricing TBA"
+  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "One free ticket"]
 
  -
   name: "Silver sponsor"
-  price: "Soon"
-  ticketContentList: ["Two free tickets", "The option of a roll-up in the venue", "More prominent logo placement"]
+  price: "Pricing TBA"
+  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "Two free tickets", "The option of a roll-up in the venue", "More prominent logo placement"]
 
  -
   name: "Gold sponsor"
-  price: "Soon"
-  ticketContentList: ["Four free tickets", "The option of a booth in the venue", "Even more prominent logo placement"]
+  price: "Pricing TBA"
+  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "Four free tickets", "The option of a booth in the venue", "Even more prominent logo placement"]

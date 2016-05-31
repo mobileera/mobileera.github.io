@@ -7,10 +7,14 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     position: fixed;
     z-index: 500;
     width: 100%;
-    padding: 0 45px;
+    padding: 0 20px;
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
+    @media (min-width: 992px) {
+        padding: 0 45px;
+    }
+
     &.after-scroll {
         padding-top: 0;
         box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
@@ -41,11 +45,11 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         float: left;
         width: 185px;
         height: 60px;
-        margin-right: 20px;
+        margin-left: 10px;
         //transform: scale(.7);
         vertical-align: middle;
          @media (max-width: 767px) {
-            transform: scale(.6);
+            transform: scale(.8);
         }
     }
 }
@@ -106,22 +110,20 @@ nav {
             font-weight: $regular;
             transition: $base-transition;
             text-transform: uppercase;
-            color: $nav-color;
+            color: $contrast-text;
+
             @media (max-width: 767px) {
                 font-size: 16px;
                 display: block;
                 padding: 13px 15px 13px 15px;
                 transition: $base-transition;
                 text-transform: none;
-                color: rgba(0, 0, 0, .3);
                 outline: 0;
             }
             &.current, &:hover, &:active, &:focus {
                 text-decoration: none;
-                color: $nav-color-hover;
-                @media (max-width: 767px) {
-                    color: $main-color;
-                }
+                color: $contrast-text;
+                text-decoration: underline;
             }
             .top-header.after-scroll & {
                 color: $nav-scroll-color;
@@ -182,9 +184,31 @@ nav {
 }
 .menu-trigger {
     float: right;
-    transform: translateY(22px);
-    right: 45px;
+    position: relative;
+    display: flex;
+    top: 10px;
     transition: $base-transition;
+
+    background-color: $base-background-color;
+    border: 1px solid $icon-fill-color;
+    border-radius: 5px;
+    height: 34px;
+
+    > svg {
+        height: 26px;
+        width: 26px;
+    }
+
+    > span {
+        color: $icon-fill-color;
+        font-weight: 300;
+        font-size: 18px;
+    }
+
+    .after-scroll & {
+        border: none;
+        background-color: transparent;
+    }
 }
 .bottom-navlinks {
     position: absolute;

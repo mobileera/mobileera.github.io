@@ -27,6 +27,11 @@ $footer-links-color: #8b8b8b;
     }
     .social-links {
         margin-bottom: 0;
+
+        .icon-facebook {
+            // Facebook icon is very asymmetrical, fix that
+            transform: translateX(3px);
+        }
     }
     .copyright {
         font-size: 13px;

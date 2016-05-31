@@ -1,9 +1,13 @@
 <header id="top-header" class="top-header">
     <div class="overlay white-solid"></div>
-    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32">
-        <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-menu"></use>
-    </svg>
+    <button id="menu-trigger" class="menu-trigger hidden-sm hidden-md hidden-lg">
+        <svg class="icon icon-menu" viewBox="0 0 32 32">
+            <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-menu"></use>
+        </svg>
+        <span><span class="sr-only">Show </span>Menu</span>
+    </button>
     <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
+        <span class="sr-only">Go to main page, mobile era logo</span>
         <div class="logo logo-light"></div>
     </a>
     <nav class="st-menu st-effect" id="menu">

@@ -188,7 +188,9 @@ module.exports = function(grunt) {
             },
             server: {
                 options: {
-                    sourceMap: true
+                    sourceMap: true,
+                    outputStyle: 'expanded',
+                    sourceComments: true
                 },
                 files: [{
                     expand: true,

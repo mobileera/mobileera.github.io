@@ -30,6 +30,11 @@
 	&.standart-height {
 		min-height: 500px;
 	}
+
+    input {
+        background-color: $contrast-background;
+        font-weight: $regular;
+    }
 }
 .bottom-section-link {
     text-transform: uppercase;

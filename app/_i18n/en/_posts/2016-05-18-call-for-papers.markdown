@@ -4,7 +4,7 @@ title:  "Call for Papers"
 date:   2016-05-18 09:00:00
 isStaticPost: false
 ---
-Mobile Era 2016 conference will be held 27-28th of October in central Oslo. If you want to be part of this great event as a speaker you knocked at the good door.
+Mobile Era 2016 conference will be held 3-4th of November in central Oslo. If you want to be part of this great event as a speaker you knocked at the good door.
 
 #### Presenters – who should speak at the Mobile Era?
 
