@@ -6,8 +6,8 @@
   thumbnailUrl: JohannesBrodwall.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/jhannes"}
-    - {name: "github", link: "https://github.com/jhannes"}
+    - {name: "twitter", link: "https://twitter.com/jhannes", description: "Johannes' Twitter profile" }
+    - {name: "github", link: "https://github.com/jhannes", description: "Johannes' Github profile" }
 -
   id: 1
   name: "Maxim"
@@ -16,8 +16,8 @@
   thumbnailUrl: MaximSalnikov.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/webmaxru"}
-    - {name: "github", link: "https://github.com/webmaxru"}
+    - {name: "twitter", link: "https://twitter.com/webmaxru", description: "Maxim's Twitter profile" }
+    - {name: "github", link: "https://github.com/webmaxru", description: "Maxim's github profile" }
 -
   id: 2
   name: "Bjørn"
@@ -39,10 +39,12 @@
   name: "Hampus"
   surname: "Nilsson"
   title: "Speakers Manager"
-  thumbnailUrl: anonymous.png
+  thumbnailUrl: HampusNilsson.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/hjnilsson"}
+    - {name: "twitter", link: "https://twitter.com/hjnilsson", description: "Hampus' Twitter profile" }
+    - {name: "github", link: "https://github.com/hjnilsson", description: "Hampus' Github profile" }
+    - {name: "site", link: "https://hjnilsson.com", description: "Hampus' website" }
 
 -
   id: 8
@@ -52,4 +54,4 @@
   thumbnailUrl: anonymous.png
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/kkoval"}
+    - {name: "twitter", link: "https://twitter.com/kkoval", description: "Konstantin's Twitter profile"}
