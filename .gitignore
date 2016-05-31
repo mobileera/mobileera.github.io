@@ -41,4 +41,3 @@ dist
 node_modules
 .tmp
 Gemfile.lock
-CNAME
