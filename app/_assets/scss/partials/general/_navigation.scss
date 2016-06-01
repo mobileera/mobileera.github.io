@@ -1,5 +1,5 @@
 $nav-color: #fff;
-$nav-color-hover: #cfcfcf;
+$nav-color-hover: rgba(0, 0, 0, .2);
 $nav-scroll-color: rgba(0, 0, 0, .5);
 $nav-scroll-color-hover: rgba(0, 0, 0, .8);
 
@@ -100,12 +100,14 @@ nav {
     }
     li {
         display: inline-block;
-        padding: 0 8px;
+        padding: 0 0;
         vertical-align: middle;
         @media (max-width: 767px) {
             display: block;
         }
         a {
+            padding: 3px 8px;
+            border-radius: 3px;
             font-size: $base-font-size;
             font-weight: $regular;
             transition: $base-transition;
@@ -122,8 +124,12 @@ nav {
             }
             &.current, &:hover, &:active, &:focus {
                 text-decoration: none;
-                color: $contrast-text;
-                text-decoration: underline;
+
+                background-color: $nav-color-hover;
+                @media (max-width: 767px) {
+                    color: $main-color;
+                }
+
             }
             .top-header.after-scroll & {
                 color: $nav-scroll-color;
