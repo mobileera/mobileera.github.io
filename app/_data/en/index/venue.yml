@@ -3,5 +3,10 @@ bigImage: "venue_0.jpg"
 smallImage1: "venue_1.jpg"
 smallImage2: "venue_2.jpg"
 smallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+smallImage3: "venue_4.jpg"
+smallImage3: "venue_5.jpg"
+smallImage3: "venue_6.jpg"
+smallImage3: "venue_7.jpg"
+smallImage3: "venue_8.jpg"
+venueTitle: "Gamle Museet"
+venueFeatures: ["Award winning building centrally located in Oslo", "Close to public communication with all bus and tram lines in the immediate vicinity and 5 minute walk to Oslo central station"]

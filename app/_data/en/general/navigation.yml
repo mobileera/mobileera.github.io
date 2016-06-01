@@ -3,6 +3,7 @@ links:
  - {permalink: "/call-for-papers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/sponsors/", text: "Sponsors"}
+ - {permalink: "/logistics/", text: "Logistics"}
  -
    subText: "Social"
    links:

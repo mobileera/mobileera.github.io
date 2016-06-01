@@ -56,8 +56,8 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
 .logo-navbar {
     width: 185px;
     height: 60px;
-    margin: 8px 20px 0 -10px;
-    transform: scale(.6);
+    margin: 8px 20px 0 0;
+    //transform: scale(.6);
     vertical-align: middle;
 }
 nav {
@@ -112,7 +112,9 @@ nav {
             font-weight: $regular;
             transition: $base-transition;
             text-transform: uppercase;
-            color: $contrast-text;
+            color: $nav-color;
+            font-weight: bold;
+            text-shadow: none;
 
             @media (max-width: 767px) {
                 font-size: 16px;
@@ -121,6 +123,7 @@ nav {
                 transition: $base-transition;
                 text-transform: none;
                 outline: 0;
+                color: $nav-scroll-color;
             }
             &.current, &:hover, &:active, &:focus {
                 text-decoration: none;
@@ -128,6 +131,7 @@ nav {
                 background-color: $nav-color-hover;
                 @media (max-width: 767px) {
                     color: $main-color;
+                    background: none;
                 }
 
             }

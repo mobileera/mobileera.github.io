@@ -24,7 +24,7 @@
   surname: "Sloth"
   title: "Sponsors Manager"
   thumbnailUrl: anonymous.png
-  team: true
+  team: null
 
 -
   id: 4
