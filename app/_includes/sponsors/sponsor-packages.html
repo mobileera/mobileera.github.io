@@ -1,7 +1,7 @@
 <!-- Begin Tickets Section -->
 <section id="tickets" class="tickets">
 	<div class="content-wrapper">
-		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+		<div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
 			<h3>{{ site.data.[site.lang].sponsors.sponsor-packages.title }}</h3>
             {% for ticketsOffer in site.data.[site.lang].sponsors.sponsor-packages.offers %}
 	            {% assign colWidth = 12 | divided_by: forloop.length %}
@@ -10,7 +10,7 @@
 	            	{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
 					<div class="pricing-header">
 						<p class="title">{{ ticketsOffer.name }}</p>
-						<p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
+						<!-- <p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p> -->
 					</div><div class="pricing-content">
 						<ul>
 							{% for listItem in ticketsOffer.ticketContentList %}

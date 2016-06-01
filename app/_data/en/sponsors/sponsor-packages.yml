@@ -4,24 +4,24 @@ benefits:
   name: "Benefits for all sponsors"
   ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "Free tickets depending on sponsor tier"]
 
-feature:
-  name: "Feature sponsor"
-  price: "Soon"
-  additionalInfo: "We are looking for feature sponsors for the following:"
-  ticketContentList: ["Media feature sponsor: Recording and publishing of talks", "Party features sponsor: Helping out with the conference party", "If you would like to contribute in a specific way, we would like to hear from you"]
-
 offers:
  -
-  name: "Bronze sponsor"
-  price: "Pricing TBA"
-  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "One free ticket"]
+  name: "Bronze"
+  price: ""
+  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "1 free ticket"]
 
  -
-  name: "Silver sponsor"
-  price: "Pricing TBA"
-  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "Two free tickets", "The option of a roll-up in the venue", "More prominent logo placement"]
+  name: "Silver"
+  price: ""
+  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "2 free tickets", "The option of a roll-up in the venue", "More prominent logo placement"]
 
  -
-  name: "Gold sponsor"
-  price: "Pricing TBA"
-  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "Four free tickets", "The option of a booth in the venue", "Even more prominent logo placement"]
+  name: "Gold"
+  price: ""
+  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "4 free tickets", "The option of a booth in the venue", "Even more prominent logo placement"]
+
+ -
+  name: "Feature"
+  price: ""
+  additionalInfo: "We are looking for feature sponsors for the following:"
+  ticketContentList: ["Media: Recording and publishing of talks", "Party: Helping out with the conference party", "Other? We would like to hear from you!"]

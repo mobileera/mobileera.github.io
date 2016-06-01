@@ -6,11 +6,12 @@ $button-background-color-hover: #4d4d4d;
 .pricing-col {
     overflow: hidden;
     margin-bottom: 26px;
+    padding: 0;
     font-size: 16px;
     font-weight: $light;
     text-align: center;
-    border-right: none;
-
+    border: 1px $col-border-color solid;
+    //border-right: none;
     @media (max-width: 767px) {
         width: 100% !important;
         border: 1px $col-border-color solid;
@@ -19,7 +20,7 @@ $button-background-color-hover: #4d4d4d;
         border-right: 1px $col-border-color solid;
         border-left: none;
         @media (max-width: 767px) {
-            border: 1px $col-border-color solid;    
+            border: 1px $col-border-color solid;
         }
     }
     &.pricing-col-featured {
@@ -54,7 +55,7 @@ $button-background-color-hover: #4d4d4d;
             margin-top: 45px;
             background: $primary-color;
             &:hover {
-                background: $primary-color-hover;    
+                background: $primary-color-hover;
             }
             @media (max-width: 767px) {
                 margin: 0;
@@ -62,7 +63,7 @@ $button-background-color-hover: #4d4d4d;
             &.disabled {
                 &:hover {
                     background: $primary-color;
-                }      
+                }
             }
         }
     }
@@ -74,9 +75,9 @@ $button-background-color-hover: #4d4d4d;
         background: $title-background-color;
     }
     .price {
-        margin: 30px 0 0 0;
+        margin: 30px 0 10px;
         padding: 26px 0;
-        font-size: 45px;
+        font-size: 65px;
         font-weight: $light;
         color: #000;
     }
@@ -98,7 +99,7 @@ $button-background-color-hover: #4d4d4d;
         &.disabled {
             &:hover {
                 background: $button-background-color;
-            }      
+            }
         }
         &.fallback {
             font-size: 18px;
@@ -115,18 +116,12 @@ $button-background-color-hover: #4d4d4d;
         background: $button-background-color;
     }
 }
-.pricing-header {
-    border: 1px $col-border-color solid;
-    border-bottom: none;
-}
 .pricing-content {
     font-weight: $regular;
-    border: 1px $col-border-color solid;
-    border-top: none;
-
     ul {
         width: 80%;
         margin: 0 auto;
+        margin-top: 16px;
         padding: 0;
     }
     li {

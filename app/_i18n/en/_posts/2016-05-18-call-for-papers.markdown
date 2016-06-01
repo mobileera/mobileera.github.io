@@ -4,34 +4,32 @@ title:  "Call for Papers"
 date:   2016-05-18 09:00:00
 isStaticPost: false
 ---
-Mobile Era 2016 conference will be held 3-4th of November in central Oslo. If you want to be part of this great event as a speaker you knocked at the good door.
+Mobile Era will feature a mix of international and Norwegian speakers with a focus on the international crowd. The conference will give most space to experienced speakers who are experienced in speaking on their subjects, but will leave some room for more novice speakers as well.
 
-#### Presenters – who should speak at the Mobile Era?
+If you are experienced in presenting a technical or design topic within mobile, we would like to hear from you. Send us a proposal below, tweet at us, or send an email.
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with relevant activities
-* companies, organizations and individuals using mobile technologies
+The conference will reimburse speaker travel and hotel costs. If you want, we can also help you organize for-pay workshops during your stay in Oslo
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.
+#### Formats
+* 45 minute talks
+* 10 minute lightning talks
+
+#### Language
+* English
+* Norwegian
 
 #### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+* iOS
+* Android
+* Hybrid/Mobile Web
+* Windows Phone
+* Mobile UX/Design
+* Mobile tech
 
-##### iOS
+#### Please [submit your proposals here](http://bit.ly/mobileera2016-cfp).
+__Deadline__ is August 15, 2016
 
-##### Android
-
-##### Hybrid/Mobile Web
-
-##### UX/Design
-
-#### Please submit your proposals [here](http://bit.ly/mobileera2016-cfp).
-__Deadline__ is August 1, 2016
-
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!
-
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2016.<br/>
+__Talk selection__ is September 15, 2016
 
 #### Any questions?
 Email organizers at [contact@mobileera.rocks](mailto:contact@mobileera.rocks)
