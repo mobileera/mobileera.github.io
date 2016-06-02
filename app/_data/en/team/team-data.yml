@@ -48,10 +48,14 @@
 
 -
   id: 8
-  name: "Konstantin"
+  name: "Kostiantyn"
   surname: "Koval"
   title: "iOS Committee Leader"
   thumbnailUrl: KonstantinKoval.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/kkoval", description: "Konstantin's Twitter profile"}
+    - {name: "twitter", link: "https://twitter.com/KostiaKoval", description: "Kostiantyn's Twitter profile"}
+    - {name: "github", link: "https://github.com/kostiakoval", description: "Kostiantyn's Github profile" }
+    - {name: "site", link: "http://kostiakoval.github.io", description: "Kostiantyn's website" }
+
+
