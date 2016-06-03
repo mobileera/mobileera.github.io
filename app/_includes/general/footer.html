@@ -10,7 +10,7 @@
 		{% for block in site.data.[site.lang].general.footer.blocks %}
         {% assign colCount = forloop.length | plus: 1 %}
         {% assign colWidth = 12 | divided_by: colCount %}
-		<div class="col-md-{{ colWidth }} col-xs-6">
+		<div class="col-md-{{ colWidth }} col-xs-12">
 			<h5>{{ block.title }}</h5>
 			<ul>
 				{% for linkElement in block.links %}
@@ -19,7 +19,7 @@
 			</ul>
 		</div>
 		{% endfor %}
-		<div class="col-md-{{ colWidth }} col-xs-6">
+		<div class="col-md-{{ colWidth }} col-xs-12">
 			<h5>{{ site.data.[site.lang].general.footer.socialTitle }}</h5>
 			<ul class="social-links">
 				{% for social in site.data.[site.lang].general.footer.socialLinks %}
@@ -39,7 +39,7 @@
 		<div class="col-md-6">
 			<p class="copyright">
 				&copy; 2016 Mobile Era Conference.<br />
-				<small>The website is based on <a href="https://github.com/gdg-x/zeppelin-grunt" target="_blank">Project Zeppelin-Grunt</a>.</small>
+				<small>The website is based on <a href="https://github.com/gdg-x/zeppelin-grunt" target="_blank">Project Zeppelin-Grunt</a>. Photo: VISITOSLO/Tord Baklund.</small>
 			</p>
 		</div>
 	</div>

@@ -185,11 +185,9 @@ nav {
     }
 }
 .icon-menu {
-    width: 20px;
-    height: 20px;
-    fill: #e6e6e6;
+    color: #e6e6e6;
     .top-header.after-scroll & {
-        fill: #464646;
+        color: #464646;
     }
 }
 .menu-trigger {
@@ -200,7 +198,7 @@ nav {
     transition: $base-transition;
 
     background-color: $base-background-color;
-    border: 1px solid $icon-fill-color;
+    border: none;
     border-radius: 5px;
     height: 34px;
 

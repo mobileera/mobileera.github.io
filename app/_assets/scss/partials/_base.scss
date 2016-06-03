@@ -25,13 +25,13 @@ $h5-font-size: 2.3 * $base-font-size;
 $h6-font-size: 1.875 * $base-font-size;
 
 // Colors
-$main-color: #00dbff;
+$main-color: #00afcd; //00dbff
 $link-color: $main-color;
 $link-lighten-amount: 20%;
 $base-background-color: #fff;
 $base-section-background-color: $link-color;
-$primary-color: darken(#00dbff, 7%); // #00dbaa is completely unreadable on poor screens
-$primary-color-hover: #00dbff;
+$primary-color: $main-color; // #00dbaa is completely unreadable on poor screens
+$primary-color-hover: darken($primary-color, 7%);
 $icon-fill-color: #8b8b8b;
 $contrast-background: #222;
 $contrast-text: #303030;
