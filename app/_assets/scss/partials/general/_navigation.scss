@@ -115,6 +115,7 @@ nav {
             color: $nav-color;
             font-weight: bold;
             text-shadow: none;
+            margin-right: 5px;
 
             @media (max-width: 767px) {
                 font-size: 16px;

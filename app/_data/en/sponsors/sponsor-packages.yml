@@ -6,6 +6,16 @@ benefits:
 
 offers:
  -
+  name: "Feature"
+  price: "Email us"
+  additionalInfo: "We are looking for feature sponsors for the following:"
+  ticketContentList: ["Media: Recording and publishing of talks", "Party: Helping out with the conference party", "Other? We would like to hear from you!"]
+  color: "#00DBFF"
+  priceCurrency: ""
+  buyButtonLink: "/team/"
+  buyButtonText: "Contact us"
+
+ -
   name: "Bronze"
   price: "20.000"
   ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "1 free ticket"]
@@ -30,15 +40,5 @@ offers:
   ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "4 free tickets", "The option of a booth in the venue", "Even more prominent logo placement"]
   color: "#F0DE88"
   priceCurrency: "NOK"
-  buyButtonLink: "/team/"
-  buyButtonText: "Contact us"
-
- -
-  name: "Feature"
-  price: "Email us"
-  additionalInfo: "We are looking for feature sponsors for the following:"
-  ticketContentList: ["Media: Recording and publishing of talks", "Party: Helping out with the conference party", "Other? We would like to hear from you!"]
-  color: "#00DBFF"
-  priceCurrency: ""
   buyButtonLink: "/team/"
   buyButtonText: "Contact us"
