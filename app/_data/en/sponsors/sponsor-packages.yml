@@ -9,7 +9,7 @@ offers:
   name: "Feature"
   price: "Email us"
   additionalInfo: "We are looking for feature sponsors for the following:"
-  ticketContentList: ["Media: Recording and publishing of talks", "Party: Helping out with the conference party", "Other? We would like to hear from you!"]
+  ticketContentList: ["<strong>Media:</strong> Recording and publishing of talks", "<strong>Party:</strong> Helping out with the conference party", "Other? We would like to hear from you!"]
   color: "#00DBFF"
   priceCurrency: ""
   buyButtonLink: "/team/"
@@ -28,7 +28,7 @@ offers:
  -
   name: "Silver"
   price: "30.000"
-  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "2 free tickets", "The option of a roll-up in the venue", "More prominent logo placement"]
+  ticketContentList: ["<strong>The option of a roll-up <small>(100cm)</small> with bar table in the venue</strong>", "Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "2 free tickets", "More prominent logo placement"]
   color: "#BFBFBF"
   priceCurrency: "NOK"
   buyButtonLink: "/team/"
@@ -37,7 +37,7 @@ offers:
  -
   name: "Gold"
   price: "50.000"
-  ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "4 free tickets", "The option of a booth in the venue", "Even more prominent logo placement"]
+  ticketContentList: ["<strong>The option of a booth in the venue</strong>", "Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "4 free tickets", "Even more prominent logo placement"]
   color: "#F0DE88"
   priceCurrency: "NOK"
   buyButtonLink: "/team/"
