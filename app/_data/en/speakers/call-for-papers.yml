@@ -5,7 +5,7 @@ abstract: "<p>Mobile Era will feature a mix of international and Norwegian speak
 
 <p>The conference will reimburse speaker travel and hotel costs. If you want, we can also help you organize for-pay workshops during your stay in Oslo"
 
-footer: "<h4>Please <a href='http://bit.ly/mobileera2016-cfp'>submit your proposals here</a></h4>Deadline is August 15, 2016"
+footer: "<h4><a href='http://bit.ly/mobileera2016-cfp'>Please submit your proposals here</a></h4>Deadline is August 15, 2016"
 
 blocks:
  - {title: "Formats", image: "conference.jpg", text: "<ul><li><p>45 minute talks</li><li><p>10 minute lightning talks</li></ul>" }
