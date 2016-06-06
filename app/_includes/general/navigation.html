@@ -17,7 +17,7 @@
                     <ul class="dropdown-menu" role="menu" aria-labelledby="{{ navigationLink.subText | slice: 0, 3 | append: forloop.index0 }}">
                         {% for subLink in navigationLink.links %}
                         <li role="presentation">
-                            <a class="{% if subLink.permalink != null and page.permalink == subLink.permalink %}current{% endif %}"  href="{% if subLink.permalink != null %} {{ subLink.permalink | prepend: site.baseurl }} {% else %} {{ subLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %} role="menuitem" tabindex="-1">{{ subLink.text}}</a>
+                            <a target="_blank" class="{% if subLink.permalink != null and page.permalink == subLink.permalink %}current{% endif %}"  href="{% if subLink.permalink != null %} {{ subLink.permalink | prepend: site.baseurl }} {% else %} {{ subLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %} role="menuitem" tabindex="-1">{{ subLink.text}}</a>
                         </li>
                         {% endfor %}
                     </ul>
