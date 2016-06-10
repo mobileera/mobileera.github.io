@@ -1,44 +1,15 @@
-title: "Pricetable"
+title: "Buy a ticket"
 info: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 offers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
-  info: "Before 30 September 2014 23:59 or 150 tickets"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  info: "450 tickets"
-  disabled: true
-  fallback: "Ticket sales will begin on 1 October 2014 00:00"
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  name: "Blind Bird"
+  price: "1800"
+  priceCurrency: "NOK"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ribbon: "Smart!"
+  buyButtonLink: "https://mobileera.hoopla.no/sales/3908008463/"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  info: "Before 23 October 2014 23:59 or 50 tickets"
-  soldOut: true
-  soldOutText: "Sold Out"
+  ticketContentList: []
+  validFrom: "2016-06-10T00:01"
+  validThrough: "2016-07-10T23:59"
+  info: "Only 50 tickets"

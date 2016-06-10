@@ -5,3 +5,4 @@ typeoutTextValues: '"", "Oslo", "Norway", "Scandinavia"'
 typeoutFallback: "Oslo"
 buttons:
  - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
+ - {link: "https://mobileera.hoopla.no/sales/3908008463/", text: "Buy a ticket"}
