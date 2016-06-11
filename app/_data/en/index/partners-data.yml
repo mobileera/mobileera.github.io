@@ -1,16 +1,8 @@
 -
-  group: "General sponsor"
-  elements:
--
-  group: "Gold sponsors"
-  elements:
--
   group: "Silver sponsors"
   elements:
+    - {name: "RedHat", description: "", link: "http://redhat.com", imageUrl: "Logo_RH_RGB_Default.svg"}
 -
-  group: "Bronze sponsors"
-  elements:
--
-  group: "Information partners"
+  group: "Media partners"
   elements:
     - {name: "Mobile Meetup Oslo", description: "Mobile Meetup Oslo", link: "http://meetup.com/Mobile-Meetup-Oslo", imageUrl: "Mobile_Meetup_Oslo.svg"}

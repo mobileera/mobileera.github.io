@@ -1,12 +1,18 @@
 title: "Buy a ticket"
-info: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+info: "<p><b>We ♥ early adopters.</b></p>
+
+<p>Get two days of excellent talks on mobile development and the conference party for an extremely good price. We are selling the first batch of tickets for only kr 1800. As we are still working on the program, we call these tickets Blind Bird.</p>
+
+<p>Act now - when the 50 Blind Bird tickets are sold out, the price will go up with about <b>50%.</b></p>
+
+<p>Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price.</p><br />"
 offers:
  -
   name: "Blind Bird"
   price: "1800"
   priceCurrency: "NOK"
   ticketsNumber: "50"
-  ribbon: "Smart!"
+  ribbon: "-50%"
   buyButtonLink: "https://mobileera.hoopla.no/sales/3908008463/"
   buyButtonText: "Buy Now"
   ticketContentList: []
