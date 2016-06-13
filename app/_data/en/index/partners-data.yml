@@ -1,5 +1,5 @@
 -
-  group: "Silver sponsors"
+  group: "Sponsors"
   elements:
     - {name: "RedHat", description: "", link: "http://redhat.com", imageUrl: "Logo_RH_RGB_Default.svg"}
 -

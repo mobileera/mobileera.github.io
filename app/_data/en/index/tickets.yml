@@ -12,7 +12,7 @@ offers:
   price: "1800"
   priceCurrency: "NOK"
   ticketsNumber: "50"
-  ribbon: "-50%"
+  ribbon: "Smart"
   buyButtonLink: "https://mobileera.hoopla.no/sales/3908008463/"
   buyButtonText: "Buy Now"
   ticketContentList: []
