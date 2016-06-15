@@ -81,7 +81,7 @@
     attributeName="cx"
     values="23;26;23;22;23"
     dur="2s"
-    begin="3s"
+    begin="0s"
     fill="freeze"
 		repeatCount="indefinite"
 		/>
@@ -89,7 +89,7 @@
      attributeName="cy"
      values="146;145;146;147;146"
      dur="2s"
-     begin="3s"
+     begin="0s"
      fill="freeze"
  		repeatCount="indefinite"
  		/>
@@ -99,7 +99,7 @@
      attributeName="cx"
      values="35;32;35;38;35"
      dur="2s"
-     begin="3s"
+     begin="0s"
      fill="freeze"
  		repeatCount="indefinite"
  		/>
@@ -107,7 +107,7 @@
       attributeName="cy"
       values="169;170;169;168;169"
       dur="2s"
-      begin="3s"
+      begin="0s"
       fill="freeze"
   		repeatCount="indefinite"
   		/>
@@ -117,7 +117,7 @@
 		 	attributeName="cx"
 		 	values="17;16;17;20;17"
 		 	dur="2s"
-		 	begin="3.5s"
+		 	begin="0.5s"
 		 	fill="freeze"
 		  repeatCount="indefinite"
 		  />
@@ -125,7 +125,7 @@
 		 	 attributeName="cy"
 		 	 values="158;156;158;160;158"
 		 	 dur="2s"
-		 	 begin="3.5s"
+		 	 begin="0.5s"
 		 	 fill="freeze"
 		 	 repeatCount="indefinite"
 		 	 />
@@ -136,7 +136,7 @@
 		attributeName="cx"
 		values="45;46;45;43;45"
 		dur="2s"
-		begin="3.5s"
+		begin="0.5s"
 		fill="freeze"
 		repeatCount="indefinite"
 		/>
@@ -144,7 +144,7 @@
 		 attributeName="cy"
 		 values="153;155;153;152;153"
 		 dur="2s"
-		 begin="3.5s"
+		 begin="0.5s"
 		 fill="freeze"
 		 repeatCount="indefinite"
 		 />
