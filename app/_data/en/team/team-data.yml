@@ -6,8 +6,8 @@
   thumbnailUrl: JohannesBrodwall.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/jhannes", description: "Johannes' Twitter profile" }
-    - {name: "github", link: "https://github.com/jhannes", description: "Johannes' Github profile" }
+    - {name: "twitter", link: "https://twitter.com/jhannes", description: "Twitter" }
+    - {name: "github", link: "https://github.com/jhannes", description: "GitHub" }
 -
   id: 1
   name: "Maxim"
@@ -16,15 +16,8 @@
   thumbnailUrl: MaximSalnikov.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/webmaxru", description: "Maxim's Twitter profile" }
-    - {name: "github", link: "https://github.com/webmaxru", description: "Maxim's github profile" }
--
-  id: 2
-  name: "Bjørn"
-  surname: "Sloth"
-  title: "Sponsors Manager"
-  thumbnailUrl: anonymous.png
-  team: null
+    - {name: "twitter", link: "https://twitter.com/webmaxru", description: "Twitter" }
+    - {name: "github", link: "https://github.com/webmaxru", description: "GitHub" }
 
 -
   id: 4
@@ -33,6 +26,9 @@
   title: "Venue Manager"
   thumbnailUrl: OivindJorfald.jpg
   team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/otjorfald", description: "Twitter" }
+    - {name: "email", link: "mailto:oj@mobileera.rocks ", description: "Email" }
 
 -
   id: 7
@@ -42,9 +38,9 @@
   thumbnailUrl: HampusNilsson.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/hjnilsson", description: "Hampus' Twitter profile" }
-    - {name: "github", link: "https://github.com/hjnilsson", description: "Hampus' Github profile" }
-    - {name: "site", link: "https://hjnilsson.com", description: "Hampus' website" }
+    - {name: "twitter", link: "https://twitter.com/hjnilsson", description: "Twitter" }
+    - {name: "github", link: "https://github.com/hjnilsson", description: "GitHub" }
+    - {name: "site", link: "https://hjnilsson.com", description: "Website" }
 
 -
   id: 8
@@ -54,4 +50,5 @@
   thumbnailUrl: KonstantinKoval.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/kkoval", description: "Konstantin's Twitter profile"}
+    - {name: "twitter", link: "https://twitter.com/KostiaKoval", description: "Twitter"}
+    - {name: "github", link: "http://kostiakoval.github.io/", description: "GitHub" }

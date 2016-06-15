@@ -1,5 +1,7 @@
 <!-- Begin Speakers List-->
 <section id="speakers" class="speakers">
+
+  {% if site.data.[site.lang].speakers.speakers.fallback == null %}
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row text-left appear-animation-trigger">
@@ -30,15 +32,15 @@
                         <div class="lily-bottom">
                             <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
-                                {% if site.data.[site.lang].speakers.speakers.showSessions %} 
-                                    {% for session in site.data.[site.lang].schedule.sessions-data %} 
-                                        {% for session_speaker in session.speakers %} 
+                                {% if site.data.[site.lang].speakers.speakers.showSessions %}
+                                    {% for session in site.data.[site.lang].schedule.sessions-data %}
+                                        {% for session_speaker in session.speakers %}
                                             {% if session_speaker == speaker.id %}
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
                                                 <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
-                                            {% endif %} 
-                                        {% endfor %} 
-                                    {% endfor %} 
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endfor %}
                                 {% else %}
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
@@ -49,9 +51,15 @@
                     </div>
                 </div>
                 {% endfor %}
-            </div> 
-            <a href="{{ site.data.[site.lang].general.basic.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ site.data.[site.lang].general.basic.c4pButton }}</a>     
+            </div>
+            <a href="{{ site.data.[site.lang].general.basic.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ site.data.[site.lang].general.basic.c4pButton }}</a>
         </div>
     </div>
+
+    {% endif %}
+
+    {% if site.data.[site.lang].speakers.speakers.fallback != null %}
+      <p>{{ site.data.[site.lang].speakers.speakers.fallback }}</p>
+    {% endif %}
 </section>
 <!-- End Speakers List -->
