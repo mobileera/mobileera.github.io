@@ -17,49 +17,53 @@
         {% endfor %}
     </div>
 
-	<div class="row">
-		<div class="pull-left col-md-6 col-xs-6">
-			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="{{ site.url }}"></div>
-		</div>
-		<div class="logo logo-footer logo-gray pull-right"></div>
-	</div>
+    <div class="row">
+        <div class="pull-left col-md-6 col-xs-6">
+            <div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="{{ site.url }}"></div>
+        </div>
+        <div class="logo logo-footer logo-gray pull-right"></div>
+    </div>
 
-	<div class="row">
-		{% for block in site.data.[site.lang].general.footer.blocks %}
-        {% assign colCount = forloop.length | plus: 1 %}
-        {% assign colWidth = 12 | divided_by: colCount %}
-		<div class="col-md-{{ colWidth }} col-xs-12">
-			<h5>{{ block.title }}</h5>
-			<ul>
-				{% for linkElement in block.links %}
-				<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
-				{% endfor %}
-			</ul>
-		</div>
-		{% endfor %}
-		<div class="col-md-{{ colWidth }} col-xs-12">
-			<h5>{{ site.data.[site.lang].general.footer.socialTitle }}</h5>
-			<ul class="social-links">
-				{% for social in site.data.[site.lang].general.footer.socialLinks %}
-				<li>
-					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
-						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
-							<use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
-						</svg>
-					</a>
-				</li>
-				{% endfor %}
-			</ul>
-		</div>
-	</div>
-	<div class="row">
-		<!-- Please don't delete this line-->
-		<div class="col-md-6">
-			<p class="copyright">
-				&copy; 2016 Mobile Era Conference. Reg.nr. <a href='https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917217025'>917217025</a><br />
-				<small>The website is based on <a href="https://github.com/gdg-x/zeppelin-grunt" target="_blank">Project Zeppelin-Grunt</a>. Photo: VISITOSLO/Jonas Anhede.</small>
-			</p>
-		</div>
-	</div>
+    <div class="row">
+        {% for block in site.data.[site.lang].general.footer.blocks %}
+            {% assign colCount = forloop.length | plus : 1 %}
+            {% assign colWidth = 12 | divided_by : colCount %}
+            <div class="col-md-{{ colWidth }} col-xs-12">
+                <h5>{{ block.title }}</h5>
+                <ul>
+                    {% for linkElement in block.links %}
+                        <li>
+                            <a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %} target="_blank" {% endif %}>{{ linkElement.text }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        {% endfor %}
+        <div class="col-md-{{ colWidth }} col-xs-12">
+            <h5>{{ site.data.[site.lang].general.footer.socialTitle }}</h5>
+            <ul class="social-links">
+                {% for social in site.data.[site.lang].general.footer.socialLinks %}
+                    <li>
+                        <a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
+                            <svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
+                                <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
+                            </svg>
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <!-- Please don't delete this line-->
+        <div class="col-md-6">
+            <p class="copyright">
+                &copy; 2016 Mobile Era Conference. Reg.nr.
+                <a href='https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917217025'>917217025</a><br/>
+                <small>The website is based on
+                    <a href="https://github.com/gdg-x/zeppelin-grunt" target="_blank">Project Zeppelin-Grunt</a>. Photo: VISITOSLO/Jonas Anhede.</small>
+            </p>
+        </div>
+    </div>
 </footer>
 <!-- End Footer -->

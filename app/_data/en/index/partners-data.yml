@@ -1,11 +1,14 @@
--
-  group: "Sponsored by"
-  elements:
-    - {name: "RedHat", description: "", link: "http://redhat.com", imageUrl: "Logo_RH_RGB_Default.svg"}
-    - {name: "Bekk", description: "", link: "http://bekk.no", imageUrl: "bekk.svg"}
-    - {name: "Sopra Steria", description: "", link: "http://www.soprasteria.no", imageUrl: "soprasteria.png"}
-    - {name: "Shortcut", description: "", link: "https://www.shortcut.no/", imageUrl: "shortcut.png"}
--
-  group: "Media partners"
-  elements:
-    - {name: "Mobile Meetup Oslo", description: "Mobile Meetup Oslo", link: "http://meetup.com/Mobile-Meetup-Oslo", imageUrl: "Mobile_Meetup_Oslo.svg"}
+sponsors:
+  -
+    title: ""
+    elements:
+      - {name: "RedHat", description: "", link: "http://redhat.com", imageUrl: "Logo_RH_RGB_Default.svg"}
+      - {name: "BEKK", description: "", link: "http://bekk.no/", imageUrl: "BEKK_Logo_RGB.svg"}
+      - {name: "Sopra Steria", description: "", link: "http://www.soprasteria.no/", imageUrl: "SOPRASTERIA_logo_CMYK_exe.svg"}
+      - {name: "Shortcut", description: "", link: "https://www.shortcut.no/", imageUrl: "Shortcut-Logo_Dark_Type_Mark_Centered.svg"}
+
+companions:
+  -
+    title: "Media partners"
+    elements:
+      - {name: "AppAcademy", description: "Norway’s leading knowledge arena within Apps and Mobile 2.0", link: "https://www.facebook.com/AppAcademyNo/", imageUrl: "appacademy.png"}
