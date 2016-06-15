@@ -5,9 +5,12 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 blocks:
  -
-  title: "Links"
+  title: "In partnership with"
   links:
    - {link: "http://meetup.com/Mobile-Meetup-Oslo", text: "Mobile Meetup Oslo"}
+   - {link: "http://www.meetup.com/CocoaHeads-Oslo/", text: "CocoaHeads Oslo"}
+   - {link: "http://www.meetup.com/GDGOslo/", text: "Google Developers Group Oslo"}
+   - {link: "http://www.dataforeningen.no/", text: "Den Norske Dataforening"}
  -
   title: "Contacts"
   links:
