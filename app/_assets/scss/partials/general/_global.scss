@@ -45,8 +45,12 @@ a {
         text-decoration: none;
     }
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
     font-weight: $light;
+    display: block;
+}
+h4, h5, h6 {
+    font-weight: $regular;
     display: block;
 }
 h1 {

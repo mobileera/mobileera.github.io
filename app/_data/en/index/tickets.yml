@@ -1,12 +1,13 @@
 title: "Buy a ticket"
-info: "<p><b>We ♥ early adopters.</b></p>
+info: "<h5>We ♥ early adopters.</h5>
 
 <p>Get two days of excellent talks on mobile development and the conference party for an extremely good price. We are selling the first batch of tickets for only kr 1800. As we are still working on the program, we call these tickets Blind Bird.</p>
 
 <p>Act now - when the 50 Blind Bird tickets are sold out, the price will go up with about <b>50%.</b></p>
 
-<p>Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price.</p><br />"
+<p>Accommodation is NOT included in the ticket price.</p><br /><br />"
 offers:
+
  -
   name: "Blind Bird"
   price: "1800"
@@ -15,7 +16,32 @@ offers:
   ribbon: "Smart"
   buyButtonLink: "https://mobileera.hoopla.no/sales/3908008463/"
   buyButtonText: "Buy Now"
-  ticketContentList: []
+  ticketContentList: ["Access to all conference sections", "Coffee brakes", "Lunch both days", "Party"]
   validFrom: "2016-06-10T00:01"
-  validThrough: "2016-07-10T23:59"
+  validThrough: "2016-06-30T23:59"
   info: "Only 50 tickets"
+  featured: true
+ -
+  name: "Early Bird"
+  price: "2900"
+  priceCurrency: "NOK"
+  ticketsNumber: "50"
+  buyButtonLink: "https://mobileera.hoopla.no/sales/3908008463/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Access to all conference sections", "Coffee brakes", "Lunch both days", "Party"]
+  validFrom: "2016-07-01T00:01"
+  validThrough: "2016-09-30T23:59"
+  disabled: true
+  fallback: "Sales will begin on 1 July 2016"
+ -
+  name: "Late Bird"
+  price: "3900"
+  priceCurrency: "NOK"
+  ticketsNumber: "50"
+  buyButtonLink: "https://mobileera.hoopla.no/sales/3908008463/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Access to all conference sections", "Coffee brakes", "Lunch both days", "Party"]
+  validFrom: "2016-10-01T00:01"
+  validThrough: "2016-11-04T23:59"
+  disabled: true
+  fallback: "Sales will begin on 1 October 2016"

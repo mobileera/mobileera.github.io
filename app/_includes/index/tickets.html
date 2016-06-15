@@ -11,7 +11,15 @@
 	            	{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
 					<div class="pricing-header">
 						<p class="title">{{ ticketsOffer.name }}</p>
-						<p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
+						<p class="price">
+							{{ ticketsOffer.price }}
+							<span class="currency">{{ ticketsOffer.priceCurrency }}</span>
+
+						{% if ticketsOffer.info != null %}
+						<br /><span class="info">{{ ticketsOffer.info }}</span>
+						{% endif %}
+
+					  </p>
 					</div>
 					<div class="pricing-content">
 						<ul>
