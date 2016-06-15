@@ -8,6 +8,24 @@ $footer-links-color: #8b8b8b;
     @media (max-width: 767px) {
         padding: 26px 20px 13px;
     }
+    .sponsors {
+        margin-bottom: 2em;
+
+        .sponsor {
+            height: 100px;
+            display: flex;
+
+            > a {
+                display: flex;
+                flex: 1 1 auto;
+                align-items: center;
+            }
+            
+            img {
+                max-width: 100%;
+            }
+        }
+    }
     h5 {
         font-size: 18px;
     }

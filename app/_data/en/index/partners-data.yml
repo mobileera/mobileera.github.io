@@ -1,7 +1,10 @@
 -
-  group: "Sponsors"
+  group: "Sponsored by"
   elements:
     - {name: "RedHat", description: "", link: "http://redhat.com", imageUrl: "Logo_RH_RGB_Default.svg"}
+    - {name: "Bekk", description: "", link: "http://bekk.no", imageUrl: "bekk.svg"}
+    - {name: "Sopra Steria", description: "", link: "http://www.soprasteria.no", imageUrl: "soprasteria.png"}
+    - {name: "Shortcut", description: "", link: "https://www.shortcut.no/", imageUrl: "shortcut.png"}
 -
   group: "Media partners"
   elements:

@@ -1,19 +1,19 @@
 <!-- Begin Footer -->
 <footer id="footer" class="footer">
-    <div class="row">
-        <div class="col-md-4 col-sm-3 col-xs-2"></div> <!-- remove this when we get more sponsors -->
-        <div class="col-xs-9 col-sm-6">
-            <h5>Sponsored by</h5>
-        </div>
-        <div class="col-md-4 col-sm-3 col-xs-2"></div> <!-- remove this when we get more sponsors -->
+    <div class="row sponsors">
         {% for partner in site.data.[site.lang].index.partners-data %}
-        <div class="col-md-2 col-sm-3 col-xs-4">
-            {% for element in partner.elements %}
-            <a href="{{ element.link }}" target="_blank">
-                <img src="{{ site.baseurl_root }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-            </a>
-            {% endfor %}
+        {% if partner.group == 'Sponsored by' %}
+        <div class="col-xs-12">
+            <h5>{{ partner.group }}</h5>
         </div>
+        {% for element in partner.elements %}
+        <div class="col-md-2 col-sm-3 col-xs-6 sponsor">
+	        <a href="{{ element.link }}" target="_blank">
+	            <img src="{{ site.baseurl_root }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+	        </a>
+        </div>
+        {% endfor %}
+        {% endif %}
         {% endfor %}
     </div>
 
