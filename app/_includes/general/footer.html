@@ -1,8 +1,7 @@
 <!-- Begin Footer -->
 <footer id="footer" class="footer">
     <div class="row sponsors">
-        {% for partner in site.data.[site.lang].index.partners-data %}
-        {% if partner.group == 'Sponsored by' %}
+        {% for partner in site.data.[site.lang].index.partners-data.sponsors %}
         <div class="col-xs-12">
             <h5>{{ partner.group }}</h5>
         </div>
@@ -13,7 +12,6 @@
 	        </a>
         </div>
         {% endfor %}
-        {% endif %}
         {% endfor %}
     </div>
 
