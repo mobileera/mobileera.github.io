@@ -7,9 +7,12 @@ links:
  -
    subText: "Social"
    links:
-    - {link: "https://twitter.com/intent/user?screen_name=mobileeraconf", text: "Twitter: @mobileeraconf"}
+    - {link: "https://twitter.com/mobileeraconf", text: "Twitter: @mobileeraconf"}
     - {link: "https://facebook.com/mobileeraconf", text: "Facebook: Mobile Era Conf"}
+    - {link: "https://linkedin.com/company/mobile-era-conference/", text: "LinkedIn: Mobile Era Conference"}
 bottomLinks:
+ - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket"}
  - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
 rightButtons:
+ - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: "Discounted"}
  - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}

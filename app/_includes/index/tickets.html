@@ -14,6 +14,9 @@
 						<p class="price">
 							{{ ticketsOffer.price }}
 							<span class="currency">{{ ticketsOffer.priceCurrency }}</span>
+							{% if ticketsOffer.badge != null %}
+	            <span class="badge">{{ ticketsOffer.badge }}</span>
+	            {% endif %}
 
 						{% if ticketsOffer.info != null %}
 						<br /><span class="info">{{ ticketsOffer.info }}</span>

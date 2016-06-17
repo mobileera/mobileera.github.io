@@ -46,6 +46,9 @@
         {% for rightNavigationButton in site.data.[site.lang].general.navigation.rightButtons %}
         <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
             {{ rightNavigationButton.text }}
+            {% if rightNavigationButton.badge != null %}
+            <span class="badge">{{ rightNavigationButton.badge }}</span>
+            {% endif %}
         </a>
         {% endfor %}
     </nav>

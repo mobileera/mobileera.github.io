@@ -34,7 +34,7 @@
   id: 7
   name: "Hampus"
   surname: "Nilsson"
-  title: "Speakers Manager"
+  title: "Program Manager"
   thumbnailUrl: HampusNilsson.jpg
   team: true
   social:
@@ -46,7 +46,7 @@
   id: 8
   name: "Konstantin"
   surname: "Koval"
-  title: "iOS Committee Leader"
+  title: "Speakers manager"
   thumbnailUrl: KonstantinKoval.jpg
   team: true
   social:

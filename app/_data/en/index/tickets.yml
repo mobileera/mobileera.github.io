@@ -14,19 +14,20 @@ offers:
   priceCurrency: "NOK"
   ticketsNumber: "50"
   ribbon: "Smart"
-  buyButtonLink: "https://mobileera.hoopla.no/sales/3908008463/"
+  buyButtonLink: "http://tickets.mobileera.rocks"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all conference sections", "Coffee brakes", "Lunch both days", "Party"]
   validFrom: "2016-06-10T00:01"
   validThrough: "2016-06-30T23:59"
   info: "Only 50 tickets"
   featured: true
+  badge: "≈ €190"
  -
   name: "Early Bird"
   price: "2900"
   priceCurrency: "NOK"
   ticketsNumber: "50"
-  buyButtonLink: "https://mobileera.hoopla.no/sales/3908008463/"
+  buyButtonLink: "http://tickets.mobileera.rocks"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all conference sections", "Coffee brakes", "Lunch both days", "Party"]
   validFrom: "2016-07-01T00:01"
@@ -38,7 +39,7 @@ offers:
   price: "3900"
   priceCurrency: "NOK"
   ticketsNumber: "50"
-  buyButtonLink: "https://mobileera.hoopla.no/sales/3908008463/"
+  buyButtonLink: "http://tickets.mobileera.rocks"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all conference sections", "Coffee brakes", "Lunch both days", "Party"]
   validFrom: "2016-10-01T00:01"

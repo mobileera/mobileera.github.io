@@ -166,75 +166,75 @@ time {
 @keyframes base {
     0% {
         transform: rotate(0deg);
-        background-color: #21aa29;
+        background-color: #00AFCD;
     }
     25% {
         transform: rotate(90deg);
-        background-color: #2159d6;
+        background-color: #006D7F;
     }
     50% {
         transform: rotate(180deg);
-        background-color: #d62408;
+        background-color: #00C4E5;
     }
     75% {
         transform: rotate(270deg);
-        background-color: #ffcf00;
+        background-color: #00DAFF;
     }
     100% {
         transform: rotate(360deg);
-        background-color: #21aa29;
+        background-color: #00AFCD;
     }
 }
 @keyframes reveal {
     0% {
-        background-color: #2159d6;
+        background-color: #006D7F;
         transform: rotate(0deg);
     }
     25% {
-        background-color: #d62408;
+        background-color: #00C4E5;
         transform: rotate(180deg);
     }
     50% {
-        background-color: #ffcf00;
+        background-color: #00DAFF;
         transform: rotate(0deg);
     }
     75% {
-        background-color: #21aa29;
+        background-color: #00AFCD;
         transform: rotate(180deg);
     }
     100% {
-        background-color: #2159d6;
+        background-color: #006D7F;
         transform: rotate(0deg);
     }
 }
 @keyframes flip {
     0% {
-        background-color: #21aa29;
+        background-color: #00AFCD;
         transform: rotateY(0deg);
     }
     12.5%, 87.56% {
-        background-color: #105514;
+        background-color: #006D7F;
     }
     12.51%, 37.5% {
-        background-color: #102c6b;
+        background-color: #003640;
     }
     25% {
-        background-color: #2159d6;
+        background-color: #006D7F;
     }
     37.51%, 62.5% {
-        background-color: #6b1204;
+        background-color: #00AFCD;
     }
     50% {
-        background-color: #d62408;
+        background-color: #00C4E5;
     }
     62.51%, 87.5% {
-        background-color: #7f6700;
+        background-color: #00C4E5;
     }
     75%, 78% {
-        background-color: #ffcf00;
+        background-color: #00DAFF;
     }
     100% {
-        background-color: #21aa29;
+        background-color: #00AFCD;
         transform: rotateY(-720deg);
     }
 }
