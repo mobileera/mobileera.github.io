@@ -18,6 +18,7 @@ offers:
  -
   name: "Bronze"
   price: "20.000"
+  badge: "≈ €2100"
   ticketContentList: ["Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "1 free ticket"]
   color: "#DAA86D"
   priceCurrency: "NOK"
@@ -28,6 +29,7 @@ offers:
  -
   name: "Silver"
   price: "30.000"
+  badge: "≈ €3200"
   ticketContentList: ["<strong>The option of a roll-up <small>(100cm)</small> with bar table in the venue</strong>", "Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "2 free tickets", "More prominent logo placement"]
   color: "#BFBFBF"
   priceCurrency: "NOK"
@@ -37,6 +39,7 @@ offers:
  -
   name: "Gold"
   price: "50.000"
+  badge: "≈ €5300"
   ticketContentList: ["<strong>The option of a booth in the venue</strong>", "Logo on web site and printed material", "Mentions on social media", "Logo on screen during breaks", "Mention in opening and closing talks", "4 free tickets", "Even more prominent logo placement"]
   color: "#F0DE88"
   priceCurrency: "NOK"

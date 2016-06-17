@@ -10,7 +10,13 @@
 	            	{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
 					<div class="pricing-header" style="background-color: {{ ticketsOffer.color }}">
 						<p class="title">{{ ticketsOffer.name }}</p>
-						<p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
+						<p class="price">
+							{{ ticketsOffer.price }}
+							<span class="currency">{{ ticketsOffer.priceCurrency }}</span>
+							{% if ticketsOffer.badge != null %}
+	            <span class="badge">{{ ticketsOffer.badge }}</span>
+	            {% endif %}
+						</p>
 					</div><div class="pricing-content">
 						<ul>
 							{% for listItem in ticketsOffer.ticketContentList %}

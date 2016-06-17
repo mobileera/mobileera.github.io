@@ -14,5 +14,5 @@ bottomLinks:
  - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket"}
  - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
 rightButtons:
- - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: "Discounted"}
+ - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: "Save 1000+ kr"}
  - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
