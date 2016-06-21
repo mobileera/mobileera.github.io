@@ -16,7 +16,7 @@ offers:
   ribbon: "Smart"
   buyButtonLink: "http://tickets.mobileera.rocks"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all conference sections", "Coffee brakes", "Lunch both days", "Party"]
+  ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
   validFrom: "2016-06-10T00:01"
   validThrough: "2016-06-30T23:59"
   info: "Only 50 tickets"
@@ -29,7 +29,7 @@ offers:
   ticketsNumber: "50"
   buyButtonLink: "http://tickets.mobileera.rocks"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all conference sections", "Coffee brakes", "Lunch both days", "Party"]
+  ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
   validFrom: "2016-07-01T00:01"
   validThrough: "2016-09-30T23:59"
   disabled: true
@@ -41,7 +41,7 @@ offers:
   ticketsNumber: "50"
   buyButtonLink: "http://tickets.mobileera.rocks"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all conference sections", "Coffee brakes", "Lunch both days", "Party"]
+  ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
   validFrom: "2016-10-01T00:01"
   validThrough: "2016-11-04T23:59"
   disabled: true
