@@ -12,6 +12,8 @@ sponsors:
       - {name: "Shortcut", description: "", link: "https://www.shortcut.no/", imageUrl: "Shortcut-Logo_Dark_Type_Mark_Centered.svg"}
       - {name: "BEKK", description: "", link: "http://bekk.no/", imageUrl: "BEKK_Logo_RGB.svg"}
 
+      - {name: "Knowit", description: "", link: "http://knowit.no/", imageUrl: "knowit.svg"}
+
 companions:
   -
     title: "Media partners"
