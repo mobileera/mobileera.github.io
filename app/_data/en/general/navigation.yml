@@ -1,6 +1,7 @@
 links:
  - {permalink: "/", text: "Home"}
- - {permalink: "/call-for-papers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/call-for-papers/", text: "Call for papers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/team/", text: "Team"}

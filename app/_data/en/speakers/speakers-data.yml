@@ -1,67 +1,88 @@
 -
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: false
+  id: 1
+  name: "Vitaly"
+  surname: "Friedman"
+  company: "Smashing Magazine"
+  title: "Editor-in-Chief"
+  bio: 'Vitaly Friedman loves beautiful content and does not give up easily. From Minsk in Belarus, he studied computer science and mathematics in Germany, discovered the passage a passion for typography, writing and design. After working as a freelance designer and developer for 6 years, he co-founded <a href="http://smashingmagazine.com/">Smashing Magazine</a>, a leading online magazine dedicated to design and web development. Vitaly is the author, co-author and editor of all <a href="https://shop.smashingmagazine.com">Smashing books</a>. He currently works as editor-in-chief of Smashing Magazine in the lovely city of Vilnius, Lithuania.'
+  thumbnailUrl: VitalyFriedman.jpg
+  rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "twitter", link: "https://twitter.com/smashingmag"}
+-
+  id: 2
+  name: "John"
+  surname: "Sundell"
+  company: "Spotify"
+  title: "iOS team lead"
+  bio: "John has been developing apps & games for iOS since the early days of the SDK. These days, he's working as a lead iOS developer at Spotify - where he is both writing a lot of code - but also leading the development of the company's component-driven UI framework. John is also a huge fan of Swift, doing a lot of open source work (for example the Unbox & Wrap JSON tools) and making games using it."
+  thumbnailUrl: JohnSundell.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/johnsundell"}
+-
+  id: 3
+  name: "Wei-Meng"
+  surname: "Lee"
+  company: ""
+  title: "iOS and Android Instructor and author of Android Application Development Cookbook and many more books"
+  bio: 'Wei-Meng Lee is a technologist and founder of <a href="http://www.learn2develop.net">Developer Learning Solutions</a>, a technology company specializing in hands-on training on the latest mobile technologies. Wei-Meng has many years of training experiences and his training courses place special emphasis on the learning-by-doing approach. His hands-on approach to learning programming makes understanding the subject much easier than reading books, tutorials, and documentations. His name regularly appears in online and print publications such as DevX.com, MobiForge.com, and CoDe Magazine.'
+  thumbnailUrl: Wei-MengLee.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/weimenglee"}
 -
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: false
+  name: "Konstantin"
+  surname: "Koval"
+  company: "Agens"
+  title: "Author of Swift High Performance book"
+  bio: ''
+  thumbnailUrl: KonstantinKoval.jpg
+  rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/KostiaKoval"}
 -
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  name: "Michael"
+  surname: "May"
+  company: ""
+  title: ""
+  bio: ''
+  thumbnailUrl: MichaelMay.jpg
+  rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "twitter", link: "https://twitter.com/CoderMay"}
 -
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  name: "Orta"
+  surname: "Therox"
+  company: ""
+  title: ""
+  bio: ''
+  thumbnailUrl: OrtaTherox.jpg
+  rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "twitter", link: "https://twitter.com/orta"}
 -
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  name: "Alexsander"
+  surname: "Akers"
+  company: ""
+  title: ""
+  bio: ''
+  thumbnailUrl: AlexsanderAkers.jpg
+  rockstar: true
   social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/a2"}
+-
+  id: 8
+  name: "Christoffer"
+  surname: "Marcussen"
+  company: ""
+  title: ""
+  bio: 'I am a developer at BEKK, where I have been involved in several app projects for customers. I am also the practice lead for BEKKs mobile technologies competency group, where I lead a group of 11 developers.'
+  thumbnailUrl: ChristofferMarcussen.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/chrjmarcussen"}
