@@ -12,14 +12,9 @@
                             <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl_root | append: '/img/people/' | append: speaker.thumbnailUrl }})">
                                 <div class="overlay solid-overlay"></div>
                                 {% if speaker.ribbon != null %}
-                                <ul class="ribbon-wrapper">
-                                    {% for ribbon in speaker.ribbon %}
-                                    <li class="{{ ribbon["abbr"] | downcase }}">
-                                        <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
-                                        <p class="ribbon full-title">{{ ribbon["title"] }}</p>
-                                    </li>
-                                    {% endfor %}
-                                </ul>
+                                <div class="badge">
+                                    {{ speaker.ribbon }}
+                                </div>
                                 {% endif %}
                                 {% if site.data.[site.lang].speakers.speakers.showSessions %}
                                 <figcaption>
