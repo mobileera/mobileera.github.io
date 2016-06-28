@@ -13,6 +13,7 @@ sponsors:
       - {name: "BEKK", description: "", link: "http://bekk.no/", imageUrl: "BEKK_Logo_RGB.svg"}
 
       - {name: "Knowit", description: "", link: "http://knowit.no/", imageUrl: "knowit.svg"}
+      - {name: "Webstep", description: "", link: "http://webstep.no/", imageUrl: "webstep.png"}
 
 companions:
   -
