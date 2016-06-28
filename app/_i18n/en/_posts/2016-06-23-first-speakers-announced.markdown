@@ -13,6 +13,6 @@ Mobile Era is proud to announce the first part of our speaker lineup. Here are s
 * [Michael May](https://twitter.com/CoderMay)
 * [Orta Therox](https://twitter.com/orta)
 * [Alexsander Akers](https://twitter.com/a2)
-* Android bootcamp workshop with [Christoffer Marcussen](https://twitter.com/@chrjmarcussen)
+* Android bootcamp workshop with [Christoffer Marcussen](https://twitter.com/@chrjmarcussen) and [Sindre Nordbø](https://twitter.com/@sindrebn).
 
 We are looking forward to these and many more awesome speakers in November at Mobile Era.
