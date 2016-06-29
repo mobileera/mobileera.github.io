@@ -13,10 +13,12 @@ sponsors:
       - {name: "BEKK", description: "", link: "http://bekk.no/", imageUrl: "BEKK_Logo_RGB.svg"}
 
       - {name: "Knowit", description: "", link: "http://knowit.no/", imageUrl: "knowit.svg"}
-      - {name: "Webstep", description: "", link: "http://webstep.no/", imageUrl: "webstep.png"}
+      - {name: "Webstep", description: "", link: "http://webstep.no/", imageUrl: "webstep.svg"}
+      - {name: "Agens", description: "", link: "http://agens.no/", imageUrl: "agens.png"}
 
 companions:
   -
     title: "Media partners"
     elements:
       - {name: "AppAcademy", description: "Norway’s leading knowledge arena within Apps and Mobile 2.0", link: "https://www.facebook.com/AppAcademyNo/", imageUrl: "appacademy.png"}
+      - {name: "DrinkEntrepreneurs Oslo", description: "The global and monthly social event for entrepreneurs to exchange, meet and help their peers around a drink!", link: "https://www.facebook.com/DrinkEntrepreneursOslo/", imageUrl: "drinkentrepreneurs.png"}

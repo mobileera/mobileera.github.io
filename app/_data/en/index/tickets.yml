@@ -9,11 +9,11 @@ info: "<h5>We ♥ early adopters.</h5>
 offers:
 
  -
-  name: "Blind Bird"
+  name: "<span style='text-decoration: line-through'>Blind</span> Smart Bird"
   price: "1800"
   priceCurrency: "NOK"
   ticketsNumber: "50"
-  ribbon: "Smart"
+  ribbon: "-1100kr"
   buyButtonLink: "http://tickets.mobileera.rocks"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
