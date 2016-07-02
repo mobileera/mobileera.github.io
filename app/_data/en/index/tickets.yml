@@ -13,18 +13,17 @@ offers:
   price: "1800"
   priceCurrency: "NOK"
   ticketsNumber: "50"
-  ribbon: "-1100kr"
   buyButtonLink: "http://tickets.mobileera.rocks"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
   validFrom: "2016-06-10T00:01"
   validThrough: "2016-06-30T23:59"
-  info: "Only 50 tickets"
-  featured: true
-  badge: "≈ €190"
+  soldOut: true
+  soldOutText: "Sold out"
  -
   name: "Early Bird"
   price: "2900"
+  ribbon: "-1000 kr"
   priceCurrency: "NOK"
   ticketsNumber: "50"
   buyButtonLink: "http://tickets.mobileera.rocks"
@@ -32,8 +31,8 @@ offers:
   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
   validFrom: "2016-07-01T00:01"
   validThrough: "2016-09-30T23:59"
-  disabled: true
-  fallback: "Sales will begin on 1 July 2016"
+  badge: "≈ €300"
+  featured: true
  -
   name: "Late Bird"
   price: "3900"

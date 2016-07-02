@@ -5,4 +5,4 @@ typeoutTextValues: '"", "Oslo", "Norway", "Scandinavia"'
 typeoutFallback: "Oslo"
 buttons:
  - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
- - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: "Save 1000+ kr"}
+ - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: "Save 1000 kr"}
