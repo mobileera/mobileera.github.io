@@ -7,6 +7,7 @@ sponsors:
       - {name: "Sopra Steria", description: "", link: "http://www.soprasteria.no/", imageUrl: "SOPRASTERIA_logo_CMYK_exe.svg"}
 
       - {name: "Mesan", description: "", link: "http://www.mesan.no/", imageUrl: "Mesan_logo_EPS.svg"}
+      - {name: "Computas", description: "", link: "https://computas.com/", imageUrl: "computas.png"}
       - {name: "ProgramUtvikling", description: "", link: "http://programutvikling.no/", imageUrl: "programutvikling.png"}
 
       - {name: "Shortcut", description: "", link: "https://www.shortcut.no/", imageUrl: "Shortcut-Logo_Dark_Type_Mark_Centered.svg"}
