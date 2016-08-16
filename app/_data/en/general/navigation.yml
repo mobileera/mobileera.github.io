@@ -1,7 +1,6 @@
 links:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/call-for-papers/", text: "Call for papers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/team/", text: "Team"}
@@ -16,4 +15,3 @@ bottomLinks:
  - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
 rightButtons:
  - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: "Save 1000 kr"}
- - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
