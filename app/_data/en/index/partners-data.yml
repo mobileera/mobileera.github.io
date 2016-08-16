@@ -17,6 +17,8 @@ sponsors:
       - {name: "Webstep", description: "", link: "http://webstep.no/", imageUrl: "webstep.svg"}
       - {name: "Agens", description: "", link: "http://agens.no/", imageUrl: "agens.png"}
 
+      - {name: "Giant Leap Technologies", description: "", link: "http://www.giantleap.no/", imageUrl: "giantleap.svg"}
+
 companions:
   -
     title: "Media partners"
