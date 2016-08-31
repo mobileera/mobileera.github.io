@@ -1,10 +1,5 @@
-<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg">
  <metadata id="metadata8">image/svg+xml</metadata>
-
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="482" width="642" y="-1" x="-1"/>
- </g>
  <g>
   <title>Layer 1</title>
   <g id="g10" transform="matrix(0.9137382358312607,0,0,-0.9137382358312607,6.775271255540019,247.7379735481336) ">

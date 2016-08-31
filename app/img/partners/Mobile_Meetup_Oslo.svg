@@ -1,4 +1,4 @@
-<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg">
  <style type="text/css">.st0{fill:#203B52;}
 	.st1{fill:#079880;}
 	.st2{fill:#A22A9A;}
@@ -7,11 +7,6 @@
 	.st5{fill:#1477B2;}
 	.st6{fill:#0C8DD1;}
 	.st7{fill:#18405E;}</style>
-
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="482" width="642" y="-1" x="-1"/>
- </g>
  <g>
   <title>Layer 1</title>
   <g transform="matrix(5.676934201866146,0,0,-5.676934201866146,-63.17503922423499,227.5741001866973) " id="g10">
