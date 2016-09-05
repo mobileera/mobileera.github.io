@@ -15,6 +15,9 @@
 						{% if session.language != null %}
 						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
 						{% endif %}
+						{% if session.category != null %}
+						<span class="theme-metadata"><span class="caption">Category: </span>{{ session.category }}</span>
+						{% endif %}
 						{% if session.complexity != null %}
 						<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
 						{% endif %}
