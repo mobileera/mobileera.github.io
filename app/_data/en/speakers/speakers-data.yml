@@ -87,3 +87,189 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/chrjmarcussen"}
+-
+  id: 102
+  name: "Viraj"
+  surname: "Tank"
+  company: "Sociomantic Labs"
+  title: "Mobile team lead"
+  bio: 'I work at Sociomantic Labs, Berlin as Mobile team lead, developing our Android and iOS applications. I like discussing best practices to follow in mobile development. When not doing tech stuff, I usually go for a run or play Age of Empire-II.'
+  thumbnailUrl: VirajTank.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/viraj49"}
+-
+  id: 103
+  name: "Svetlana"
+  surname: "Isakova"
+  company: "JetBrains"
+  title: "Developer Advocate"
+  bio: 'Svetlana is a Developer Advocate at JetBrains. She's been working on the Kotlin language (http://kotlinlang.org/) since 2011. She is one of the authors of the "Kotlin in Action" book.'
+  thumbnailUrl: SvetlanaIsakova.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
+-
+  id: 104
+  name: "Huyen"
+  surname: "Tue Dao"
+  company: "Trello"
+  title: "Native Android/iOS Code Monkey"
+  bio: 'I am an Android developer and have been for 6 years. I am also a Google Developer Expert for Android and co-produce a YouTube channel centered around interviews with people in the Android community.'
+  thumbnailUrl: HuyenTueDao.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/queencodemonkey"}
+-
+  id: 105
+  name: "Syrine"
+  surname: "Trabelsi"
+  company: "Deezer"
+  title: "Developer"
+  bio: 'Syrine Trabelsi is a developer at deezer, the music streaming service. I'm a part of the user engagement team and works hard in order to make the overall music lovers experience smoother and more intuitive. I started my journey with android development back in 2010. My previous experiences include several startups in areas ranging from geolocalization to collaborative economies and video streaming.'
+  thumbnailUrl: SyrineTrabelsi.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/sarrouna23"}
+-
+  id: 106
+  name: "François"
+  surname: "Blavoet"
+  company: "Deezer"
+  title: "Developer"
+  bio: 'François Blavoet is a developer at Deezer, the music streaming service. There, he polishes pixels and try to make them run faster. He has been dabbling in Android since the Gingerbread days and has been working as an Android engineer for 3 years. He loves solving problems at the intersection of science, design and human behavior.'
+  thumbnailUrl: FrancoisBlavoet.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/francoisblavoet"}
+-
+  id: 107
+  name: "Erik"
+  surname: "Hellman"
+  company: "Hellsoft"
+  title: "Android developer"
+  bio: 'Freelancing Android developer from Sweden. Author of "Android Programming - Pushing the Limits" and frequent speaker at various developer conferences.'
+  thumbnailUrl: ErikHellman.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/ErikHellman"}
+-
+  id: 108
+  name: "Abraham"
+  surname: "Williams"
+  company: "Bendyworks"
+  title: "Developer and start-up founder"
+  bio: 'An experienced developer and start-up founder, Abraham Williams brings a broad range of skills to his current role as a senior developer at Bendyworks.  A top 1% contributor at Stack Overflow and an active member of Google Developer Groups, Abraham has been recognized by Google as a Developer Expert for his ability to identify technology problems and provide quality solutions in the community.'
+  thumbnailUrl: AbrahamWilliams.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/abraham"}
+-
+  id: 109
+  name: "Pavel"
+  surname: "Kurnosov"
+  company: "Your.MD"
+  title: "Head of development"
+  bio: 'I am head of development in Your.MD. Our main product is mobile application for Android and iOS that gives personalised health advice.'
+  thumbnailUrl: PavelKurnosov.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/pavel_kurnosov"}
+-
+  id: 110
+  name: "Jens Gorm"
+  surname: "Rye-Andersen"
+  company: "Sopra Steria"
+  title: "Lead Software Engineer and Mobile Business Developer"
+  bio: 'I work as a Lead Software Engineer and Mobile Business Developer, and have 10 years of experience in software development. I am also responsible for mobile technologies and the mobile community in Sopra Steria, and have developed a number of mobile apps - both native and hybrid.'
+  thumbnailUrl: JensGormRye-Andersen.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/jensgorm"}
+-
+  id: 111
+  name: "Karoline"
+  surname: "Klever"
+  company: "Microsoft"
+  title: "ALM Solution Specialist"
+  bio: 'I'm an ALM Solution Specialist at Microsoft, focusing on the tools and processes developers use to improve their software delivery pipeline. Having previously worked as a .NET developer and consultant, I have developed a passion for how developers work and why they make the choices they do. I continuously challenge myself and share my knowledge by blogging and speaking at user groups and conferences.'
+  thumbnailUrl: KarolineKlever.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/karolikl"}
+-
+  id: 112
+  name: "Sebastian"
+  surname: "Witalec"
+  company: "Telerik"
+  title: "Technical Evangelist"
+  bio: '"Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture. Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript (a member of the team). He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills)."'
+  thumbnailUrl: SebastianWitalec.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/sebawita"}
+-
+  id: 113
+  name: "Mike"
+  surname: "Hartington"
+  company: "Ionic"
+  title: "Developer"
+  bio: 'Part of Ionic's core team, Mike helps developers while they’re building their apps and also frequently speaks and writes about Ionic. In his spare time, he’s a hybrid app maker, occasional musician, and craft beer lover.'
+  thumbnailUrl: MikeHartington.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/mhartington"}
+-
+  id: 114
+  name: "Remi"
+  surname: "Pedersen"
+  company: "Fusetools"
+  title: "Developer"
+  bio: '"I'm currently working at Fusetools where we build tools for mobile app developers and designers. Previously I helped develop graphics accelerators for mobile devices at Falanx and ARM. (The ""Mali"" GPUs which have been shipped in over a billion different devices by now.) I've given talks about subjects ranging from deep HW & SW tech to start-up experiences and the demoscene. (And in my spare hours I still code demos for the good, old Amiga 500)"'
+  thumbnailUrl: RemiPedersen.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/fusetools"}
+-
+  id: 115
+  name: "Tom"
+  surname: "Widerøe"
+  company: "FINN.no"
+  title: "Front end developer"
+  bio: 'Tom Widerøe is a front end developer. He was involved in the process of transforming FINN.no into one website for all devices, continiously fighting for accessilibility. Tom has previously talked about accessibility at several conferences.'
+  thumbnailUrl: TomWideroe.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/twidero"}
+-
+  id: 116
+  name: "Sofia"
+  surname: "Hussain"
+  company: "FINN.no"
+  title: "Interaction designer"
+  bio: 'Sofia Hussain is an interaction designer at FINN.no. She works with usability on all devices and regards accessibility to be an inherent part of user experience design. Sofia has presented at several international conferences.'
+  thumbnailUrl: SofiaHussain.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/UXsophia"}
+-
+  id: 117
+  name: "Christina"
+  surname: "Lee"
+  company: "Pinterest"
+  title: "Android and iOS Dev"
+  bio: 'Formerly an Android and iOS Dev at Highlight, of note for being one of the first companies to bring a full Kotlin app to market as well as for work done porting Redux principles to native implementations on both iOS and Android. Recently acquired by Pinterest, where I have joined the Android team to work on bringing video to the platform. '
+  thumbnailUrl: ChristinaLee.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
+-
+  id: 118
+  name: "Daniel"
+  surname: "Haight"
+  company: "Novoda"
+  title: "iOS developer"
+  bio: ''
+  thumbnailUrl: DanielHaight.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/daniel1of1"}
+-
+  id: 119
+  name: "Christian"
+  surname: "Falch"
+  company: "Falch AS"
+  title: "Independant Consultant and Advisor, Cross platform mobile apps"
+  bio: 'Has worked with mobile technologies since 1999 (in the days of the Palm Pilot). Extensive experience building apps for iOS/Android/Windows Phone. Offers independant consultancy and advisory services on building native apps with Xamarin in C# and .Net. Part of the founding team for Oslo Xamarin Meetup.'
+  thumbnailUrl: ChristianFalch.jpg
+-
+  id: 120
+  name: "Cesar"
+  surname: "Valentino"
+  company: "Wunderlist"
+  title: ""
+  bio: ''
+  thumbnailUrl: CesarValentino.jpg
