@@ -49,7 +49,9 @@
   surname: "May"
   company: "Lead iOS Engineer"
   title: "Wrisk"
-  bio: ''
+  bio: 'Michael has been an iOS developer since just after the App Store launched, and various engineering incarnations before that (including Windows when NT meant New Technology and Java when it had a Mobile Edition). After stints at Shazam, The Guardian, Time Out, Songkick and others, he is now attempting to rethink the insurance industry for the always connected generations as the first mobile engineer at Wrisk, based in East London. An apparently infrequent speaker, he has ranged far and wide, having spoke on everything from DJ’ing after a terrorist attack (TEDx Alcatraz, 2010) to the many lessons he learned the hard way as a team lead (NSSpain 2015). By his own admission he is far too fussy about what coffee and beer he drinks, and very easily upset by bad user interfaces. (That should make the between talk breaks an interesting experience, then).
+  Pulling together, and building on themes from his some recent talks - The Empathetic Programmer (UIKonf 2016) and Adding Tests To An Untested Project (CMD+U 2016) this talk will look not just at how one brings tests to a legacy code base, but why one should even try, as well as considering why they might not have been there in the first place. Expect empathy, humour, and plenty of real world code. If previous talks are anything to go by, there is likely to a few anecdotes too - probably set in, or around, the pubs of London.
+  How does that work for you? Please don’t be afraid to tell me if you are not unhappy. I truly have no ego that needs stroking about this stuff and happily, gratefully, receive feedback. Always.'
   thumbnailUrl: MichaelMay.jpg
   rockstar: true
   social:
