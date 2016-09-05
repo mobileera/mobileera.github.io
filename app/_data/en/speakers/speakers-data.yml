@@ -105,7 +105,7 @@
   surname: "Isakova"
   company: "JetBrains"
   title: "Developer Advocate"
-  bio: 'Svetlana is a Developer Advocate at JetBrains. She's been working on the Kotlin language (http://kotlinlang.org/) since 2011. She is one of the authors of the "Kotlin in Action" book.'
+  bio: 'Svetlana is a Developer Advocate at JetBrains. She is been working on the Kotlin language (http://kotlinlang.org/) since 2011. She is one of the authors of the "Kotlin in Action" book.'
   thumbnailUrl: SvetlanaIsakova.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
@@ -125,7 +125,7 @@
   surname: "Trabelsi"
   company: "Deezer"
   title: "Developer"
-  bio: 'Syrine Trabelsi is a developer at deezer, the music streaming service. I'm a part of the user engagement team and works hard in order to make the overall music lovers experience smoother and more intuitive. I started my journey with android development back in 2010. My previous experiences include several startups in areas ranging from geolocalization to collaborative economies and video streaming.'
+  bio: 'Syrine Trabelsi is a developer at deezer, the music streaming service. I am a part of the user engagement team and works hard in order to make the overall music lovers experience smoother and more intuitive. I started my journey with android development back in 2010. My previous experiences include several startups in areas ranging from geolocalization to collaborative economies and video streaming.'
   thumbnailUrl: SyrineTrabelsi.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/sarrouna23"}
@@ -185,7 +185,7 @@
   surname: "Klever"
   company: "Microsoft"
   title: "ALM Solution Specialist"
-  bio: 'I'm an ALM Solution Specialist at Microsoft, focusing on the tools and processes developers use to improve their software delivery pipeline. Having previously worked as a .NET developer and consultant, I have developed a passion for how developers work and why they make the choices they do. I continuously challenge myself and share my knowledge by blogging and speaking at user groups and conferences.'
+  bio: 'I am an ALM Solution Specialist at Microsoft, focusing on the tools and processes developers use to improve their software delivery pipeline. Having previously worked as a .NET developer and consultant, I have developed a passion for how developers work and why they make the choices they do. I continuously challenge myself and share my knowledge by blogging and speaking at user groups and conferences.'
   thumbnailUrl: KarolineKlever.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/karolikl"}
@@ -205,7 +205,7 @@
   surname: "Hartington"
   company: "Ionic"
   title: "Developer"
-  bio: 'Part of Ionic's core team, Mike helps developers while they’re building their apps and also frequently speaks and writes about Ionic. In his spare time, he’s a hybrid app maker, occasional musician, and craft beer lover.'
+  bio: 'Part of Ionic core team, Mike helps developers while they are building their apps and also frequently speaks and writes about Ionic. In his spare time, he’s a hybrid app maker, occasional musician, and craft beer lover.'
   thumbnailUrl: MikeHartington.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/mhartington"}
@@ -215,7 +215,7 @@
   surname: "Pedersen"
   company: "Fusetools"
   title: "Developer"
-  bio: '"I'm currently working at Fusetools where we build tools for mobile app developers and designers. Previously I helped develop graphics accelerators for mobile devices at Falanx and ARM. (The ""Mali"" GPUs which have been shipped in over a billion different devices by now.) I've given talks about subjects ranging from deep HW & SW tech to start-up experiences and the demoscene. (And in my spare hours I still code demos for the good, old Amiga 500)"'
+  bio: 'I am currently working at Fusetools where we build tools for mobile app developers and designers. Previously I helped develop graphics accelerators for mobile devices at Falanx and ARM. (The "Mali" GPUs which have been shipped in over a billion different devices by now.) I have given talks about subjects ranging from deep HW & SW tech to start-up experiences and the demoscene. (And in my spare hours I still code demos for the good, old Amiga 500)"'
   thumbnailUrl: RemiPedersen.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/fusetools"}
