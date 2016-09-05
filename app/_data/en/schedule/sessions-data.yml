@@ -16,7 +16,6 @@
   subtype: keynote
   speakers: [1]
   language: en
-  complexity: "Intermediate"
 -
   id: 002
   title: "Building component-driven UIs"
