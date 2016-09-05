@@ -16,7 +16,6 @@
   subtype: keynote
   speakers: [1]
   language: en
-  complexity: "Intermediate"
 -
   id: 002
   title: "Building component-driven UIs"
@@ -37,7 +36,12 @@
   language: en
   category: "iOS"
 -
+  id: 996
+  title: "TBA Keynote"
+  description: "This keynote will soon be announced!"
+  subtype: keynote
+-
   id: 999
   title: "TBA"
   description: "This talk will soon be announced!"
-  subtype: keynote
+  subtype: presentation
