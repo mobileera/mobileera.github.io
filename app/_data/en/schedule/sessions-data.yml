@@ -211,29 +211,21 @@ We’ll be using 3rd party apps as examples of how different teams / people impl
 
   category: "Cross-platform"
 -
-  id: 120
-  title: "TBA"
-  description: ""
-  subtype: presentation
-  speakers: [120]
-
-  category: "Android"
--
   id: 121
-  title: "TBA"
-  description: ""
+  title: "Your Phone is Snitching On You"
+  description: "Yes, and so does your laptop, tablet and any other WiFi enabled device you own. Without even touching your device, I can tell you where have you been, and I might even tell you where are you right now in the room. I don't even need any fancy and expensive hardware to do that. Magic? No. Scary? Yes! Well, at least it can easily be used to track you. Join me to hear a story on what I learned sniffing wireless packages, or why WiFi is broken. In this talk we will have a look at the theory behind this, how and why this works, and, of course, a live demo!"
   subtype: presentation
-  speakers: [118]
+  speakers: [121]
 
-  category: "iOS"
+  category: "Cross-platform"
 -
   id: 122
-  title: "TBA"
-  description: ""
+  title: "The Web or Bust!"
+  description: "So can this newly hailed king, 'progressive webapps' as they call itt really grow up to a point where it can take on the native hegemony — and would it even matter in a few years' time?"
   subtype: presentation
-  speakers: [7]
+  speakers: [122]
 
-  category: "iOS"
+  category: "Cross-platform"
 -
   id: 1
   title: "Cutting-Edge Responsive Web Design For Mobile"
