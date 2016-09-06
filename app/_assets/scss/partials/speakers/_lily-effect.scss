@@ -29,11 +29,11 @@
                     transform: translateY(-25px);
                 }
             }
-        } 
+        }
         .overlay {
             background: rgba(0, 0, 0, .3);
             @media (max-width: 767px) {
-                background: rgba(0, 0, 0, 0);  
+                background: rgba(0, 0, 0, 0);
             }
         }
     }
@@ -47,8 +47,8 @@
         background-size: 115%;
         @media (max-width: 767px) {
             background-position: center left;
-            -webkit-background-size: 105%;        
-            background-size: 105%;        
+            -webkit-background-size: 105%;
+            background-size: 105%;
         }
     }
     figcaption {
@@ -60,6 +60,7 @@
         padding: 32px 16px;
         text-transform: uppercase;
         color: #fff;
+
         h2, p {
             @media (max-width: 767px) {
                 transform: translateY(-25px);
@@ -76,12 +77,15 @@
                 font-weight: $extra-bold;
                 display: block;
             }
+            background: rgba(0,0,0,0.3);
+            display: inline-block;
+            padding: 3px 10px;
         }
         p {
             @media (max-width: 767px) {
                 line-height: 1;
                 opacity: 1;
-            }    
+            }
         }
         .position {
             margin: 0;
