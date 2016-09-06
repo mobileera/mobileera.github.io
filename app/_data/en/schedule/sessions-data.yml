@@ -10,13 +10,6 @@
   place: "Dining room"
   service: true
 -
-  id: 001
-  title: "Keynote"
-  description: "Keynote by Vitaly Friedman."
-  subtype: keynote
-  speakers: [1]
-
--
   id: 002
   title: "Building component-driven UIs"
   description: "Learn how Spotify is using component-driven UIs to move faster than ever before, and how you can implement the same architecture in your app."
@@ -45,8 +38,16 @@
   category: "iOS"
 -
   id: 005
-  title: "Adding tests to a project without tests"
-  description: "In essence it's adding tests to a project without tests. That project is a real project - an allergy tracker iOS project written by Emily from NSLondon."
+  title: "Monocultural, Redux"
+  description: "Within five years many of us will be changing decade age. Some starting their twenties, others, their thirties and forties, some, their fifties. So, as each year passes, the chance that we will be working with someone who is significantly younger than us, increases. And, of course, it must also be true therefore, that as each year passes the chances of working with someone significantly older, increases. Or does it? If we look around at our community, if we look at the latest reports from Apple, Google, Facebook and others, what we actually see is an enormous skewed demographic.
+
+Why is that? Nature has always been strongest when it is at it’s most diverse…monocultures are a weakness that is destroyed through evolution. Yet our community still often favours a specific monoculture; young, white, males.
+
+We work in a time when the brogrammer moniker has given validity to a monoculture, where we have to have movements like #ILookLikeAnEngineer to remind us that we are not all the same, and when, despite a slew of films and TV shows about our community, it’s still rare to see any one who is of female or of colour.
+
+All this during an age when Brexit in the UK, Trumpism in the US and the rise of right wing parties across the world have normalised previously unthinkable levels of prejudice to those not like ourselves.
+
+This is not about ageism, racism, or sexism, this is about strength. How do we defend, evolve and cherish our community? How can we be open, welcoming, and supportive to everyone who wants to be a part of this amazing tech revolution? How, with small steps, can we be the change we want to be."
   subtype: presentation
   speakers: [5]
 
@@ -194,13 +195,60 @@ We’ll be using 3rd party apps as examples of how different teams / people impl
 
   category: "iOS"
 -
-  id: 996
-  title: "TBA Keynote"
-  description: "This keynote will soon be announced!"
-  subtype: keynote
+  id: 118
+  title: "Building outside of the sandbox"
+  description: "The largest OSS projects in the iOS ecosystem comes from people who have said “the tools we have are insufficient” and were unwilling to wait for Apple to fix them. There are still a lot of holes to be filled and as individuals we should be devoting time to helping ourselves and each other. This talk is about the speaker’s struggles with accepting that sometimes it’s up to you to be the change you want in the world."
+  subtype: presentation
+  speakers: [6]
+
+  category: "iOS"
 -
-  id: 999
+  id: 119
+  title: "Building Native Apps in C#/.Net with Xamarin"
+  description: "Want to build native apps for Android, iOS or Windows using C# and .Net? Xamarin is a set of tools and technologies (owned by Microsoft) that provides you with a complete development experience for building, debugging, testing and deploying native apps written in C# with native compliation on each platform. The talk gives a short overview of the Xamarin Platform followed by a live coding session showing how to get started with Xamarin and Xamarin.Forms (cross platform UX library from Xamarin) to build your first app. The talk will also cover how to extend your app with native features."
+  subtype: presentation
+  speakers: [119]
+
+  category: "Cross-platform"
+-
+  id: 120
   title: "TBA"
-  speakers: [6,7,8,118,119,120]
+  description: ""
+  subtype: presentation
+  speakers: [120]
+
+  category: "Android"
+-
+  id: 121
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [118]
+
+  category: "iOS"
+-
+  id: 122
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [7]
+
+  category: "iOS"
+-
+  id: 1
+  title: "Cutting-Edge Responsive Web Design For Mobile"
+  description: "With HTTP/2, Service Workers, Responsive Images, Flexbox, SVG and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites just in time. We want to use all of these technologies, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time? In this talk, Vitaly Friedman, editor-in-chief of Smashing Magazine, will be looking into a strategy for crafting fast, resilient and flexible responsive design systems by utilizing all of those wonderful shiny web technologies we have available today. We'll also talk about dealing with legacy browsers and will cover a few dirty little techniques that might ensure that your responsive websites will stay relevant, flexible and accessible in the years to come."
+  category: "Keynote"
+  subtype: keynote
+  speakers: [1]
+-
+  id: 996
+  title: "Will be announced soon"
   description: "This talk will soon be announced!"
   subtype: presentation
+-
+  id: 801
+  title: "Android 101 Workshop"
+  description: ""
+  subtype: workshop
+  speakers: [8]

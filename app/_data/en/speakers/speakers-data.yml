@@ -87,6 +87,7 @@
   bio: 'Christoffer is a developer at BEKK, where he has been involved in several app projects for customers. He is also the practice lead for BEKKs mobile technologies competency group, where he leads a group of 11 developers.'
   thumbnailUrl: ChristofferMarcussen.jpg
   rockstar: true
+  ribbon: Workshop
   social:
     - {name: "twitter", link: "https://twitter.com/chrjmarcussen"}
 -
@@ -270,8 +271,10 @@
 -
   id: 120
   name: "Cesar"
-  surname: "Valentino"
-  company: "Wunderlist"
-  title: ""
-  bio: ''
-  thumbnailUrl: CesarValentino.jpg
+  surname: "Valiente"
+  company: "Microsoft"
+  title: "Software Engineer"
+  bio: 'I am Cesar Valiente, software engineer currently working at Microsoft, where I work on the famous and awarded multiplatform productivity app Wunderlist as Android Engineer. I am a community guy, I co-founded AndroidStartup which was the first Android developers community based in Madrid (Spain). I enjoy helping others organising events, collaborating speaking at conferences, or in general, sharing knowledge to help and support the community.'
+  thumbnailUrl: CesarValiente.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/CesarValiente"}
