@@ -10,6 +10,17 @@
   place: "Dining room"
   service: true
 -
+  id: 996
+  title: "Will be announced soon"
+  description: "This talk will soon be announced!"
+  subtype: presentation
+-
+  id: 995
+  title: "Party 🎉🍻"
+  place: "TBA"
+  service: true
+  description: "The best time to talk with speakers and attendees."
+-
   id: 002
   title: "Building component-driven UIs"
   description: "Learn how Spotify is using component-driven UIs to move faster than ever before, and how you can implement the same architecture in your app."
@@ -241,11 +252,6 @@ We’ll be using 3rd party apps as examples of how different teams / people impl
   category: "Keynote"
   subtype: keynote
   speakers: [1]
--
-  id: 996
-  title: "Will be announced soon"
-  description: "This talk will soon be announced!"
-  subtype: presentation
 -
   id: 801
   title: "Android 101 Workshop"
