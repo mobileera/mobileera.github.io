@@ -97,7 +97,7 @@
   surname: "Tank"
   company: "Sociomantic Labs"
   title: "Mobile team lead"
-  bio: 'I work at Sociomantic Labs, Berlin as Mobile team lead, developing our Android and iOS applications. I like discussing best practices to follow in mobile development. When not doing tech stuff, I usually go for a run or play Age of Empire-II.'
+  bio: 'Viraj work at Sociomantic Labs, Berlin as Mobile team lead, developing our Android and iOS applications.' #' I like discussing best practices to follow in mobile development. When not doing tech stuff, I usually go for a run or play Age of Empire-II.'
   thumbnailUrl: VirajTank.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/viraj49"}
@@ -127,7 +127,7 @@
   surname: "Trabelsi"
   company: "Deezer"
   title: "Developer"
-  bio: 'Syrine Trabelsi is a developer at deezer, the music streaming service. I am a part of the user engagement team and works hard in order to make the overall music lovers experience smoother and more intuitive. I started my journey with android development back in 2010. My previous experiences include several startups in areas ranging from geolocalization to collaborative economies and video streaming.'
+  bio: 'Syrine Trabelsi is a developer at deezer, the music streaming service.' #' I am a part of the user engagement team and works hard in order to make the overall music lovers experience smoother and more intuitive. I started my journey with android development back in 2010. My previous experiences include several startups in areas ranging from geolocalization to collaborative economies and video streaming.'
   thumbnailUrl: SyrineTrabelsi.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/sarrouna23"}
@@ -157,7 +157,7 @@
   surname: "Williams"
   company: "Bendyworks"
   title: "Developer and start-up founder"
-  bio: 'An experienced developer and start-up founder, Abraham Williams brings a broad range of skills to his current role as a senior developer at Bendyworks.  A top 1% contributor at Stack Overflow and an active member of Google Developer Groups, Abraham has been recognized by Google as a Developer Expert for his ability to identify technology problems and provide quality solutions in the community.'
+  bio: 'An experienced developer and start-up founder, Abraham Williams brings a broad range of skills to his current role as a senior developer at Bendyworks. A top 1% contributor at Stack Overflow and an active member of Google Developer Groups, Abraham has been recognized by Google as a Developer Expert for his ability to identify technology problems and provide quality solutions in the community.'
   thumbnailUrl: AbrahamWilliams.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/abraham"}
@@ -177,7 +177,7 @@
   surname: "Rye-Andersen"
   company: "Sopra Steria"
   title: "Lead Software Engineer and Mobile Business Developer"
-  bio: 'I work as a Lead Software Engineer and Mobile Business Developer, and have 10 years of experience in software development. I am also responsible for mobile technologies and the mobile community in Sopra Steria, and have developed a number of mobile apps - both native and hybrid.'
+  bio: 'Jens works as a Lead Software Engineer and Mobile Business Developer, and has 10 years of experience in software development.' #' I am also responsible for mobile technologies and the mobile community in Sopra Steria, and have developed a number of mobile apps - both native and hybrid.'
   thumbnailUrl: JensGormRye-Andersen.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/jensgorm"}
@@ -187,7 +187,7 @@
   surname: "Klever"
   company: "Microsoft"
   title: "ALM Solution Specialist"
-  bio: 'I am an ALM Solution Specialist at Microsoft, focusing on the tools and processes developers use to improve their software delivery pipeline. Having previously worked as a .NET developer and consultant, I have developed a passion for how developers work and why they make the choices they do. I continuously challenge myself and share my knowledge by blogging and speaking at user groups and conferences.'
+  bio: 'Karoline Klever is an ALM Solution Specialist at Microsoft, focusing on the tools and processes developers use to improve their software delivery pipeline.' #' Having previously worked as a .NET developer and consultant, I have developed a passion for how developers work and why they make the choices they do. I continuously challenge myself and share my knowledge by blogging and speaking at user groups and conferences.'
   thumbnailUrl: KarolineKlever.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/karolikl"}
@@ -216,7 +216,7 @@
   name: "Remi"
   surname: "Pedersen"
   company: "Fusetools"
-  title: "Developer"
+  title: "Coder & Cat herder"
   bio: "Remi works with Fuse - building tools for mobile app developers and designers. Back in the dark ages he was at Falanx and ARM, developing the 'Mali' brand of graphics accelerators which have shipped in over a billion mobile devices by now. He's been programming for over 25 years and has even more experience talking and gesticulating (something he'll happily do about subjects such as the demoscene, startups, and HW & SW tech). Late at night he still codes demos for his trusty old Amiga 500."
   thumbnailUrl: RemiPedersen.jpg
   social:
@@ -267,7 +267,7 @@
   surname: "Falch"
   company: "Falch AS"
   title: "Independant Consultant and Advisor, Cross platform mobile apps"
-  bio: 'Has worked with mobile technologies since 1999 (in the days of the Palm Pilot). Extensive experience building apps for iOS/Android/Windows Phone. Offers independant consultancy and advisory services on building native apps with Xamarin in C# and .Net. Part of the founding team for Oslo Xamarin Meetup.'
+  bio: 'Christian has worked with mobile technologies since 1999 (in the days of the Palm Pilot) and has extensive experience building apps for iOS/Android/Windows Phone. Offers independant consultancy and advisory services on building native apps with Xamarin in C# and .Net, he is also a founding member of Oslo Xamarin Meetup.'
   thumbnailUrl: ChristianFalch.jpg
 # -
 #   id: 120
@@ -285,7 +285,7 @@
   surname: "Szmozsánszky"
   company: "Mozilla / DPC Consulting"
   title: "Mobile & web dev"
-  bio: 'I am a mobile & web dev who have tried everything from J2ME through Symbian and Android dev whilst once ended up with the mobile web and somehow never looked back. Been involved with Mozillas Firefox OS and a huge proponent of the Progressive Webapps bandwagon, or whatever people call "webapps kicking native butt" these days. ;)'
+  bio: 'István is a mobile & web dev who have tried everything from J2ME through Symbian and Android dev whilst once ended up with the mobile web and somehow never looked back. He has been involved with Mozillas Firefox OS and a huge proponent of the Progressive Webapps bandwagon, or whatever people call "webapps kicking native butt" these days. ;)'
   thumbnailUrl: Flaki.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/slsoftworks"}
