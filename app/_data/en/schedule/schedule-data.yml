@@ -39,6 +39,7 @@
     - {
         startTime: "15:00",
         endTime: "15:45",
+        # IMPORTANT: Remi (114) must speak Thursday
         sessionIds: [118, 103, 114]
     }
     - {
@@ -62,6 +63,7 @@
     - {
         startTime: "10:00",
         endTime: "10:45",
+        #IMPORTANT: Witalec (112) must speak on friday
         sessionIds: [996, 996, 112]
     }
     - {
