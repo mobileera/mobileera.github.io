@@ -50,15 +50,11 @@
 -
   id: 005
   title: "Monocultural, Redux"
-  description: "Within five years many of us will be changing decade age. Some starting their twenties, others, their thirties and forties, some, their fifties. So, as each year passes, the chance that we will be working with someone who is significantly younger than us, increases. And, of course, it must also be true therefore, that as each year passes the chances of working with someone significantly older, increases. Or does it? If we look around at our community, if we look at the latest reports from Apple, Google, Facebook and others, what we actually see is an enormous skewed demographic.
-
-Why is that? Nature has always been strongest when it is at it’s most diverse…monocultures are a weakness that is destroyed through evolution. Yet our community still often favours a specific monoculture; young, white, males.
-
-We work in a time when the brogrammer moniker has given validity to a monoculture, where we have to have movements like #ILookLikeAnEngineer to remind us that we are not all the same, and when, despite a slew of films and TV shows about our community, it’s still rare to see any one who is of female or of colour.
-
-All this during an age when Brexit in the UK, Trumpism in the US and the rise of right wing parties across the world have normalised previously unthinkable levels of prejudice to those not like ourselves.
-
-This is not about ageism, racism, or sexism, this is about strength. How do we defend, evolve and cherish our community? How can we be open, welcoming, and supportive to everyone who wants to be a part of this amazing tech revolution? How, with small steps, can we be the change we want to be."
+  description: "Within five years many of us will be changing decade age. Some starting their twenties, others, their thirties and forties, some, their fifties. So, as each year passes, the chance that we will be working with someone who is significantly younger than us, increases. And, of course, it must also be true therefore, that as each year passes the chances of working with someone significantly older, increases. Or does it? If we look around at our community, if we look at the latest reports from Apple, Google, Facebook and others, what we actually see is an enormous skewed demographic."
+  # Why is that? Nature has always been strongest when it is at it’s most diverse…monocultures are a weakness that is destroyed through evolution. Yet our community still often favours a specific monoculture; young, white, males.
+  # We work in a time when the brogrammer moniker has given validity to a monoculture, where we have to have movements like #ILookLikeAnEngineer to remind us that we are not all the same, and when, despite a slew of films and TV shows about our community, it’s still rare to see any one who is of female or of colour.
+  # All this during an age when Brexit in the UK, Trumpism in the US and the rise of right wing parties across the world have normalised previously unthinkable levels of prejudice to those not like ourselves.
+  # This is not about ageism, racism, or sexism, this is about strength. How do we defend, evolve and cherish our community? How can we be open, welcoming, and supportive to everyone who wants to be a part of this amazing tech revolution? How, with small steps, can we be the change we want to be."
   subtype: presentation
   speakers: [5]
 
@@ -181,7 +177,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   subtype: presentation
   speakers: [115, 116]
 
-  category: "Mobile Web"
+  category: "Cross-platform"
 -
   id: 117
   title: "Move Fast with React Native"
