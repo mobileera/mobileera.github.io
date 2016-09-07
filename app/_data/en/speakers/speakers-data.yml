@@ -216,7 +216,7 @@
   surname: "Pedersen"
   company: "Fusetools"
   title: "Developer"
-  bio: 'I am currently working at Fusetools where we build tools for mobile app developers and designers. Previously I helped develop graphics accelerators for mobile devices at Falanx and ARM. (The "Mali" GPUs which have been shipped in over a billion different devices by now.) I have given talks about subjects ranging from deep HW & SW tech to start-up experiences and the demoscene. (And in my spare hours I still code demos for the good, old Amiga 500)"'
+  bio: 'Remi works with Fuse - building tools for mobile app developers and designers. Back in the dark ages he was at Falanx and ARM, developing the "Mali" brand of graphics accelerators which have shipped in over a billion mobile devices by now. He's been programming for over 25 years and has even more experience talking and gesticulating (something he'll happily do about subjects such as the demoscene, startups, and HW & SW tech). Late at night he still codes demos for his trusty old Amiga 500.'
   thumbnailUrl: RemiPedersen.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/fusetools"}

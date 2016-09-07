@@ -121,8 +121,7 @@ This is not about ageism, racism, or sexism, this is about strength. How do we d
 -
   id: 109
   title: "Why we switched to new Firebase"
-  description: "After new release on Google IO 2016 we at Your.MD decided to switch from countless amount of services that we are using to one solid solution - Firebase. During this talk I will explain main reason why we did it, which features we are using right now, problems and pitfalls that we found and solved.
-  After this talk hopefully attenders will get full understanding of all new services that Google presented and will have a clear decision should they consider to use this new framework in their projects."
+  description: "After new release on Google IO 2016 we at Your.MD decided to switch from countless amount of services that we are using to one solid solution - Firebase. During this talk I will explain main reason why we did it, which features we are using right now, problems and pitfalls that we found and solved. After this talk hopefully attenders will get full understanding of all new services that Google presented and will have a clear decision should they consider to use this new framework in their projects."
   subtype: presentation
   speakers: [123]
 
@@ -154,17 +153,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
 -
   id: 112
   title: "Building mobile apps with NativeScript"
-  description: "NativeScript is a free and open source JavaScript framework for building native iOS, Android, and Windows Phone apps. Add to that Angular 2.0 with TypeScript and you will get a truly amazing combination. But I know what you’re thinking: another way of building apps? What makes NativeScript special? Here are a few cool things:
-- Direct access to native APIs—no plugins required. Want to create a file on Android? Run new java.io.File()—in JavaScript!
-- Completely native performance through the use of a JavaScript bridge natively available on all three mobile platforms.
-- Cross-platform libraries for common use cases. Need to call a JSON API? Run http.getJSON()
-- Style native apps using CSS. Yep, that’s actually a thing.
-
-Curious about how it all works? Come learn! Architectures will be explained; apps will be built; and fun will be had by all.
-
-This talk is a mixture of slides and real life demo. I am going to explain what is NativeScript, how it works internally, what are the benefits, what is designed to do and show how to build a mobile app with the framework.
-After the talk the audience should know enough to get them started and where to find more information to build fully functional applications.
-"
+  description: ""
   subtype: presentation
   speakers: [112]
 
@@ -180,11 +169,7 @@ After the talk the audience should know enough to get them started and where to 
 -
   id: 114
   title: "Make it count - Design & develop apps with Fuse"
-  description: "Building apps takes time & effort, and building GOOD apps (the only kind we really care about) even more so. In this talk we'll take a look at some apps built with Fuse to see how they evolved from early design concepts to being published in the app stores.
-We'll dig into visuals, animations and gestures as well as the integration of exotic platform features and backends, and we'll see why enabling designers and developers to collaborate better let's them create apps that look & feel great in much less time.
-We'll also take a closer look at the new visual tooling in Fuse, specifically designed for speeding up app development and letting everyone work on real apps as if they were mere prototypes.
-The «advanced» level of the talk is chosen mainly because you’ll get a lot more out of the talk if you have a certain understanding of the app development process. This doesn’t mean everyone has to be developers / designers with multiple apps under their belts, but rather that they should know some of the high-level challenges different stakeholders and roles face.
-We’ll be using 3rd party apps as examples of how different teams / people implemented their projects using Fuse in the real world, and I’ll make sure there is enough of interest in there for a variety of audience types."
+  description: "Building apps takes time & effort, building GOOD apps (the only kind we really care about) even more so. In this talk we'll take a look at some apps built with Fuse to see how they evolved from early design concepts to being published in the app stores. We'll dig into visuals, animations and gestures as well as the integration of exotic platform features and backends, and we'll see why enabling designers and developers to collaborate better let's them create things that look & feel great in much less time. We'll also take a closer look at the new visual tooling in Fuse, specifically designed for speeding up app development and letting everyone work on real apps as if they were mere prototypes."
   subtype: presentation
   speakers: [114]
 
