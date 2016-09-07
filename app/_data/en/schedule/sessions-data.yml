@@ -27,7 +27,7 @@
   subtype: presentation
   speakers: [3]
 
-  category: "iOS"
+  category: "Android"
 -
   id: 004
   title: "Swift high performance"
