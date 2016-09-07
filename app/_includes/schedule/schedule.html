@@ -43,7 +43,7 @@
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <!-- <span class="slot-language">{{session.language | upcase}}</span> -->
                                         {% if session.category != null %}
-                                        <span class="slot-category">{{session.category | upcase}}</span>
+                                        <span class="slot-category">{{session.category}}</span>
                                         {% endif %}
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.[site.lang].speakers.speakers-data %}

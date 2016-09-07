@@ -2,9 +2,9 @@
   date: "2016-11-03"
   dateReadable: "November 3rd"
   tracks:
-    - {title: "iOS", color: "#90be4e"}
-    - {title: "Android", color: "#03a9f4"}
-    - {title: "Mobile Web / Cross-Platform", color: "#e91e63"}
+    - {title: "Odin", color: "#90be4e"}
+    - {title: "Freyja", color: "#03a9f4"}
+    - {title: "Thor", color: "#e91e63"}
   timeslots:
     - {
         startTime: "9:00",
@@ -14,7 +14,7 @@
     - {
         startTime: "10:00",
         endTime: "10:45",
-        sessionIds: [2, 102, 108]
+        sessionIds: [2, 102, 996]
     }
     - {
         startTime: "11:00",
@@ -45,9 +45,9 @@
   date: "2016-11-04"
   dateReadable: "November 4th"
   tracks:
-    - {title: "iOS", color: "#90be4e"}
-    - {title: "Android", color: "#03a9f4"}
-    - {title: "Mobile Web", color: "#e91e63"}
+    - {title: "Odin", color: "#90be4e"}
+    - {title: "Freyja", color: "#03a9f4"}
+    - {title: "Thor", color: "#e91e63"}
   timeslots:
     - {
         startTime: "9:00",
@@ -72,12 +72,12 @@
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [122, 996, 115]
+        sessionIds: [122, 124, 115]
     }
     - {
         startTime: "14:00",
         endTime: "14:45",
-        sessionIds: [996, 996, 119]
+        sessionIds: [108, 996, 119]
     }
     - {
         startTime: "15:00",

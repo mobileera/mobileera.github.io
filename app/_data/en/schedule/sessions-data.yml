@@ -84,7 +84,7 @@ This is not about ageism, racism, or sexism, this is about strength. How do we d
   category: "Android"
 -
   id: 105
-  title: "And then my phone became smarter: A Journey into the AWareness"
+  title: "And then my phone became smarter: A Journey into the Awareness"
   description: "François & Syrine will take a glance at the Awareness API and apply it to music recommendations. We are all carrying tiny computers with lots of sensors. With them, we can do more than display content, we can also make these devices aware of the world around us, making them smarter. One way to do this is to leverage the Google Awareness API in order to have rich features with minimal input from the user. It can trigger events when some conditions are put together: when you are close to a certain area, when you plug in headphones, when it is cold or sunny, etc. It can also be used to directly poll the sensors and get some information about the world around you. Using all these capacities to facilitate your life, your device will know what to do and when to do it, with or without your input (as configured by the user).
   In this talk François & Syrine will show you how to improve your music experience and take it to the next stage."
   subtype: presentation
@@ -104,7 +104,7 @@ This is not about ageism, racism, or sexism, this is about strength. How do we d
   title: "Leverage the power of native with Progressive Web Apps"
   description: "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using web standards, including offline support, push notifications, background processes, and homescreen access."
   subtype: presentation
-  speakers: [108]
+  speakers: [108, 121]
 
   category: "Mobile Web"
 -
@@ -234,6 +234,14 @@ We’ll be using 3rd party apps as examples of how different teams / people impl
   speakers: [7]
 
   category: "iOS"
+-
+  id: 124
+  title: "Your phone is snitching on you"
+  description: "Yes, and so does your laptop, tablet and any other WiFi enabled device you own. Without even touching your device, I can tell you where have you been, and I might even tell you where are you right now in the room. I don't even need any fancy and expensive hardware to do that. Magic? No. Scary? Yes! Well, at least it can easily be used to track you. Join me to hear a story on what I learned sniffing wireless packages, or why WiFi is broken. In this talk we will have a look at the theory behind this, how and why this works, and, of course, a live demo!"
+  subtype: presentation
+  speakers: [123]
+
+  category: "Security"
 -
   id: 1
   title: "Cutting-Edge Responsive Web Design For Mobile"

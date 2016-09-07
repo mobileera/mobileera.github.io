@@ -162,14 +162,14 @@
     - {name: "twitter", link: "https://twitter.com/abraham"}
 -
   id: 109
-  name: "Pavel"
-  surname: "Kurnosov"
-  company: "Your.MD"
-  title: "Head of development"
-  bio: 'I am head of development in Your.MD. Our main product is mobile application for Android and iOS that gives personalised health advice.'
-  thumbnailUrl: PavelKurnosov.jpg
+  name: "Pearl"
+  surname: "Latteier"
+  company: "Bendyworks"
+  title: "Developer"
+  bio: 'An experienced developer working as a developer at Bendyworks.'
+  thumbnailUrl: PearlLatteier.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/pavel_kurnosov"}
+    - {name: "twitter", link: "https://twitter.com/pblatteier"}
 -
   id: 110
   name: "Jens Gorm"
@@ -278,3 +278,24 @@
   thumbnailUrl: CesarValiente.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/CesarValiente"}
+-
+  id: 121
+  name: "Pavel"
+  surname: "Kurnosov"
+  company: "Your.MD"
+  title: "Head of development"
+  bio: 'I am head of development in Your.MD. Our main product is mobile application for Android and iOS that gives personalised health advice.'
+  thumbnailUrl: PavelKurnosov.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/pavel_kurnosov"}
+
+-
+  id: 123
+  name: "Rustam"
+  surname: "Mehmandarov"
+  company: "Computas"
+  bio: "Rustam Mehmandarov holds a master\'s degree in Computer Science from the University of Oslo. He has been working as a developer and lead programmer for over 10 years. In addition to being passionate about development and architecture, he is also a guru of both Linux and Windows worlds. On his spare time he enjoys working out, as well as coding in Python and Java [but not simultaneously]. Leader of the Norwegian Java User Group - javaBin, and a competency network coordinator for databases and information management at work.  He is a frequent speaker at both national and international conferences and events."
+  thumbnailUrl: RustamMehmandarov.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/rmehmandarov"}
+    - {name: "lanyrd", link: "http://lanyrd.com/profile/rmehmandarov/"}
