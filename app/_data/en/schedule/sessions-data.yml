@@ -104,7 +104,7 @@ This is not about ageism, racism, or sexism, this is about strength. How do we d
   title: "Leverage the power of native with Progressive Web Apps"
   description: "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using web standards, including offline support, push notifications, background processes, and homescreen access."
   subtype: presentation
-  speakers: [108, 121]
+  speakers: [108, 109]
 
   category: "Mobile Web"
 -
@@ -113,7 +113,7 @@ This is not about ageism, racism, or sexism, this is about strength. How do we d
   description: "After new release on Google IO 2016 we at Your.MD decided to switch from countless amount of services that we are using to one solid solution - Firebase. During this talk I will explain main reason why we did it, which features we are using right now, problems and pitfalls that we found and solved.
   After this talk hopefully attenders will get full understanding of all new services that Google presented and will have a clear decision should they consider to use this new framework in their projects."
   subtype: presentation
-  speakers: [109]
+  speakers: [123]
 
   category: "Cross-platform"
 -
@@ -211,35 +211,27 @@ We’ll be using 3rd party apps as examples of how different teams / people impl
 
   category: "Cross-platform"
 -
-  id: 120
-  title: "TBA"
-  description: ""
-  subtype: presentation
-  speakers: [120]
-
-  category: "Android"
--
   id: 121
-  title: "TBA"
-  description: ""
+  title: "Your Phone is Snitching On You"
+  description: "Yes, and so does your laptop, tablet and any other WiFi enabled device you own. Without even touching your device, I can tell you where have you been, and I might even tell you where are you right now in the room. I don't even need any fancy and expensive hardware to do that. Magic? No. Scary? Yes! Well, at least it can easily be used to track you. Join me to hear a story on what I learned sniffing wireless packages, or why WiFi is broken. In this talk we will have a look at the theory behind this, how and why this works, and, of course, a live demo!"
   subtype: presentation
-  speakers: [118]
+  speakers: [121]
 
-  category: "iOS"
+  category: "Cross-platform"
 -
   id: 122
-  title: "TBA"
-  description: ""
+  title: "The Web or Bust!"
+  description: "So can this newly hailed king, 'progressive webapps' as they call itt really grow up to a point where it can take on the native hegemony — and would it even matter in a few years' time?"
   subtype: presentation
-  speakers: [7]
+  speakers: [122]
 
-  category: "iOS"
+  category: "Cross-platform"
 -
   id: 124
   title: "Your phone is snitching on you"
   description: "Yes, and so does your laptop, tablet and any other WiFi enabled device you own. Without even touching your device, I can tell you where have you been, and I might even tell you where are you right now in the room. I don't even need any fancy and expensive hardware to do that. Magic? No. Scary? Yes! Well, at least it can easily be used to track you. Join me to hear a story on what I learned sniffing wireless packages, or why WiFi is broken. In this talk we will have a look at the theory behind this, how and why this works, and, of course, a live demo!"
   subtype: presentation
-  speakers: [123]
+  speakers: [124]
 
   category: "Security"
 -

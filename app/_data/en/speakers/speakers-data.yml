@@ -110,16 +110,16 @@
   thumbnailUrl: SvetlanaIsakova.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
--
-  id: 104
-  name: "Huyen"
-  surname: "Tue Dao"
-  company: "Trello"
-  title: "Native Android/iOS Code Monkey"
-  bio: 'I am an Android developer and have been for 6 years. I am also a Google Developer Expert for Android and co-produce a YouTube channel centered around interviews with people in the Android community.'
-  thumbnailUrl: HuyenTueDao.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/queencodemonkey"}
+# -
+#   id: 104
+#   name: "Huyen"
+#   surname: "Tue Dao"
+#   company: "Trello"
+#   title: "Native Android/iOS Code Monkey"
+#   bio: 'I am an Android developer and have been for 6 years. I am also a Google Developer Expert for Android and co-produce a YouTube channel centered around interviews with people in the Android community.'
+#   thumbnailUrl: HuyenTueDao.jpg
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/queencodemonkey"}
 -
   id: 105
   name: "Syrine"
@@ -240,26 +240,26 @@
   thumbnailUrl: SofiaHussain.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/UXsophia"}
--
-  id: 117
-  name: "Christina"
-  surname: "Lee"
-  company: "Pinterest"
-  title: "Android and iOS Dev"
-  bio: 'Formerly an Android and iOS Dev at Highlight, of note for being one of the first companies to bring a full Kotlin app to market as well as for work done porting Redux principles to native implementations on both iOS and Android. Recently acquired by Pinterest, where I have joined the Android team to work on bringing video to the platform. '
-  thumbnailUrl: ChristinaLee.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
--
-  id: 118
-  name: "Daniel"
-  surname: "Haight"
-  company: "Novoda"
-  title: "iOS developer"
-  bio: ''
-  thumbnailUrl: DanielHaight.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/daniel1of1"}
+# -
+#   id: 117
+#   name: "Christina"
+#   surname: "Lee"
+#   company: "Pinterest"
+#   title: "Android and iOS Dev"
+#   bio: 'Formerly an Android and iOS Dev at Highlight, of note for being one of the first companies to bring a full Kotlin app to market as well as for work done porting Redux principles to native implementations on both iOS and Android. Recently acquired by Pinterest, where I have joined the Android team to work on bringing video to the platform. '
+#   thumbnailUrl: ChristinaLee.jpg
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
+# -
+#   id: 118
+#   name: "Daniel"
+#   surname: "Haight"
+#   company: "Novoda"
+#   title: "iOS developer"
+#   bio: ''
+#   thumbnailUrl: DanielHaight.jpg
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/daniel1of1"}
 -
   id: 119
   name: "Christian"
@@ -268,18 +268,28 @@
   title: "Independant Consultant and Advisor, Cross platform mobile apps"
   bio: 'Has worked with mobile technologies since 1999 (in the days of the Palm Pilot). Extensive experience building apps for iOS/Android/Windows Phone. Offers independant consultancy and advisory services on building native apps with Xamarin in C# and .Net. Part of the founding team for Oslo Xamarin Meetup.'
   thumbnailUrl: ChristianFalch.jpg
+# -
+#   id: 120
+#   name: "Cesar"
+#   surname: "Valiente"
+#   company: "Microsoft"
+#   title: "Software Engineer"
+#   bio: 'I am Cesar Valiente, software engineer currently working at Microsoft, where I work on the famous and awarded multiplatform productivity app Wunderlist as Android Engineer. I am a community guy, I co-founded AndroidStartup which was the first Android developers community based in Madrid (Spain). I enjoy helping others organising events, collaborating speaking at conferences, or in general, sharing knowledge to help and support the community.'
+#   thumbnailUrl: CesarValiente.jpg
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/CesarValiente"}
 -
-  id: 120
-  name: "Cesar"
-  surname: "Valiente"
-  company: "Microsoft"
-  title: "Software Engineer"
-  bio: 'I am Cesar Valiente, software engineer currently working at Microsoft, where I work on the famous and awarded multiplatform productivity app Wunderlist as Android Engineer. I am a community guy, I co-founded AndroidStartup which was the first Android developers community based in Madrid (Spain). I enjoy helping others organising events, collaborating speaking at conferences, or in general, sharing knowledge to help and support the community.'
-  thumbnailUrl: CesarValiente.jpg
+  id: 122
+  name: "István 'Flaki'"
+  surname: "Szmozsánszky"
+  company: "Mozilla / DPC Consulting"
+  title: "Mobile & web dev"
+  bio: 'I am a mobile & web dev who have tried everything from J2ME through Symbian and Android dev whilst once ended up with the mobile web and somehow never looked back. Been involved with Mozillas Firefox OS and a huge proponent of the Progressive Webapps bandwagon, or whatever people call "webapps kicking native butt" these days. ;)'
+  thumbnailUrl: Flaki.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/CesarValiente"}
+    - {name: "twitter", link: "https://twitter.com/slsoftworks"}
 -
-  id: 121
+  id: 123
   name: "Pavel"
   surname: "Kurnosov"
   company: "Your.MD"
@@ -290,7 +300,7 @@
     - {name: "twitter", link: "https://twitter.com/pavel_kurnosov"}
 
 -
-  id: 123
+  id: 124
   name: "Rustam"
   surname: "Mehmandarov"
   company: "Computas"
