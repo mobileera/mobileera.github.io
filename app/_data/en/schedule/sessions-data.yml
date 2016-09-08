@@ -60,6 +60,14 @@
 
   category: "iOS"
 -
+  id: 007
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [7]
+
+  category: "iOS"
+-
   id: 102
   title: "Safe vs Deep integration of Realm"
   description: "Realm: A fast and secure database for Mobile platforms, which is easy to learn and integrate.

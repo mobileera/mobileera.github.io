@@ -40,7 +40,6 @@
   title: "iOS Engineer, Author of Swift High Performance book"
   bio: ''
   thumbnailUrl: KonstantinKoval.jpg
-  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/KostiaKoval"}
 -
@@ -65,7 +64,6 @@
   title: "Head of Mobile"
   bio: ''
   thumbnailUrl: OrtaTherox.jpg
-  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/orta"}
 -
@@ -76,7 +74,6 @@
   title: "Shutterstock"
   bio: ''
   thumbnailUrl: AlexsanderAkers.jpg
-  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/a2"}
 -
@@ -87,7 +84,6 @@
   title: "Practice Lead Mobile Technologies"
   bio: 'Christoffer is a developer at BEKK, where he has been involved in several app projects for customers. He is also the practice lead for BEKKs mobile technologies competency group, where he leads a group of 11 developers.'
   thumbnailUrl: ChristofferMarcussen.jpg
-  rockstar: true
   ribbon: Workshop
   social:
     - {name: "twitter", link: "https://twitter.com/chrjmarcussen"}
@@ -111,16 +107,17 @@
   thumbnailUrl: SvetlanaIsakova.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
-# -
-#   id: 104
-#   name: "Huyen"
-#   surname: "Tue Dao"
-#   company: "Trello"
-#   title: "Native Android/iOS Code Monkey"
-#   bio: 'I am an Android developer and have been for 6 years. I am also a Google Developer Expert for Android and co-produce a YouTube channel centered around interviews with people in the Android community.'
-#   thumbnailUrl: HuyenTueDao.jpg
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/queencodemonkey"}
+-
+  id: 104
+  name: "Huyen"
+  surname: "Tue Dao"
+  company: "Trello"
+  title: "Native Android/iOS Code Monkey"
+  bio: 'Huyen is an Android developer and has been for 6 years. She is also a Google Developer Expert for Android and co-produces a YouTube channel centered around interviews with people in the Android community.'
+  rockstar: true
+  thumbnailUrl: HuyenTueDao.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/queencodemonkey"}
 -
   id: 105
   name: "Syrine"
@@ -188,6 +185,7 @@
   company: "Microsoft"
   title: "ALM Solution Specialist"
   bio: 'Karoline Klever is an ALM Solution Specialist at Microsoft, focusing on the tools and processes developers use to improve their software delivery pipeline.' #' Having previously worked as a .NET developer and consultant, I have developed a passion for how developers work and why they make the choices they do. I continuously challenge myself and share my knowledge by blogging and speaking at user groups and conferences.'
+  rockstar: true
   thumbnailUrl: KarolineKlever.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/karolikl"}
@@ -208,6 +206,7 @@
   company: "Ionic"
   title: "Developer"
   bio: 'Part of Ionic core team, Mike helps developers while they are building their apps and also frequently speaks and writes about Ionic. In his spare time, he’s a hybrid app maker, occasional musician, and craft beer lover.'
+  rockstar: true
   thumbnailUrl: MikeHartington.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/mhartington"}

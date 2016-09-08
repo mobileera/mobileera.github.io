@@ -29,7 +29,7 @@
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [4, 107, 110]
+        sessionIds: [996, 107, 110]
     }
     - {
         startTime: "14:00",
@@ -64,12 +64,12 @@
         startTime: "10:00",
         endTime: "10:45",
         #IMPORTANT: Witalec (112) must speak on friday
-        sessionIds: [996, 996, 112]
+        sessionIds: [4, 104, 112]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [996, 113, 996]
+        sessionIds: [7, 113, 996]
     }
     - {
         startTime: "11:45",
