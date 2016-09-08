@@ -16,7 +16,7 @@
                         <img class="img-circle" src="{{ site.baseurl_root }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
                         <p>{{ about.text }}</p>
                         <p>
-                          <a href="{% if about.buttonPermalink != null %} {{ about.buttonPermalink | prepend: site.baseurl }} {% else %} {{ about.buttonLink }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if about.buttonLink != null %}target="_blank"{% endif %}>{{ about.buttonText }}</a>
+                          <a href="{% if about.buttonPermalink != null %} {{ about.buttonPermalink | prepend: site.baseurl }} {% else %} {{ about.buttonLink }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if about.buttonDisabled %}disabled{% endif %} {% if about.buttonLink != null %}target="_blank"{% endif %}>{{ about.buttonText }}</a>
                         </p>
                     </div>
                 </div>
