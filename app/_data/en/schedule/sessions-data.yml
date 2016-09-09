@@ -192,8 +192,8 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   description: "Mobile release cycles have always been longer than their web counterparts, but thanks to React Native, that doesn't have to remain the case. This talk will explore both the ways developers stand to win (daily app releases!) and lose (threading!) by integrating React Native into their current iOS apps. "
   subtype: presentation
   speakers: [117]
+  category: "iOS &amp; Cross-platform"
 
-  category: "iOS"
 -
   id: 118
   title: "Building outside of the sandbox"
@@ -232,7 +232,6 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   description: "Yes, and so does your laptop, tablet and any other WiFi enabled device you own. Without even touching your device, I can tell you where have you been, and I might even tell you where are you right now in the room. I don't even need any fancy and expensive hardware to do that. Magic? No. Scary? Yes! Well, at least it can easily be used to track you. Join me to hear a story on what I learned sniffing wireless packages, or why WiFi is broken. In this talk we will have a look at the theory behind this, how and why this works, and, of course, a live demo!"
   subtype: presentation
   speakers: [124]
-
   category: "Security"
 -
   id: 1

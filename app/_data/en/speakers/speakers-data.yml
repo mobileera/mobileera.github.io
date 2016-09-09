@@ -164,7 +164,7 @@
   surname: "Latteier"
   company: "Bendyworks"
   title: "Developer"
-  bio: 'An experienced developer working as a developer at Bendyworks.'
+  bio: 'Pearl Latteier is a software engineer at Bendyworks in Madison WI. For the past several years, she has focused primarily on building data-intensive JavaScript applications for web and mobile, most recently with React JS and React Native. She is also experienced with server-side technologies including Node, Ruby on Rails, and PHP. Before becoming a software developer, Pearl earned a PhD in from the University of Wisconsin-Madison, where for five years she taught courses in the Department of Communication Arts.'
   thumbnailUrl: PearlLatteier.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/pblatteier"}
@@ -240,16 +240,16 @@
   thumbnailUrl: SofiaHussain.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/UXsophia"}
-# -
-#   id: 117
-#   name: "Christina"
-#   surname: "Lee"
-#   company: "Pinterest"
-#   title: "Android and iOS Dev"
-#   bio: 'Formerly an Android and iOS Dev at Highlight, of note for being one of the first companies to bring a full Kotlin app to market as well as for work done porting Redux principles to native implementations on both iOS and Android. Recently acquired by Pinterest, where I have joined the Android team to work on bringing video to the platform. '
-#   thumbnailUrl: ChristinaLee.jpg
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
+-
+  id: 117
+  name: "Christina"
+  surname: "Lee"
+  company: "Pinterest"
+  title: "Android and iOS Dev"
+  bio: 'Formerly an Android and iOS Dev at Highlight &mdash; of note for being one of the first companies to bring a full Kotlin app to market as well as for work done porting Redux principles to native implementations on both iOS and Android. Highlight was recently acquired by Pinterest, where Christina has joined the Android team to work on bringing video to the platform.'
+  thumbnailUrl: ChristinaLee.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
 # -
 #   id: 118
 #   name: "Daniel"
