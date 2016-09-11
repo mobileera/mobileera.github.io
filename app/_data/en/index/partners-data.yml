@@ -18,6 +18,7 @@ sponsors:
       - {name: "Agens", description: "", link: "http://agens.no/", imageUrl: "agens.svg"}
 
       - {name: "Giant Leap Technologies", description: "", link: "http://www.giantleap.no/", imageUrl: "giantleap.svg"}
+      - {name: "Apps", description: "", link: "http://www.apps.no/", imageUrl: "apps.svg"}
 
 companions:
   -
