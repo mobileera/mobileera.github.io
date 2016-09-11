@@ -211,14 +211,6 @@ The second half of the talk, I will show by live-coding how easy it is to build 
 
   category: "Cross-platform"
 -
-  id: 121
-  title: "Your Phone is Snitching On You"
-  description: "Yes, and so does your laptop, tablet and any other WiFi enabled device you own. Without even touching your device, I can tell you where have you been, and I might even tell you where are you right now in the room. I don't even need any fancy and expensive hardware to do that. Magic? No. Scary? Yes! Well, at least it can easily be used to track you. Join me to hear a story on what I learned sniffing wireless packages, or why WiFi is broken. In this talk we will have a look at the theory behind this, how and why this works, and, of course, a live demo!"
-  subtype: presentation
-  speakers: [121]
-
-  category: "Cross-platform"
--
   id: 122
   title: "The Web or Bust!"
   description: "So can this newly hailed king, 'progressive webapps' as they call itt really grow up to a point where it can take on the native hegemony — and would it even matter in a few years' time?"
