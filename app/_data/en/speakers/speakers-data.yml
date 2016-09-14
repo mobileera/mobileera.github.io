@@ -10,6 +10,7 @@
   ribbon: Keynote
   social:
     - {name: "twitter", link: "https://twitter.com/smashingmag"}
+
 -
   id: 2
   name: "John"
@@ -21,6 +22,7 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/johnsundell"}
+
 -
   id: 3
   name: "Wei-Meng"
@@ -32,6 +34,7 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/weimenglee"}
+
 -
   id: 4
   name: "Konstantin"
@@ -66,6 +69,7 @@
   thumbnailUrl: OrtaTherox.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/orta"}
+
 -
   id: 7
   name: "Alexsander"
@@ -76,6 +80,7 @@
   thumbnailUrl: AlexsanderAkers.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/a2"}
+
 -
   id: 8
   name: "Christoffer"
@@ -87,6 +92,7 @@
   ribbon: Workshop
   social:
     - {name: "twitter", link: "https://twitter.com/chrjmarcussen"}
+
 -
   id: 102
   name: "Viraj"
@@ -97,6 +103,7 @@
   thumbnailUrl: VirajTank.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/viraj49"}
+
 -
   id: 103
   name: "Svetlana"
@@ -118,6 +125,7 @@
   thumbnailUrl: HuyenTueDao.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/queencodemonkey"}
+
 -
   id: 105
   name: "Syrine"
@@ -138,6 +146,7 @@
   thumbnailUrl: FrancoisBlavoet.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/francoisblavoet"}
+
 -
   id: 107
   name: "Erik"
@@ -148,6 +157,7 @@
   thumbnailUrl: ErikHellman.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/ErikHellman"}
+
 -
   id: 108
   name: "Abraham"
@@ -158,6 +168,7 @@
   thumbnailUrl: AbrahamWilliams.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/abraham"}
+
 -
   id: 109
   name: "Pearl"
@@ -168,6 +179,7 @@
   thumbnailUrl: PearlLatteier.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/pblatteier"}
+
 -
   id: 110
   name: "Jens Gorm"
@@ -178,6 +190,7 @@
   thumbnailUrl: JensGormRye-Andersen.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/jensgorm"}
+
 -
   id: 111
   name: "Karoline"
@@ -189,6 +202,7 @@
   thumbnailUrl: KarolineKlever.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/karolikl"}
+
 -
   id: 112
   name: "Sebastian"
@@ -199,6 +213,7 @@
   thumbnailUrl: SebastianWitalec.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/sebawita"}
+
 -
   id: 113
   name: "Mike"
@@ -210,6 +225,7 @@
   thumbnailUrl: MikeHartington.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/mhartington"}
+
 -
   id: 114
   name: "Remi"
@@ -220,6 +236,7 @@
   thumbnailUrl: RemiPedersen.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/fusetools"}
+
 -
   id: 115
   name: "Tom"
@@ -230,6 +247,7 @@
   thumbnailUrl: TomWideroe.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/twidero"}
+
 -
   id: 116
   name: "Sofia"
@@ -250,16 +268,18 @@
   thumbnailUrl: ChristinaLee.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
-# -
-#   id: 118
-#   name: "Daniel"
-#   surname: "Haight"
-#   company: "Novoda"
-#   title: "iOS developer"
-#   bio: ''
-#   thumbnailUrl: DanielHaight.jpg
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/daniel1of1"}
+
+-
+  id: 118
+  name: "Daniel"
+  surname: "Haight"
+  company: "Novoda"
+  title: "iOS developer"
+  bio: ''
+  thumbnailUrl: DanielHaight.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/daniel1of1"}
+
 -
   id: 119
   name: "Christian"
@@ -268,16 +288,18 @@
   title: "Independant Consultant and Advisor, Cross platform mobile apps"
   bio: 'Christian has worked with mobile technologies since 1999 (in the days of the Palm Pilot) and has extensive experience building apps for iOS/Android/Windows Phone. Offers independant consultancy and advisory services on building native apps with Xamarin in C# and .Net, he is also a founding member of Oslo Xamarin Meetup.'
   thumbnailUrl: ChristianFalch.jpg
-# -
-#   id: 120
-#   name: "Cesar"
-#   surname: "Valiente"
-#   company: "Microsoft"
-#   title: "Software Engineer"
-#   bio: 'I am Cesar Valiente, software engineer currently working at Microsoft, where I work on the famous and awarded multiplatform productivity app Wunderlist as Android Engineer. I am a community guy, I co-founded AndroidStartup which was the first Android developers community based in Madrid (Spain). I enjoy helping others organising events, collaborating speaking at conferences, or in general, sharing knowledge to help and support the community.'
-#   thumbnailUrl: CesarValiente.jpg
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/CesarValiente"}
+
+-
+  id: 120
+  name: "Cesar"
+  surname: "Valiente"
+  company: "Microsoft"
+  title: "Software Engineer"
+  bio: 'I am Cesar Valiente, software engineer currently working at Microsoft, where I work on the famous and awarded multiplatform productivity app Wunderlist as Android Engineer. I am a community guy, I co-founded AndroidStartup which was the first Android developers community based in Madrid (Spain). I enjoy helping others organising events, collaborating speaking at conferences, or in general, sharing knowledge to help and support the community.'
+  thumbnailUrl: CesarValiente.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/CesarValiente"}
+
 -
   id: 122
   name: "István 'Flaki'"
@@ -288,6 +310,7 @@
   thumbnailUrl: Flaki.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/slsoftworks"}
+
 -
   id: 123
   name: "Pavel"
@@ -309,3 +332,64 @@
   social:
     - {name: "twitter", link: "https://twitter.com/rmehmandarov"}
     - {name: "lanyrd", link: "http://lanyrd.com/profile/rmehmandarov/"}
+
+-
+  id: 125
+  name: "Jan"
+  surname: "Jongboom"
+  company: "ARM"
+  bio: "-"
+  thumbnailUrl: RustamMehmandarov.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/janjongboom"}
+    
+-
+  id: 126
+  name: "Dulma"
+  surname: "Churchill"
+  company: "Facebook"
+  bio: "-"
+  thumbnailUrl: RustamMehmandarov.jpg
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/janjongboom"}
+
+-
+  id: 127
+  name: "Tor-Morten"
+  surname: "Grønli"
+  company: "Westerdahls"
+  bio: "-"
+  thumbnailUrl: RustamMehmandarov.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tormorten"}
+
+
+-
+  id: 128
+  name: "Vegard"
+  surname: "Haugstvedt"
+  company: "Itera"
+  bio: "-"
+  thumbnailUrl: RustamMehmandarov.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/it_vegard"}
+
+-
+  id: 129
+  name: "Agnieszka"
+  surname: "Walorska"
+  company: "Facebook"
+  bio: "-"
+  thumbnailUrl: RustamMehmandarov.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/agaw"}
+
+-
+  id: 130
+  name: "Øyvind"
+  surname: "Tangen"
+  company: "BEKK"
+  bio: "-"
+  thumbnailUrl: RustamMehmandarov.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/zeeemz"}

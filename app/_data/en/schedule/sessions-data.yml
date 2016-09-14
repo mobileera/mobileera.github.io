@@ -20,6 +20,7 @@
   place: "TBA"
   service: true
   description: "The best time to talk with speakers and attendees."
+
 -
   id: 002
   title: "Building component-driven UIs"
@@ -164,7 +165,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   category: "Cross-platform"
 -
   id: 113
-  title: "Rethinking Mobile with Ionic 2"
+  title: "Rethinking Mobile with Ionic\u00a02"
   description: "Ionic has revolutionized the way web developers make the transition mobile development, but there’s always room to improve and make the lives of new app developers easier. With Ionic 2, we’ve improved upon much of what made Ionic 1 great, while also keeping things simple and reducing the fatigue that developers can feel when learning a new tool. We’ll introduce you to the basic Ionic 2 concepts and build an app live."
   subtype: presentation
   speakers: [113]
@@ -192,14 +193,22 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   description: "Mobile release cycles have always been longer than their web counterparts, but thanks to React Native, that doesn't have to remain the case. This talk will explore both the ways developers stand to win (daily app releases!) and lose (threading!) by integrating React Native into their current iOS apps. "
   subtype: presentation
   speakers: [117]
-  category: "iOS &amp; Cross-platform"
+  category: "Cross-platform"
 
 -
-  id: 118
+  id: 6
   title: "Building outside of the sandbox"
   description: "The largest OSS projects in the iOS ecosystem comes from people who have said “the tools we have are insufficient” and were unwilling to wait for Apple to fix them. There are still a lot of holes to be filled and as individuals we should be devoting time to helping ourselves and each other. This talk is about the speaker’s struggles with accepting that sometimes it’s up to you to be the change you want in the world."
   subtype: presentation
   speakers: [6]
+
+  category: "iOS"
+-
+  id: 118
+  title: "TBA"
+  description: "TBA"
+  subtype: presentation
+  speakers: [118]
 
   category: "iOS"
 -
@@ -211,13 +220,21 @@ The second half of the talk, I will show by live-coding how easy it is to build 
 
   category: "Cross-platform"
 -
+  id: 120
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [119]
+
+  category: "Android"
+-
   id: 122
   title: "The Web or Bust!"
   description: "So can this newly hailed king, 'progressive webapps' as they call itt really grow up to a point where it can take on the native hegemony — and would it even matter in a few years' time?"
   subtype: presentation
   speakers: [122]
 
-  category: "Cross-platform"
+  category: "Other & Everything"
 -
   id: 124
   title: "Your phone is snitching on you"
@@ -226,12 +243,64 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   speakers: [124]
   category: "Security"
 -
+  id: 125
+  title: "Building IoT devices for fun & profit"
+  description: "The internet of things era is finally starting to happen! We have billions of smart devices coming, from smart plants to smart suitcases, and from smart vending machines to smart toys. But… How can we, as ordinary developers, ride this wave? We’ll need to know how to build embedded devices, build smartphone apps to go with them, and connect devices to the internet. And when we’re all done: how can people even discover our devices?! In this demo heavy talk Jan Jongboom will show how embedded development and the web are coming together to change how we interact with our devices."
+  subtype: presentation
+  speakers: [125]
+  category: "IoT"
+-
+  id: 126
+  title: "Static Analysis in iOS"
+  description: "At Facebook, new code is being produced and shipped fast in a big code base shared by hundreds of engineers. Thus, we use a number of techniques to ensure good quality of code in this environment, such as unit and end-to-end tests and static analysis. Static analysis is a technique able to detect software errors statically, before a product is actually shipped, and without running the code. In this talk we describe the Infer Static Analyzer, an open source tool developed at Facebook that can find complex bugs such as Null Dereferences and Memory Leaks. It can also run fast in the CI, so that we can catch and fix bugs before code gets committed."
+  subtype: presentation
+  speakers: [126]
+  category: "iOS"
+-
+  id: 127
+  title: "Pain assesment through mobile solutions"
+  description: "Pain is one of the most prolific health problems within the population and costs industry lost revenue. In this presentation, this challence is addressed through the examplification of our research project on a mobile solution for dealing with back-pain. A mobile app for visually diarizing the pain experience of pa- tients created on the Android platform is utilizedthrough a 3D centric application. Positive evaluations obtained provide evidence of the promising nature of the approach and indicate several future directions of research within mobile pain management."
+  subtype: presentation
+  speakers: [127]
+  category: "Other"
+-
+  id: 128
+  title: "Offline first and search on steroids with Couchbase Mobile and Elastic Search"
+  description: "Wouldn't it be great if you could have a single, use-everywhere solution to creating offline-first apps? One that takes care of synchronization of data, has a flexible data model and workes with iOS, Android and Windows Phone? Coucbase Mobile is that solution! I will show you how easy it is to get up-and-running, as well as how to integrate with Elasticsearch to get state-of-the-art search capabilities (when online). As a bonus, I will show you how PouchDB can use the same infrastructure for Progressive Web Apps."
+  subtype: presentation
+  speakers: [128]
+  category: "Cross-platform"
+-
+  id: 129
+  title: "Artifical Intelligence & Design. The End of User Experience as we know it?"
+  description: "Wouldn't it be great if you could have a single, use-everywhere solution to creating offline-first apps? One that takes care of synchronization of data, has a flexible data model and workes with iOS, Android and Windows Phone? Coucbase Mobile is that solution! I will show you how easy it is to get up-and-running, as well as how to integrate with Elasticsearch to get state-of-the-art search capabilities (when online). As a bonus, I will show you how PouchDB can use the same infrastructure for Progressive Web Apps."
+  subtype: presentation
+  speakers: [129]
+  category: "Other"
+-
+  id: 130
+  title: "Swift on the Backend "
+  description: "With Apple open sourcing and releasing a Linux version, Swift is ready for new territories on the server, and the term Full-Stack Swift Developer gets a meaning. This talk shows how easy you can get up and running with Swift on the backend."
+  subtype: presentation
+  speakers: [130]
+  category: "iOS"
+
+-
   id: 1
   title: "Cutting-Edge Responsive Web Design For Mobile"
   description: "With HTTP/2, Service Workers, Responsive Images, Flexbox, SVG and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites just in time. We want to use all of these technologies, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time? In this talk, Vitaly Friedman, editor-in-chief of Smashing Magazine, will be looking into a strategy for crafting fast, resilient and flexible responsive design systems by utilizing all of those wonderful shiny web technologies we have available today. We'll also talk about dealing with legacy browsers and will cover a few dirty little techniques that might ensure that your responsive websites will stay relevant, flexible and accessible in the years to come."
   category: "Keynote"
   subtype: keynote
   speakers: [1]
+
+# Lighting talks IDs: 200-299
+-
+  id: 200
+  title: "Lightning Talks"
+  description: "Speakers & Exact details will be revelead closer to the conference date."
+  subtype: presentation
+
+# Workshop IDs: 200-299
 -
   id: 801
   title: "Android 101 Workshop"

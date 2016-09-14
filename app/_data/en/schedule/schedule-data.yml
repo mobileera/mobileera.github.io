@@ -19,7 +19,10 @@
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [3, 124, 109]
+        # IMPORTANT: Vegard (128) must speak on Thursday
+        # Øyvind (130) wishes to speak Thursday
+        # Rustam (124) wishes to speak Thursday
+        sessionIds: [130, 124, 128]
     }
     - {
         startTime: "11:45",
@@ -29,18 +32,18 @@
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [996, 107, 110]
+        sessionIds: [117, 107, 111]
     }
     - {
         startTime: "14:00",
         endTime: "14:45",
-        sessionIds: [996, 105, 111]
+        sessionIds: [129, 103, 110]
     }
     - {
         startTime: "15:00",
         endTime: "15:45",
         # IMPORTANT: Remi (114) must speak Thursday
-        sessionIds: [118, 103, 114]
+        sessionIds: [6, 105, 114]
     }
     - {
         startTime: "18:00",
@@ -58,18 +61,18 @@
     - {
         startTime: "9:00",
         endTime: "9:45",
-        sessionIds: [996]
+        #IMPORTANT: Witalec (112) must speak on Friday
+        sessionIds: [104, 4, 112]
     }
     - {
         startTime: "10:00",
         endTime: "10:45",
-        #IMPORTANT: Witalec (112) must speak on friday
-        sessionIds: [4, 104, 112]
+        sessionIds: [3, 7, 113]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [7, 113, 996]
+        sessionIds: [126, 115, 127]
     }
     - {
         startTime: "11:45",
@@ -79,15 +82,15 @@
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [115, 996, 996]
+        sessionIds: [200, 200, 200]
     }
     - {
         startTime: "14:00",
         endTime: "14:45",
-        sessionIds: [108, 996, 996]
+        sessionIds: [108, 118, 125]
     }
     - {
         startTime: "15:00",
         endTime: "15:45",
-        sessionIds: [117, 122, 996]
+        sessionIds: [109, 122, 120]
     }
