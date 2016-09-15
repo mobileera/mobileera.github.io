@@ -339,19 +339,18 @@
   surname: "Jongboom"
   company: "ARM"
   bio: "-"
-  thumbnailUrl: anonymous.jpg
+  thumbnailUrl: JanJongboom.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/janjongboom"}
-    
+
 # -
 #   id: 126
 #   name: "Dulma"
 #   surname: "Churchill"
 #   company: "Facebook"
-#   bio: "-"
-#   thumbnailUrl: anonymous.jpg
-#   # social:
-#   #   - {name: "twitter", link: "https://twitter.com/janjongboom"}
+#   bio: ""
+#   thumbnailUrl: DulmaChurchill.jpg
+
 
 -
   id: 127
@@ -359,7 +358,7 @@
   surname: "Grønli"
   company: "Westerdahls"
   bio: "-"
-  thumbnailUrl: anonymous.jpg
+  thumbnailUrl: Tor-MortenGronli.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tormorten"}
 
@@ -370,7 +369,7 @@
   surname: "Haugstvedt"
   company: "Itera"
   bio: "-"
-  thumbnailUrl: anonymous.jpg
+  thumbnailUrl: VegardHaugstvedt.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/it_vegard"}
 
@@ -380,7 +379,7 @@
 #   surname: "Walorska"
 #   company: "Facebook"
 #   bio: "-"
-#   thumbnailUrl: anonymous.jpg
+#   thumbnailUrl: AgnieszkaWalorska.jpg
 #   social:
 #     - {name: "twitter", link: "https://twitter.com/agaw"}
 
@@ -390,6 +389,6 @@
   surname: "Tangen"
   company: "BEKK"
   bio: "-"
-  thumbnailUrl: anonymous.jpg
+  thumbnailUrl: OyvindTangen.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/zeeemz"}
