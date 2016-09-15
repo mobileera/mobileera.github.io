@@ -339,19 +339,19 @@
   surname: "Jongboom"
   company: "ARM"
   bio: "-"
-  thumbnailUrl: RustamMehmandarov.jpg
+  thumbnailUrl: anonymous.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/janjongboom"}
     
--
-  id: 126
-  name: "Dulma"
-  surname: "Churchill"
-  company: "Facebook"
-  bio: "-"
-  thumbnailUrl: RustamMehmandarov.jpg
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/janjongboom"}
+# -
+#   id: 126
+#   name: "Dulma"
+#   surname: "Churchill"
+#   company: "Facebook"
+#   bio: "-"
+#   thumbnailUrl: anonymous.jpg
+#   # social:
+#   #   - {name: "twitter", link: "https://twitter.com/janjongboom"}
 
 -
   id: 127
@@ -359,7 +359,7 @@
   surname: "Grønli"
   company: "Westerdahls"
   bio: "-"
-  thumbnailUrl: RustamMehmandarov.jpg
+  thumbnailUrl: anonymous.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tormorten"}
 
@@ -370,19 +370,19 @@
   surname: "Haugstvedt"
   company: "Itera"
   bio: "-"
-  thumbnailUrl: RustamMehmandarov.jpg
+  thumbnailUrl: anonymous.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/it_vegard"}
 
--
-  id: 129
-  name: "Agnieszka"
-  surname: "Walorska"
-  company: "Facebook"
-  bio: "-"
-  thumbnailUrl: RustamMehmandarov.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/agaw"}
+# -
+#   id: 129
+#   name: "Agnieszka"
+#   surname: "Walorska"
+#   company: "Facebook"
+#   bio: "-"
+#   thumbnailUrl: anonymous.jpg
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/agaw"}
 
 -
   id: 130
@@ -390,6 +390,6 @@
   surname: "Tangen"
   company: "BEKK"
   bio: "-"
-  thumbnailUrl: RustamMehmandarov.jpg
+  thumbnailUrl: anonymous.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/zeeemz"}

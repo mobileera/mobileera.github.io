@@ -205,8 +205,8 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   category: "iOS"
 -
   id: 118
-  title: "TBA"
-  description: "TBA"
+  title: "AsynConcurrency"
+  description: " An abstract though mildly practical look into how we model chronological order in programs with uncertain inputs."
   subtype: presentation
   speakers: [118]
 
@@ -224,7 +224,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   title: "TBA"
   description: ""
   subtype: presentation
-  speakers: [119]
+  speakers: [120]
 
   category: "Android"
 -
@@ -249,13 +249,13 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   subtype: presentation
   speakers: [125]
   category: "IoT"
--
-  id: 126
-  title: "Static Analysis in iOS"
-  description: "At Facebook, new code is being produced and shipped fast in a big code base shared by hundreds of engineers. Thus, we use a number of techniques to ensure good quality of code in this environment, such as unit and end-to-end tests and static analysis. Static analysis is a technique able to detect software errors statically, before a product is actually shipped, and without running the code. In this talk we describe the Infer Static Analyzer, an open source tool developed at Facebook that can find complex bugs such as Null Dereferences and Memory Leaks. It can also run fast in the CI, so that we can catch and fix bugs before code gets committed."
-  subtype: presentation
-  speakers: [126]
-  category: "iOS"
+# -
+#   id: 126
+#   title: "Static Analysis in iOS"
+#   description: "At Facebook, new code is being produced and shipped fast in a big code base shared by hundreds of engineers. Thus, we use a number of techniques to ensure good quality of code in this environment, such as unit and end-to-end tests and static analysis. Static analysis is a technique able to detect software errors statically, before a product is actually shipped, and without running the code. In this talk we describe the Infer Static Analyzer, an open source tool developed at Facebook that can find complex bugs such as Null Dereferences and Memory Leaks. It can also run fast in the CI, so that we can catch and fix bugs before code gets committed."
+#   subtype: presentation
+#   speakers: [126]
+#   category: "iOS"
 -
   id: 127
   title: "Pain assesment through mobile solutions"
@@ -270,13 +270,13 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   subtype: presentation
   speakers: [128]
   category: "Cross-platform"
--
-  id: 129
-  title: "Artifical Intelligence & Design. The End of User Experience as we know it?"
-  description: "Wouldn't it be great if you could have a single, use-everywhere solution to creating offline-first apps? One that takes care of synchronization of data, has a flexible data model and workes with iOS, Android and Windows Phone? Coucbase Mobile is that solution! I will show you how easy it is to get up-and-running, as well as how to integrate with Elasticsearch to get state-of-the-art search capabilities (when online). As a bonus, I will show you how PouchDB can use the same infrastructure for Progressive Web Apps."
-  subtype: presentation
-  speakers: [129]
-  category: "Other"
+# -
+#   id: 129
+#   title: "Artifical Intelligence & Design. The End of User Experience as we know it?"
+#   description: "Wouldn't it be great if you could have a single, use-everywhere solution to creating offline-first apps? One that takes care of synchronization of data, has a flexible data model and workes with iOS, Android and Windows Phone? Coucbase Mobile is that solution! I will show you how easy it is to get up-and-running, as well as how to integrate with Elasticsearch to get state-of-the-art search capabilities (when online). As a bonus, I will show you how PouchDB can use the same infrastructure for Progressive Web Apps."
+#   subtype: presentation
+#   speakers: [129]
+#   category: "Other"
 -
   id: 130
   title: "Swift on the Backend "
@@ -297,7 +297,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
 -
   id: 200
   title: "Lightning Talks"
-  description: "Speakers & Exact details will be revelead closer to the conference date."
+  description: "Speakers & exact details will be revelead closer to the conference date."
   subtype: presentation
 
 # Workshop IDs: 200-299

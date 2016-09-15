@@ -37,7 +37,7 @@
     - {
         startTime: "14:00",
         endTime: "14:45",
-        sessionIds: [129, 103, 110]
+        sessionIds: [996, 103, 110] # Add 129 for 996 here
     }
     - {
         startTime: "15:00",
@@ -72,7 +72,7 @@
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [126, 115, 127]
+        sessionIds: [996, 115, 127] # Add 126 in 996 here
     }
     - {
         startTime: "11:45",
@@ -92,5 +92,5 @@
     - {
         startTime: "15:00",
         endTime: "15:45",
-        sessionIds: [109, 122, 120]
+        sessionIds: [122, 120, 109]
     }
