@@ -273,7 +273,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
 -
   id: 129
   title: "Artifical Intelligence & Design. The End of User Experience as we know it?"
-  description: "Wouldn't it be great if you could have a single, use-everywhere solution to creating offline-first apps? One that takes care of synchronization of data, has a flexible data model and workes with iOS, Android and Windows Phone? Coucbase Mobile is that solution! I will show you how easy it is to get up-and-running, as well as how to integrate with Elasticsearch to get state-of-the-art search capabilities (when online). As a bonus, I will show you how PouchDB can use the same infrastructure for Progressive Web Apps."
+  description: "2015 was characterized by unparalleled dynamics in the area of artificial intelligence not only in the technological perspective - AI becomes one of the most important tools for UX designers. It can make the interaction with machines more human and integrate it flawlessly in our daily lives. But is there a flip side, will AI be the end of the design and designer as we know them?"
   subtype: presentation
   speakers: [129]
   category: "Other"
@@ -291,6 +291,14 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   subtype: presentation
   speakers: [131]
   category: "Security"
+
+-
+  id: 132
+  title: "How we made a smartphone in Norway"
+  description: "Description coming soon"
+  subtype: presentation
+  speakers: [132]
+  category: "Other"
 
 -
   id: 1

@@ -338,7 +338,7 @@
   name: "Jan"
   surname: "Jongboom"
   company: "ARM"
-  bio: "-"
+  bio: "Jan Jongboom is working as Developer Evangelist IoT for ARM, and always on the lookout on how to connect the web with the real world. He loves doing unexpected stuff with sensors, flying drones from the browser, and breaking phones. Before ARM he was a core contributor to Firefox OS, and he wrote hundreds of patches to various open source projects. He's also a Google Developer Expert for Web technologies."
   thumbnailUrl: JanJongboom.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/janjongboom"}
@@ -348,7 +348,7 @@
   name: "Dulma"
   surname: "Churchill"
   company: "Facebook"
-  bio: "-"
+  bio: "Dulma Churchill is a Software Engineer at Facebook, where she develops the open source static analyzer Infer. Before that, she worked on her PhD in static analysis  at the University of Munich."
   thumbnailUrl: DulmaChurchill.jpg
 
 -
@@ -356,7 +356,7 @@
   name: "Tor-Morten"
   surname: "Grønli"
   company: "Westerdals"
-  bio: "-"
+  bio: "Mobile enthusiast, PhD and researcher in Mobile development, Head of Mobile Tech Lab @ Westerdals"
   thumbnailUrl: Tor-MortenGronli.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tormorten"}
@@ -367,28 +367,28 @@
   name: "Vegard"
   surname: "Haugstvedt"
   company: "Itera"
-  bio: "-"
+  bio: "Vegard is a full-stack developer and also in charge of training events for the technology department @ Itera. His experience in the mobile field comes mainly from hobby projects, but he has fiddled with Android, Xamarin, Ionic and more. He is a strong advocate of the mobile- and offline-first approach, and has talked about using Couchbase Mobile at conferences from Oslo to Hong Kong."
   thumbnailUrl: VegardHaugstvedt.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/it_vegard"}
 
-<<<<<<< HEAD
 -
   id: 129
   name: "Agnieszka"
   surname: "Walorska"
-  company: "Facebook"
-  bio: "-"
+  company: "Creative Construction Heroes GmbH"
+  bio: "Agnieszka M. Walorska is a founder of a digital consultancy Creative Construction Heroes GmbH, focusing on User Experience and Digital Innovation. Agnieszka is a speaker and author of publications on User Experience and digital innovation. She has lead successful UX and innovation projects for banks and energy, insurance and media companies. Agnieszka is dealing with digital innovation and User Experience for more then 1/3 of her life now. When not solving UX- and innovation-problems, she’s training for the next triathlon."
   thumbnailUrl: AgnieszkaWalorska.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/agaw"}
+    - {name: "website", link: "http://www.creativeconstruction.de"}
 
 -
   id: 130
   name: "Øyvind"
   surname: "Tangen"
   company: "BEKK"
-  bio: "-"
+  bio: "Øyvind is a software developer working for BEKK with a master's degree from the University of Oslo in Informatics: Programming and Networks. Mobile and iOS in particular is the area that interest him the most."
   thumbnailUrl: OivindTangen.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/zeeemz"}
@@ -398,7 +398,17 @@
   name: "Thomas"
   surname: "Pettersen"
   company: "Mesan AS"
-  bio: "-"
+  bio: "Have been developing mobile applications since 2010, mainly on the Android and Xamarin platform, and is now the lead of the mobility domain in Mesan. Thomas have been invoved in many enterprise and customer apps for companies like NRK, NorgesGruppen, Mesta etc. Also, he is in love with the field of innovation and mobile development and looking forware to the Mobile Era."
   thumbnailUrl: ThomasPettersen.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/zeeemz"}
+    - {name: "twitter", link: "https://twitter.com/MobDevThomas"}
+
+-
+  id: 132
+  name: "Arne-Christian"
+  surname: "Blystad"
+  company: "BARTEC PIXAVI"
+  bio: "-"
+  thumbnailUrl: ArneChristianBlystad.jpg
+  social:
+    - {name: "github", link: "https://github.com/Blystad"}
