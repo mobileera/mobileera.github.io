@@ -2,5 +2,5 @@ image: "statistic.jpg"
 blocks:
  - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "", info: "hours", detail: "of mobile technologies"}
- - {count: "38", specialCharacter: "", info: "speakers", detail: "international and Norwegian technology experts and enthusiasts"}
+ - {count: "37", specialCharacter: "", info: "speakers", detail: "international and Norwegian technology experts and enthusiasts"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "covering iOS, Android, Hybrid, Design & Web"}
