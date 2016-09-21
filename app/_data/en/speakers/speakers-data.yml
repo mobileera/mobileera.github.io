@@ -339,27 +339,25 @@
   surname: "Jongboom"
   company: "ARM"
   bio: "-"
-  thumbnailUrl: anonymous.jpg
+  thumbnailUrl: JanJongboom.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/janjongboom"}
-    
+
 -
   id: 126
   name: "Dulma"
   surname: "Churchill"
   company: "Facebook"
   bio: "-"
-  thumbnailUrl: anonymous.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/"}
+  thumbnailUrl: DulmaChurchill.jpg
 
 -
   id: 127
   name: "Tor-Morten"
   surname: "Grønli"
-  company: "Westerdahls"
+  company: "Westerdals"
   bio: "-"
-  thumbnailUrl: anonymous.jpg
+  thumbnailUrl: Tor-MortenGronli.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tormorten"}
 
@@ -374,6 +372,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/it_vegard"}
 
+<<<<<<< HEAD
 -
   id: 129
   name: "Agnieszka"
