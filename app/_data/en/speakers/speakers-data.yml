@@ -408,7 +408,17 @@
   name: "Arne-Christian"
   surname: "Blystad"
   company: "BARTEC PIXAVI"
-  bio: "-"
+  bio: "This talk will go through how BARTEC PIXAVI created an intrinsically safe (EX) Android smart phone and cameras. We'll look at the hardware platform used (SoC), why we did the hardware and software choices we did, how we upgrade between different versions of Android, what modifications we've made to Android, the challenges we faced during development, and currently face during manufacturing and post-release development."
   thumbnailUrl: ArneChristianBlystad.jpg
   social:
     - {name: "github", link: "https://github.com/Blystad"}
+
+-
+  id: 133
+  name: "Marcos"
+  surname: "Placona"
+  company: "Twilio"
+  bio: "Marcos Placona is a developer evangelist at Twilio, a company founded to disrupt communications. He spends most of his time working with Java, Android and .Net open source projects while equipping and inspiring developers to build killer applications. He’s also a great API enthusiast and believes they bring peace to the Software Engineering world."
+  thumbnailUrl: MarcosPlacona.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/marcos_placona"}
