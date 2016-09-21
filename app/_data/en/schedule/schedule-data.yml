@@ -26,24 +26,29 @@
     }
     - {
         startTime: "11:45",
-        endTime: "13:00",
+        endTime: "12:45",
         sessionIds: [998]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
+        startTime: "12:45",
+        endTime: "13:30",
         sessionIds: [117, 107, 111]
     }
     - {
-        startTime: "14:00",
-        endTime: "14:45",
-        sessionIds: [996, 103, 110] # Add 129 for 996 here
+        startTime: "13:45",
+        endTime: "14:30",
+        sessionIds: [129, 103, 110]
     }
     - {
-        startTime: "15:00",
-        endTime: "15:45",
+        startTime: "14:45",
+        endTime: "15:30",
         # IMPORTANT: Remi (114) must speak Thursday
         sessionIds: [6, 105, 114]
+    }
+    - {
+        startTime: "15:45",
+        endTime: "16:30",
+        sessionIds: [996, 131, 996]
     }
     - {
         startTime: "18:00",
@@ -72,25 +77,25 @@
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [996, 115, 127] # Add 126 in 996 here
+        sessionIds: [126, 115, 127]
     }
     - {
         startTime: "11:45",
-        endTime: "13:00",
+        endTime: "12:45",
         sessionIds: [998]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
+        startTime: "12:45",
+        endTime: "13:30",
         sessionIds: [200, 200, 200]
     }
     - {
-        startTime: "14:00",
-        endTime: "14:45",
+        startTime: "13:45",
+        endTime: "14:30",
         sessionIds: [108, 118, 125]
     }
     - {
-        startTime: "15:00",
-        endTime: "15:45",
+        startTime: "14:45",
+        endTime: "15:30",
         sessionIds: [122, 120, 109]
     }

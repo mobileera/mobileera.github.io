@@ -343,15 +343,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/janjongboom"}
     
-# -
-#   id: 126
-#   name: "Dulma"
-#   surname: "Churchill"
-#   company: "Facebook"
-#   bio: "-"
-#   thumbnailUrl: anonymous.jpg
-#   # social:
-#   #   - {name: "twitter", link: "https://twitter.com/janjongboom"}
+-
+  id: 126
+  name: "Dulma"
+  surname: "Churchill"
+  company: "Facebook"
+  bio: "-"
+  thumbnailUrl: anonymous.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
 
 -
   id: 127
@@ -370,19 +370,19 @@
   surname: "Haugstvedt"
   company: "Itera"
   bio: "-"
-  thumbnailUrl: anonymous.jpg
+  thumbnailUrl: VegardHaugstvedt.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/it_vegard"}
 
-# -
-#   id: 129
-#   name: "Agnieszka"
-#   surname: "Walorska"
-#   company: "Facebook"
-#   bio: "-"
-#   thumbnailUrl: anonymous.jpg
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/agaw"}
+-
+  id: 129
+  name: "Agnieszka"
+  surname: "Walorska"
+  company: "Facebook"
+  bio: "-"
+  thumbnailUrl: AgnieszkaWalorska.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/agaw"}
 
 -
   id: 130
@@ -390,6 +390,16 @@
   surname: "Tangen"
   company: "BEKK"
   bio: "-"
-  thumbnailUrl: anonymous.jpg
+  thumbnailUrl: OivindTangen.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/zeeemz"}
+
+-
+  id: 131
+  name: "Thomas"
+  surname: "Pettersen"
+  company: "Mesan AS"
+  bio: "-"
+  thumbnailUrl: ThomasPettersen.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/zeeemz"}
