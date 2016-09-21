@@ -20,6 +20,12 @@
   place: "TBA"
   service: true
   description: "The best time to talk with speakers and attendees."
+-
+  id: 994
+  title: "Socializing 🍻"
+  place: "TBA"
+  service: true
+  description: "Even if the conference is over, we will recommend a place to go to if you are still in Oslo for even more mobile discussions!"
 
 -
   id: 002
@@ -306,7 +312,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   description: "In this talk we will look at common scenarios where we’re pushing users away without even realising it and look at real-life examples of how we can fix that."
   subtype: presentation
   speakers: [133]
-  category: "Other"
+  category: "UX"
 
 -
   id: 1

@@ -289,16 +289,16 @@
   bio: 'Christian has worked with mobile technologies since 1999 (in the days of the Palm Pilot) and has extensive experience building apps for iOS/Android/Windows Phone. Offers independant consultancy and advisory services on building native apps with Xamarin in C# and .Net, he is also a founding member of Oslo Xamarin Meetup.'
   thumbnailUrl: ChristianFalch.jpg
 
--
-  id: 120
-  name: "Cesar"
-  surname: "Valiente"
-  company: "Microsoft"
-  title: "Software Engineer"
-  bio: 'I am Cesar Valiente, software engineer currently working at Microsoft, where I work on the famous and awarded multiplatform productivity app Wunderlist as Android Engineer. I am a community guy, I co-founded AndroidStartup which was the first Android developers community based in Madrid (Spain). I enjoy helping others organising events, collaborating speaking at conferences, or in general, sharing knowledge to help and support the community.'
-  thumbnailUrl: CesarValiente.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/CesarValiente"}
+# -
+#   id: 120
+#   name: "Cesar"
+#   surname: "Valiente"
+#   company: "Microsoft"
+#   title: "Software Engineer"
+#   bio: 'I am Cesar Valiente, software engineer currently working at Microsoft, where I work on the famous and awarded multiplatform productivity app Wunderlist as Android Engineer. I am a community guy, I co-founded AndroidStartup which was the first Android developers community based in Madrid (Spain). I enjoy helping others organising events, collaborating speaking at conferences, or in general, sharing knowledge to help and support the community.'
+#   thumbnailUrl: CesarValiente.jpg
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/CesarValiente"}
 
 -
   id: 122
