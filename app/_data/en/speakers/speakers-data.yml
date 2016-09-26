@@ -76,7 +76,7 @@
   surname: "Akers"
   company: "Shutterstock"
   title: "Software Engineer"
-  bio: ''
+  bio: 'Alex currently works for Shutterstock in their Berlin office, where he develops their iOS apps for both stock media consumers and producers. Previously, Alex worked at Branch in New York City on Potluck and then at Facebook in London on Rooms and React Native.'
   thumbnailUrl: AlexsanderAkers.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/a2"}
