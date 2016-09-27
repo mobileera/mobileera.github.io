@@ -45,20 +45,7 @@
   thumbnailUrl: KonstantinKoval.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/KostiaKoval"}
-# -
-#   id: 5
-#   name: "Michael"
-#   surname: "May"
-#   company: "Wrisk"
-#   title: "Lead iOS Engineer"
-#   bio: 'Michael has been an iOS developer since just after the App Store launched, and various engineering incarnations before that (including Windows when NT meant New Technology and Java when it had a Mobile Edition). After stints at Shazam, The Guardian, Time Out, Songkick and others, he is now attempting to rethink the insurance industry for the always connected generations as the first mobile engineer at Wrisk, based in East London.'
-#   # An apparently infrequent speaker, he has ranged far and wide, having spoke on everything from DJ’ing after a terrorist attack (TEDx Alcatraz, 2010) to the many lessons he learned the hard way as a team lead (NSSpain 2015). By his own admission he is far too fussy about what coffee and beer he drinks, and very easily upset by bad user interfaces. (That should make the between talk breaks an interesting experience, then).
-#   #Pulling together, and building on themes from his some recent talks - The Empathetic Programmer (UIKonf 2016) and Adding Tests To An Untested Project (CMD+U 2016) this talk will look not just at how one brings tests to a legacy code base, but why one should even try, as well as considering why they might not have been there in the first place. Expect empathy, humour, and plenty of real world code. If previous talks are anything to go by, there is likely to a few anecdotes too - probably set in, or around, the pubs of London.
-#   #How does that work for you? Please don’t be afraid to tell me if you are not unhappy. I truly have no ego that needs stroking about this stuff and happily, gratefully, receive feedback. Always.
-#   thumbnailUrl: MichaelMay.jpg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/CoderMay"}
+
 -
   id: 6
   name: "Orta"
@@ -67,6 +54,7 @@
   title: "Head of Mobile"
   bio: ''
   thumbnailUrl: OrtaTherox.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/orta"}
 
@@ -78,6 +66,7 @@
   title: "Software Engineer"
   bio: 'Alex currently works for Shutterstock in their Berlin office, where he develops their iOS apps for both stock media consumers and producers. Previously, Alex worked at Branch in New York City on Potluck and then at Facebook in London on Rooms and React Native.'
   thumbnailUrl: AlexsanderAkers.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/a2"}
 
@@ -112,6 +101,7 @@
   title: "Developer Advocate"
   bio: 'Svetlana is a Developer Advocate at JetBrains. She is been working on the Kotlin language (http://kotlinlang.org/) since 2011. She is one of the authors of the "Kotlin in Action" book.'
   thumbnailUrl: SvetlanaIsakova.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
 -
@@ -211,6 +201,7 @@
   title: "Technical Evangelist"
   bio: 'Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture. Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript (a member of the team). He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).'
   thumbnailUrl: SebastianWitalec.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/sebawita"}
 
@@ -266,6 +257,7 @@
   title: "Android and iOS Dev"
   bio: 'Formerly an Android and iOS Dev at Highlight &mdash; of note for being one of the first companies to bring a full Kotlin app to market as well as for work done porting Redux principles to native implementations on both iOS and Android. Highlight was recently acquired by Pinterest, where Christina has joined the Android team to work on bringing video to the platform.'
   thumbnailUrl: ChristinaLee.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
 
@@ -308,6 +300,7 @@
   title: "Mobile & web dev"
   bio: 'István is a mobile & web dev who have tried everything from J2ME through Symbian and Android dev whilst once ended up with the mobile web and somehow never looked back. He has been involved with Mozillas Firefox OS and a huge proponent of the Progressive Webapps bandwagon, or whatever people call "webapps kicking native butt" these days. ;)'
   thumbnailUrl: Flaki.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/slsoftworks"}
 
@@ -340,6 +333,7 @@
   company: "ARM"
   bio: "Jan Jongboom is working as Developer Evangelist IoT for ARM, and always on the lookout on how to connect the web with the real world. He loves doing unexpected stuff with sensors, flying drones from the browser, and breaking phones. Before ARM he was a core contributor to Firefox OS, and he wrote hundreds of patches to various open source projects. He's also a Google Developer Expert for Web technologies."
   thumbnailUrl: JanJongboom.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/janjongboom"}
 
@@ -420,5 +414,6 @@
   company: "Twilio"
   bio: "Marcos Placona is a developer evangelist at Twilio, a company founded to disrupt communications. He spends most of his time working with Java, Android and .Net open source projects while equipping and inspiring developers to build killer applications. He’s also a great API enthusiast and believes they bring peace to the Software Engineering world."
   thumbnailUrl: MarcosPlacona.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/marcos_placona"}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Early bird tickets ends soon"
-date:   2016-09-27 09:00:00
+date:   2016-09-27 06:00:00
 isStaticPost: false
 ---
 Get your ticket now: The early bird ticket **sale ends September 30th**.

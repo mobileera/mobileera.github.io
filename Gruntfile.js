@@ -1,12 +1,63 @@
 'use strict';
 
+
+var packageJson = require('./package.json');
+var path = require('path');
+var swPrecache = require('./node_modules/sw-precache/lib/sw-precache.js');
+
+
 module.exports = function(grunt) {
+
+    function writeServiceWorkerFile(rootDir, handleFetch, callback) {
+        var config = {
+            cacheId: packageJson.name,
+            dynamicUrlToDependencies: {},
+            // If handleFetch is false (i.e. because this is called from swPrecache:dev), then
+            // the service worker will precache resources but won't actually serve them.
+            // This allows you to test precaching behavior without worry about the cache preventing your
+            // local changes from being picked up during the development cycle.
+            handleFetch: handleFetch,
+            logger: grunt.log.writeln,
+            staticFileGlobs: [
+                rootDir + '/css/**.css',
+                rootDir + '/**.html',
+                rootDir + '/img/**.*',
+                rootDir + '/js/**.js'
+            ],
+            stripPrefix: rootDir + '/',
+            // verbose defaults to false, but for the purposes of this demo, log more.
+            verbose: true
+        };
+
+        swPrecache.write(path.join(rootDir, 'service-worker.js'), config, callback);
+    }
+
+    grunt.registerMultiTask('swPrecache', function() {
+        var done = this.async();
+        var rootDir = this.data.rootDir;
+        var handleFetch = this.data.handleFetch;
+
+        writeServiceWorkerFile(rootDir, handleFetch, function(error) {
+            if (error) {
+                grunt.fail.warn(error);
+            }
+            done();
+        });
+    });
+
     require('time-grunt')(grunt);
     require('jit-grunt')(grunt, {
-        buildcontrol: 'grunt-build-control'
+        buildcontrol: 'grunt-build-control',
+        swPrecache: 'swPrecache'
     });
 
     grunt.initConfig({
+        swPrecache: {
+            dev: {
+                handleFetch: false,
+                rootDir: 'dist'
+            }
+        },
         app: {
             source: 'app',
             dist: 'dist',
@@ -282,17 +333,13 @@ module.exports = function(grunt) {
         },
         svgmin: {
             options: {
-                plugins: [
-                    {
-                        cleanupIDs : false
-                    },
-                    {
-                        collapseGroups: false
-                    },
-                    {
-                        addClassesToSVGElement : false
-                    }
-                ]
+                plugins: [{
+                    cleanupIDs: false
+                }, {
+                    collapseGroups: false
+                }, {
+                    addClassesToSVGElement: false
+                }]
             },
             dist: {
                 files: [{
@@ -319,14 +366,12 @@ module.exports = function(grunt) {
                     cwd: 'bower_components/bootstrap-sass/assets/javascripts',
                     src: 'bootstrap.min.js',
                     dest: '<%= app.dist %>/<%= app.baseurl %>/js'
-                },
-                {
+                }, {
                     expand: true,
                     cwd: 'bower_components/jquery/dist',
                     src: ['jquery.min.js', 'jquery.min.map'],
                     dest: '<%= app.dist %>/<%= app.baseurl %>/js'
-                },
-                {
+                }, {
                     expand: true,
                     cwd: 'app/_static',
                     src: ['*'],
@@ -382,7 +427,8 @@ module.exports = function(grunt) {
         'cssmin',
         'critical',
         'copy:dist',
-        'htmlmin'
+        'htmlmin',
+        'swPrecache'
     ]);
 
     grunt.registerTask('deploy', [
