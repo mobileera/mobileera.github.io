@@ -12,7 +12,14 @@
                         </div>
                         <div class="share col-md-6 col-xs-6 pull-right">
                             <ul class="social-links">
-                            {% assign postUrl = page.url | prepend: site.baseurl | prepend: site.url %} 
+                            {% assign postUrl = page.url | prepend: site.baseurl | prepend: site.url %}
+                            <li>
+                                <a href="#" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&url={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
+                                    <svg class="icon icon-linkedin" viewBox="0 0 30 32">
+                                        <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-linkedin"></use>
+                                    </svg>
+                                </a>
+                            </li>
                                 <li>
                                     <a href="#" onclick="window.open('https://plus.google.com/share?url={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
                                         <svg class="icon icon-google-plus" viewBox="0 0 30 32">
@@ -38,7 +45,7 @@
                         </div>
                     </div>
                     {% endif %}
-                    
+
                     <div class="post-body">{{ content }}</div>
 
                     <div id="page-navigation" class="page-navigation">

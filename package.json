@@ -29,5 +29,8 @@
   },
   "scripts": {
     "test": "grunt deploy"
+  },
+  "dependencies": {
+    "sw-toolbox": "^3.3.0"
   }
 }
