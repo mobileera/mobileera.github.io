@@ -40,16 +40,16 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Location-Based Mobile Development using Beacons"
-  description: "Learn about how to use Beacons on Android."
+  title: "Developing Location-Based Services App using Beacons"
+  description: "Location-Based Services (LBS) is one of the cornerstones of a successful mobile application. In recent years, developers have been placing their energies on getting their LBS apps to work indoor. One of the innovative solutions is to use beacons as a way to inform the app whenever it is near to a particular location. In this talk, Wei-Meng will discuss the various beacon technologies available today - Apple’s iBeacon and Google’s Eddystone, and how you can use it in your own applications."
   subtype: presentation
   speakers: [3]
 
-  category: "Android"
+  category: "Android/iOS"
 -
   id: 004
   title: "Swift high performance"
-  description: ""
+  description: "How to write Swift code as perfomant as Objective-C, or even C?"
   subtype: presentation
   speakers: [4]
 
