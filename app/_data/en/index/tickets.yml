@@ -1,7 +1,5 @@
 title: "Buy a ticket"
-info: "<h5>Early bird sales end 1st of October</h5>
-
-<p>Get two days of excellent talks on mobile development and the conference party for an extremely good price.</p>
+info: "<p>Get two days of excellent talks on mobile development and the conference party for an extremely good price.</p>
 
 <p>Accommodation is NOT included in the ticket price.</p><br /><br />"
 offers:
@@ -21,7 +19,6 @@ offers:
  -
   name: "Early Bird"
   price: "2900"
-  ribbon: "-1000 kr"
   priceCurrency: "NOK"
   ticketsNumber: "50"
   buyButtonLink: "http://tickets.mobileera.rocks"
@@ -29,11 +26,13 @@ offers:
   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
   validFrom: "2016-07-01T00:01"
   validThrough: "2016-09-30T23:59"
-  badge: "≈ €300"
-  featured: true
+  soldOut: true
+  soldOutText: "Sold out"
+
  -
   name: "Late Bird"
   price: "3900"
+  ribbon: "Join us"
   priceCurrency: "NOK"
   ticketsNumber: "50"
   buyButtonLink: "http://tickets.mobileera.rocks"
@@ -41,5 +40,5 @@ offers:
   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
   validFrom: "2016-10-01T00:01"
   validThrough: "2016-11-04T23:59"
-  disabled: true
-  fallback: "Sales will begin on 1 October 2016"
+  featured: true
+  badge: "≈ €440"
