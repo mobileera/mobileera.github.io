@@ -417,3 +417,24 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/marcos_placona"}
+
+-
+  id: 134
+  name: "Stephane"
+  surname: "Nicolas"
+  company: "Groupon"
+  bio: "Stephane Nicolas is a senior Android Developer at Groupon, San Francisco, CA and an Open Source enthusiast."
+  thumbnailUrl: StephaneNicolas.jpg 
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/stephanenicolas"}
+
+-
+  id: 135
+  name: "Daniel"
+  surname: "Molinero Reguera"
+  company: "Groupon"
+  bio: "Daniel is an Android Software Engineer at Groupon. He is a passionate Science geek with special interest in performance, design and security.\nHe is keen on contributing to the open source community, collaborating on some projects on GitHub: Toothpick, Dart & Henson, etc. Moreover, he has taken part in the Berlin Droidcon Barcamp 2016 and has an article featured by Android Weekly."
+  thumbnailUrl: DanielReguera.jpg 
+  social:
+    - {name: "twitter", link: "https://twitter.com/D_Lemures"}

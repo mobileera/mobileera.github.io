@@ -315,6 +315,14 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   category: "UX"
 
 -
+  id: 134
+  title: "Toothpick: a fresh approach to Dependency Injection (DI) on Android."
+  description: "You find RoboGuice simple but slow ? And you think Dagger 1 & 2 are fast but complex and bloated ? Toothpick is the best of both worlds ! Toothpick is a scope tree based, runtime but reflection free implementation of JSR 330. It is pure Java, with a special focus on Android. Toothpick is fast (even faster than Dagger 2 in some cases!) and is simpler to use, with less boilerplate code. Its syntax is very close to Guice. It supports named dependencies, lazy dependencies, providers, and has built-in support for custom scopes."
+  subtype: presentation
+  speakers: [134, 135]
+  category: "UX"
+
+-
   id: 1
   title: "Cutting-Edge Responsive Web Design For Mobile"
   description: "With HTTP/2, Service Workers, Responsive Images, Flexbox, SVG and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites just in time. We want to use all of these technologies, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time? In this talk, Vitaly Friedman, editor-in-chief of Smashing Magazine, will be looking into a strategy for crafting fast, resilient and flexible responsive design systems by utilizing all of those wonderful shiny web technologies we have available today. We'll also talk about dealing with legacy browsers and will cover a few dirty little techniques that might ensure that your responsive websites will stay relevant, flexible and accessible in the years to come."
