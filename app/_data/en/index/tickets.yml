@@ -4,30 +4,30 @@ info: "<p>Get two days of excellent talks on mobile development and the conferen
 <p>Accommodation is NOT included in the ticket price.</p><br /><br />"
 offers:
 
- -
-  name: "<span style='text-decoration: line-through'>Blind</span> Smart Bird"
-  price: "1800"
-  priceCurrency: "NOK"
-  ticketsNumber: "50"
-  buyButtonLink: "http://tickets.mobileera.rocks"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
-  validFrom: "2016-06-10T00:01"
-  validThrough: "2016-06-30T23:59"
-  soldOut: true
-  soldOutText: "Sold out"
- -
-  name: "Early Bird"
-  price: "2900"
-  priceCurrency: "NOK"
-  ticketsNumber: "50"
-  buyButtonLink: "http://tickets.mobileera.rocks"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
-  validFrom: "2016-07-01T00:01"
-  validThrough: "2016-09-30T23:59"
-  soldOut: true
-  soldOutText: "Sold out"
+#  -
+#   name: "<span style='text-decoration: line-through'>Blind</span> Smart Bird"
+#   price: "1800"
+#   priceCurrency: "NOK"
+#   ticketsNumber: "50"
+#   buyButtonLink: "http://tickets.mobileera.rocks"
+#   buyButtonText: "Buy Now"
+#   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
+#   validFrom: "2016-06-10T00:01"
+#   validThrough: "2016-06-30T23:59"
+#   soldOut: true
+#   soldOutText: "Sold out"
+#  -
+#   name: "Early Bird"
+#   price: "2900"
+#   priceCurrency: "NOK"
+#   ticketsNumber: "50"
+#   buyButtonLink: "http://tickets.mobileera.rocks"
+#   buyButtonText: "Buy Now"
+#   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
+#   validFrom: "2016-07-01T00:01"
+#   validThrough: "2016-09-30T23:59"
+#   soldOut: true
+#   soldOutText: "Sold out"
 
  -
   name: "Late Bird"

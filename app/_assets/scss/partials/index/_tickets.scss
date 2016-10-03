@@ -25,10 +25,8 @@ $button-background-color-hover: #4d4d4d;
     }
     &.pricing-col-featured {
         top: -27px;
-        &:not(:first-child) {
-            margin-left: 0;
-            border: solid 1px $primary-color;
-        }
+        border: solid 1px $primary-color;
+
         @media (max-width: 767px) {
             top: 0;
         }

@@ -7,16 +7,16 @@
             {% for ticketsOffer in site.data.[site.lang].index.tickets.offers %}
 	            {% assign colWidth = 12 | divided_by: forloop.length %}
 	            {% assign check = forloop.index | modulo:2 %}
-	            <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col {% if ticketsOffer.featured != null %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
+	            <div class="{% if forloop.length == 1 %} col-sm-8 col-sm-offset-2 {% else %} col-md-{{ colWidth }} col-sm-{{ colWidth }} {% endif %} pricing-col {% if ticketsOffer.featured != null %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
 	            	{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
 					<div class="pricing-header">
 						<p class="title">{{ ticketsOffer.name }}</p>
 						<p class="price">
-							{{ ticketsOffer.price }}
-							<span class="currency">{{ ticketsOffer.priceCurrency }}</span>
-							{% if ticketsOffer.badge != null %}
-	            <span class="badge">{{ ticketsOffer.badge }}</span>
-	            {% endif %}
+						{{ ticketsOffer.price }}
+						<span class="currency">{{ ticketsOffer.priceCurrency }}</span>
+						{% if ticketsOffer.badge != null %}
+        					<span class="badge">{{ ticketsOffer.badge }}</span>
+	        		    {% endif %}
 
 						{% if ticketsOffer.info != null %}
 						<br /><span class="info">{{ ticketsOffer.info }}</span>
