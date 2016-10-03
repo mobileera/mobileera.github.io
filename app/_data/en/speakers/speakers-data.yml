@@ -434,7 +434,7 @@
   name: "Daniel"
   surname: "Molinero Reguera"
   company: "Groupon"
-  bio: "Daniel is an Android Software Engineer at Groupon. He is a passionate Science geek with special interest in performance, design and security.\nHe is keen on contributing to the open source community, collaborating on some projects on GitHub: Toothpick, Dart & Henson, etc. Moreover, he has taken part in the Berlin Droidcon Barcamp 2016 and has an article featured by Android Weekly."
+  bio: "Daniel is an Android Software Engineer at Groupon. He is a passionate Science geek with special interest in performance, design and security.\nHe is keen on contributing to the open source community, collaborating on some projects on GitHub: Toothpick, Dart & Henson, etc."
   thumbnailUrl: DanielMolineroReguera.jpg 
   social:
     - {name: "twitter", link: "https://twitter.com/D_Lemures"}
