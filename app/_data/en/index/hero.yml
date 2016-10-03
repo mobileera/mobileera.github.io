@@ -4,4 +4,4 @@ eventDate: "November 3rd-4th"
 typeoutTextValues: '"", "Oslo", "Norway", "Scandinavia"'
 typeoutFallback: "Oslo"
 buttons:
- - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: "Save 1000 kr"}
+ - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: null}
