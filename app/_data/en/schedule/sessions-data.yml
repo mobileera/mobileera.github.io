@@ -240,7 +240,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   subtype: presentation
   speakers: [122]
 
-  category: "Other & Everything"
+  category: "Mobile Web"
 -
   id: 124
   title: "Your phone is snitching on you"
@@ -268,7 +268,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   description: "Pain is one of the most prolific health problems within the population and costs industry lost revenue. In this presentation, this challence is addressed through the examplification of our research project on a mobile solution for dealing with back-pain. A mobile app for visually diarizing the pain experience of pa- tients created on the Android platform is utilizedthrough a 3D centric application. Positive evaluations obtained provide evidence of the promising nature of the approach and indicate several future directions of research within mobile pain management."
   subtype: presentation
   speakers: [127]
-  category: "Other"
+  category: "Android"
 -
   id: 128
   title: "Offline first and search on steroids with Couchbase Mobile and Elastic Search"
@@ -282,7 +282,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   description: "2015 was characterized by unparalleled dynamics in the area of artificial intelligence not only in the technological perspective - AI becomes one of the most important tools for UX designers. It can make the interaction with machines more human and integrate it flawlessly in our daily lives. But is there a flip side, will AI be the end of the design and designer as we know them?"
   subtype: presentation
   speakers: [129]
-  category: "Other"
+  category: "UX"
 -
   id: 130
   title: "Swift on the Backend "
@@ -304,7 +304,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
   description: "Description coming soon"
   subtype: presentation
   speakers: [132]
-  category: "Other"
+  category: "Hardware"
 
 -
   id: 133
