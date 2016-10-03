@@ -26,7 +26,8 @@ sponsors:
 
 companions:
   -
-    title: "Media partners"
+    title: "Community partners"
     elements:
+      - {name: "Microsoft", description: "", link: "http://www.microsoft.no", imageUrl: "microsoft.svg"}
       - {name: "AppAcademy", description: "Norway’s leading knowledge arena within Apps and Mobile 2.0", link: "https://www.facebook.com/AppAcademyNo/", imageUrl: "appacademy.png"}
       - {name: "DrinkEntrepreneurs Oslo", description: "The global and monthly social event for entrepreneurs to exchange, meet and help their peers around a drink!", link: "https://www.facebook.com/DrinkEntrepreneursOslo/", imageUrl: "drinkentrepreneurs.png"}
