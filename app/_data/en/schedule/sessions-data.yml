@@ -316,7 +316,7 @@ The second half of the talk, I will show by live-coding how easy it is to build 
 
 -
   id: 134
-  title: "Toothpick: a fresh approach to Dependency Injection (DI) on Android."
+  title: "Toothpick: A fresh approach to Dependency Injection on Android."
   description: "You find RoboGuice simple but slow ? And you think Dagger 1 & 2 are fast but complex and bloated ? Toothpick is the best of both worlds ! Toothpick is a scope tree based, runtime but reflection free implementation of JSR 330. It is pure Java, with a special focus on Android. Toothpick is fast (even faster than Dagger 2 in some cases!) and is simpler to use, with less boilerplate code. Its syntax is very close to Guice. It supports named dependencies, lazy dependencies, providers, and has built-in support for custom scopes."
   subtype: presentation
   speakers: [134, 135]
