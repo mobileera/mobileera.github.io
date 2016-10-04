@@ -38,35 +38,38 @@
         //     "email" : "{{ site.data.[site.lang].general.basic.organizerEmail }}",
         //     "sameAs" : "{{ site.data.[site.lang].general.basic.organizerLink }}"
         // },
-        "subEvent" : {
-            "@type" : "Event",
-            "name" : "{{ site.data.[site.lang].workshops.about.title }}",
-            "description": "{{ site.data.[site.lang].workshops.about.rows[0].details }}",
-            "image" : "{{ site.data.[site.lang].general.basic.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
-            "url" : "{{ site.url | append: site.baseurl }}/workshops/",
-            "startDate" : "{{ site.data.[site.lang].workshops.location.startTime }}",
-            "doorTime" : "{{ site.data.[site.lang].workshops.location.doorTime }}",
-            "endDate" : "{{ site.data.[site.lang].workshops.location.endTime }}",
-            "location" : {
-                "@type" : "Place",
-                "name" : "{{ site.data.[site.lang].workshops.location.name }}",
-                "sameAs" : "{{ site.data.[site.lang].workshops.location.link }}",
-                "address" : {
-                    "@type" : "PostalAddress",
-                    "streetAddress" : "{{ site.data.[site.lang].workshops.location.streetAddress }}",
-                    "addressLocality" : "{{ site.data.[site.lang].workshops.location.addressLocality }}",
-                    "addressRegion" : "{{ site.data.[site.lang].workshops.location.addressLocalityRegion }}",
-                    "postalCode" : "{{ site.data.[site.lang].workshops.location.postalCode }}",
-                    "addressCountry" : "{{ site.data.[site.lang].workshops.location.addressCountry }}"
-                },
-                "geo" : {
-                    "@type" : "GeoCoordinates",
-                    {% assign workshopsCoordinates = site.data.[site.lang].workshops.location.placeCoordinates | split:"," %}
-                    "latitude" : "{{ workshopsCoordinates[0] }}",
-                    "longitude" : "{{ workshopsCoordinates[1] }}"
-                }
-            }
-        },
+
+        // TODO: @han
+        // "subEvent" : {
+        //     "@type" : "Event",
+        //     "name" : "{{ site.data.[site.lang].workshops.about.title }}",
+        //     "description": "{{ site.data.[site.lang].workshops.about.rows[0].details }}",
+        //     "image" : "{{ site.data.[site.lang].general.basic.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
+        //     "url" : "{{ site.url | append: site.baseurl }}/workshops/",
+        //     "startDate" : "{{ site.data.[site.lang].workshops.location.startTime }}",
+        //     "doorTime" : "{{ site.data.[site.lang].workshops.location.doorTime }}",
+        //     "endDate" : "{{ site.data.[site.lang].workshops.location.endTime }}",
+        //     "location" : {
+        //         "@type" : "Place",
+        //         "name" : "{{ site.data.[site.lang].workshops.location.name }}",
+        //         "sameAs" : "{{ site.data.[site.lang].workshops.location.link }}",
+        //         "address" : {
+        //             "@type" : "PostalAddress",
+        //             "streetAddress" : "{{ site.data.[site.lang].workshops.location.streetAddress }}",
+        //             "addressLocality" : "{{ site.data.[site.lang].workshops.location.addressLocality }}",
+        //             "addressRegion" : "{{ site.data.[site.lang].workshops.location.addressLocalityRegion }}",
+        //             "postalCode" : "{{ site.data.[site.lang].workshops.location.postalCode }}",
+        //             "addressCountry" : "{{ site.data.[site.lang].workshops.location.addressCountry }}"
+        //         },
+        //         "geo" : {
+        //             "@type" : "GeoCoordinates",
+        //             {% assign workshopsCoordinates = site.data.[site.lang].workshops.location.placeCoordinates | split:"," %}
+        //             "latitude" : "{{ workshopsCoordinates[0] }}",
+        //             "longitude" : "{{ workshopsCoordinates[1] }}"
+        //         }
+        //     }
+        // },
+        
         "offers" : [
         {% for ticketsOffer in site.data.[site.lang].index.tickets.ticketsOffers %}
         {
