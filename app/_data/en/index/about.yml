@@ -3,6 +3,6 @@ abstract: "The conference will cover Android, iOS, Hybrid and Mobile Web develop
 
 We have announced our first speakers, and are looking for more. We are also on the lookout for additional sponsors and volunteers for our organization team. If you would like to get updates, follows us on Twitter or sign up for our mailing list."
 blocks:
- - {title: "Want to speak?", image: "conference.jpg", text: "The conference will host Norwegian and international experts on Android, iOS, mobile web and design", buttonText: "Lightning Call for Papers", buttonLink: "/blog/lightning-talks-cfp/" }
+ - {title: "Want to speak?", image: "conference.jpg", text: "We are looking for Lighting Talk speakers until October 10th. If you have an interest talk on Android, iOS, mobile web and design don't hesitate to submit!", buttonText: "Lightning Call for Papers", badge: "Until Oct 10th", buttonLink: "/blog/lightning-talks-cfp/" }
  - {title: "Want to sponsor?", image: "hackathon.jpg", text: "As a sponsor of the conference, you can help the mobile developer community in Oslo grow and show your commitment to the mobile era!", buttonText: "Sponsor packages", buttonPermalink: "/sponsors" }
  - {title: "Want to help?", image: "workshop.jpg", text: "As a volunteer for the conference, you get the chance to learn, grow your network and contribute to the good of your fellow kind.", buttonText: "Join our Slack", buttonLink: "http://mobileera.herokuapp.com/" }
