@@ -1,9 +1,9 @@
-$hackathon-map-height: 450px;
-.hackathon-location {
+$workshops-map-height: 450px;
+.workshops-location {
 	padding: 20px 50px;
-	height: $hackathon-map-height;
+	height: $workshops-map-height;
 	.canvas-map {
-		height: $hackathon-map-height + 30px;
+		height: $workshops-map-height + 30px;
 	}
 	.location-description {
 		font-size: 15px;
@@ -19,7 +19,7 @@ $hackathon-map-height: 450px;
 	.location-address {
 		margin: 0;
 	}
-	.hackathon-time {
+	.workshops-time {
 		time {
 			color: $main-color;
 		}
