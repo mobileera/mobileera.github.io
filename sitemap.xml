@@ -30,9 +30,6 @@
 <loc>http://mobileera.rocks/cod/</loc>
 </url>
 <url>
-<loc>http://mobileera.rocks/hackathon/</loc>
-</url>
-<url>
 <loc>http://mobileera.rocks/</loc>
 </url>
 <url>
@@ -49,5 +46,8 @@
 </url>
 <url>
 <loc>http://mobileera.rocks/team/</loc>
+</url>
+<url>
+<loc>http://mobileera.rocks/workshops/</loc>
 </url>
 </urlset>
