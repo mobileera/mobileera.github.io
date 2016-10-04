@@ -2,7 +2,7 @@
 <section id="about-workshops" class="about-workshops">
     <div class="content-wrapper">
         <div class="col-md-8 col-md-offset-2">
-            <h3>{{ site.data.[site.lang].workshops.about.title }}</h3>
+            <!-- <h3>{{ site.data.[site.lang].workshops.about.title }}</h3> -->
             <div class="col-md-offset-2 col-md-8 text-left" style="margin-bottom: 3rem">
                 {{ site.data.[site.lang].workshops.about.description }}
             </div>
@@ -11,11 +11,24 @@
             {% assign check = forloop.index0 | modulo:2 %}
             <div class="workshops-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
                 <div class="workshops-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
-                    <img class="img-responsive" src="{{ site.baseurl_root }}/img/workshops/{{ row.image }}" alt="workshops">
+                    <img class="img-responsive" src="{{ site.baseurl_root }}/img/{{ row.image }}" alt="workshops">
                 </div>
                 <div class="workshops-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
                     <h4>{{ row.title }}</h4>
-                    <p>{{ row.details }}</p>
+                    <p>
+                        {% for speaker in site.data.[site.lang].speakers.speakers-data %}
+                            {% if row.speakerId == speaker.id %}
+                                By <span class="speaker-name">
+                                    <strong>{{ speaker.name }} {{ speaker.surname }}</strong>
+                                    <span class="speaker-position">({{ speaker.company }})</span>
+                                </span> &mdash; 
+                            {% endif %}
+                        {% endfor %}
+
+                        {{ row.date | date: "%B %-d" }} from {{ row.startTime }} to {{ row.endTime }}
+                    </p>
+                    <p>{{ row.details }} </p>
+                    <a class="btn btn-primary" href="{{ row.salesLink }}">Buy tickets to this workshop</a>
                 </div>
             </div>
             {% endfor %}
