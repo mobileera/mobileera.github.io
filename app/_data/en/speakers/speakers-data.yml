@@ -41,7 +41,7 @@
   surname: "Koval"
   company: "Agens"
   title: "iOS Engineer, Author of Swift High Performance book"
-  bio: ''
+  bio: 'Kostiantyn Koval dreamed to be a developer as a kid and dreams come true. He fall in love with Swift at first sight. He is an Author of Swift High Performance book, a Swift open source contributor and just a guy who loves to type some code.'
   thumbnailUrl: KonstantinKoval.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/KostiaKoval"}
