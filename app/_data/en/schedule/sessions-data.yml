@@ -48,8 +48,8 @@
   category: "Android/iOS"
 -
   id: 004
-  title: "Swift high performance"
-  description: "How to write Swift code as perfomant as Objective-C, or even C?"
+  title: "Swift rEvolution"
+  description: "Swift is more than just a programing language and it has huge impact and on how we develop software these days. In this talk I will explain why everyone needs to learn Swift regardless if you are  iOS, android, backend or any software developer. I will cover why Swift is so powerful and popular and what you need to do to stay competitive and productive developer and how you can shape Swift they way you want."
   subtype: presentation
   speakers: [4]
 
