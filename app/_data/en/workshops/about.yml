@@ -1,61 +1,51 @@
 title: "Mobile Era Workshops"
-description: "We are arranging a few workshops about stuff.<br><br>Buy tickets and stuff. lulz"
 rows:
  - 
-    title: "Mobile Web"
+    title: "New Adventures in Responsive Web Design"
     image: "people/VitalyFriedman.jpg"
-    salesLink: "https://mobileera.hoopla.no/sales/"
+    salesLink: "https://mobileera.hoopla.no/sales/responsivewebdesign"
     speakerId: 1
-    date: "2014-11-02"
+    date: "2016-11-02"
     startTime: "09:00"
     endTime: "16:00"
-    details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"
+    details: "With HTTP/2, Service Workers, Responsive Images, Flexbox, SVG, WAI-ARIA roles and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites efficiently. We want to use all of these technologies and smart processes like atomic design, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time?<br><br>In this brand new workshop, Vitaly Friedman (editor-in-chief of Smashing Magazine), will cover practical techniques, clever tricks and useful strategies you need to be aware of when working on responsive websites. From responsive modules to clever navigation patterns and web form design techniques; the workshop will provide you with everything you need to know today to start designing better responsive experiences tomorrow.<br><br>The workshop is intended for intermediate/advanced designers and developers who have an understanding of responsive design and how it works.<br><br>Most techniques are borrowed from mid-size and large-scale real-life projects, such as large eCommerce projects, online magazines and web applications. We won't cover the basics, instead, the workshops covers more advanced techniques used in responsive design.<br>"
 
  -
-    title: "Swift 3"
-    image: "workshops/swift-logo.png"
-    salesLink: "https://mobileera.hoopla.no/sales/"
-    speakerId: 1
-    date: "2014-11-02"
+    title: "iOS Programming using Xcode and Swift 3.0"
+    image: "people/Wei-MengLee.jpg"
+    salesLink: "https://mobileera.hoopla.no/sales/swift3"
+    speakerId: 3
+    date: "2016-11-02"
     startTime: "09:00"
     endTime: "16:00"
-    details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."
+    details: "In this 1-day workshop, you will learn the key concepts of native iOS programming using Xcode 8. You will understand basic concepts such as Views, View Controllers, Protocols and Delegates, as well as how to use the IDE that helps you develop compelling iOS applications – Xcode. You will then dive into the details of programming the iPhone, such as how to invoke the built-in applications and access the hardware of the iOS device.<br><br>This course will use the latest Swift 3.0 programming language. Rather than spending your time reading the Swift documentation, you will learn the new language as you learn how to code your first iPhone application.<br>"
 
  -
     title: "Android 101"
-    image: "ChristofferMarcussen.jpg"
-    salesLink: "https://mobileera.hoopla.no/sales/"
-    speakerId: 1
-    date: "2014-11-02"
+    image: "people/ChristofferMarcussen.jpg"
+    salesLink: "https://mobileera.hoopla.no/sales/android101"
+    speakerId: 8
+    date: "2016-11-02"
     startTime: "09:00"
-    endTime: "16:00"
-    details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."
+    endTime: "13:00"
+    details: "Learn how to build native Android apps from scratch! We will first live code a simple Spotify app and describe all relevant topics along the way. Then, you will get hands-on experience by doing assignments and developing a Twitter-like app.<br><br>This is a half-day workshop that provides a solid foundation for everyone who wants to learn Android development. You will be introduced to topics such as: Activities, events and intents, building flexible UIs, REST API integration with Retrofit and taking pictures with the device camera and uploading to Imgur (and our backend).<br><br>When doing the assignments you are free to either focus on creating a beautiful app, or implementing as much functionality as possible. If you have an Android Wear watch, why not add support for Wearables?<br>"
 
  -
-    title: "ReactNative"
-    image: "hackathon-2.jpg"
-    salesLink: "https://mobileera.hoopla.no/sales/"
-    speakerId: 1
-    date: "2014-11-02"
+    title: "Enterprise Mobile Application development with the Red Hat Mobile Application Platform"
+    image: "partners/Logo_RH_RGB_Default.svg"
+    salesLink: "https://mobileera.hoopla.no/sales/redhat"
+    speakerId: 136
+    date: "2016-11-02"
     startTime: "09:00"
     endTime: "16:00"
-    details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."
-
- -
-    title: "Red Hat"
-    image: "hackathon-2.jpg"
-    salesLink: "https://mobileera.hoopla.no/sales/"
-    date: "2014-11-02"
-    startTime: "09:00"
-    endTime: "16:00"
-    details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."
-
+    details: "Learn about mBaaS and the architecture of enterprise mobile applications. Get hands on with Red Hat Mobile Application platform, developing end to end mobile projects with custom cloud business logic.<br><br><strong>Agenda:</strong><br>1. Red Hat Mobile Application Platform Introduction<br>2. Detailed Architectural Overview<br>3. Platform Deep Dive.<br><br><strong>Hands on labs:</strong><br>4. Getting access to the platform and get set up for local development.<br>5. Create your 1st Mobile Application project using quick start templates.<br>6. Extend the functionality of the App: Create a new custom mBaaS Service and extend the application to use this service.<br><br><strong>Expected audience:</strong><br> 1. Basic understanding of Javascript, NodeJS and Git<br>2. Install GIT, Node, NPM, Grunt, MongoDB, Redis on laptop<br>"
 
  - 
-    title: "Samsung"
-    image: "hackathon-2.jpg"
-    salesLink: "https://mobileera.hoopla.no/sales/"
-    date: "2014-11-02"
-    startTime: "09:00"
+    title: "Enterprise App Development – Samsung Knox"
+    image: "partners/Samsung.svg"
+    salesLink: "https://mobileera.hoopla.no/sales/samsungknox"
+    speakerId: 137
+    date: "2016-11-02"
+    startTime: "13:00"
     endTime: "16:00"
-    details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."
+    details: "Samsung is pleased to invite leading app developers to our Enterprise App Developers workshop leveraging the Samsung Knox platform. During the workshop we will demonstrate different solutions and tools from the Knox Platform and facilitate hands-on demo. We encourage participants to contribute with your thoughts and experience. Highlighted topics to be discussed:<br><ul><li>What makes enterprise apps & solutions different?</li><li>The Samsung KNOX platform / development framwork</li><li>Think out of the box without rooting the device</li><li>Hands-on demo</li></ul><br>"
