@@ -438,3 +438,13 @@
   thumbnailUrl: DanielMolineroReguera.jpg 
   social:
     - {name: "twitter", link: "https://twitter.com/D_Lemures"}
+
+-
+  id: 136
+  name: "Eoin"
+  surname: "Crosbie"
+  company: "Red Hat"
+
+- id: 137
+  name: "Cheng Luo & Dan Helsing"
+  company: "Samsung"
