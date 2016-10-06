@@ -5,3 +5,4 @@ typeoutTextValues: '"", "Oslo", "Norway", "Scandinavia"'
 typeoutFallback: "Oslo"
 buttons:
  - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: null}
+ - {link: "http://mobileera.rocks/blog/lightning-talks-cfp/", text: "Submit Lightning Talk", badge: "Until Oct 10th"}
