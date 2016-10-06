@@ -28,7 +28,12 @@
                         {{ row.date | date: "%B %-d" }} from {{ row.startTime }} to {{ row.endTime }}
                     </p>
                     <p>{{ row.details }} </p>
-                    <a class="btn btn-primary" href="{{ row.salesLink }}">Buy tickets to this workshop</a>
+
+                    <p>Price: <strong>{{ row.price }}</strong></p>
+
+                    <a class="btn btn-primary" href="{{ row.salesLink }}">
+                        {{ row.buyButtonText }}
+                    </a>
                 </div>
             </div>
             {% endfor %}
