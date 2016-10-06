@@ -20,9 +20,8 @@
         startTime: "11:00",
         endTime: "11:45",
         # IMPORTANT: Vegard (128) must speak on Thursday
-        # Øyvind (130) wishes to speak Thursday
         # Rustam (124) wishes to speak Thursday
-        sessionIds: [130, 124, 128]
+        sessionIds: [108, 124, 133]
     }
     - {
         startTime: "11:45",
@@ -32,7 +31,8 @@
     - {
         startTime: "12:45",
         endTime: "13:30",
-        sessionIds: [117, 107, 111]
+        # Øyvind (130) wishes to speak Thursday
+        sessionIds: [117, 107, 130]
     }
     - {
         startTime: "13:45",
@@ -48,7 +48,7 @@
     - {
         startTime: "15:45",
         endTime: "16:30",
-        sessionIds: [133, 105, 131]
+        sessionIds: [111, 105, 131]
     }
     - {
         startTime: "18:00",
@@ -92,7 +92,7 @@
     - {
         startTime: "13:45",
         endTime: "14:30",
-        sessionIds: [108, 134, 125]
+        sessionIds: [128, 134, 125]
     }
     - {
         startTime: "14:45",
