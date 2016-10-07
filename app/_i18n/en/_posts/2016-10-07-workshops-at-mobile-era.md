@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Mobile Era workshop tickets now available"
-date:   2016-10-07 19:00:00
+date:   2016-10-07 08:00:00
 ---
 
-"We have started selling tickets to our workshops, organized by Vitaly Friedman, Wei-Meng Lee,
+We have started selling tickets to our workshops, organized by Vitaly Friedman, Wei-Meng Lee,
 Christoffer Marcussen, Samsung and Red Hat on diverse subjects.
 
 * Vitaly Friedman - Get ready for new Adventures in Responsive Web Design!
@@ -15,4 +15,4 @@ Christoffer Marcussen, Samsung and Red Hat on diverse subjects.
 
 The workshops require an seperate ticket. Vitaly Friedman, Wei-Meng Lee and Christoffer Marcussen have moderate tuition fees. The workshops offered by Samsung and Red Hat will be free of charge. Boost your career with new mobile knowledge!
 
-<a class="btn btn-primary" href="/workshops/">Go to Workshop page</a>”
+<a class="btn btn-primary" href="/workshops/">Go to Workshop page</a>
