@@ -1,6 +1,8 @@
-title: "Mobile Era Workshops"
+title: "Workshops"
+info: "<p>Admission to the workshops requires an separate ticket. We try to keep the prices as low as possible though. The workshops offered by Samsung and Red Hat are free of charge. Boost your career with new mobile knowledge!</p>"
 rows:
- - 
+ -
+    id: 1
     title: "New Adventures in Responsive Web Design"
     image: "people/VitalyFriedman.jpg"
     salesLink: "https://mobileera.hoopla.no/sales/responsivewebdesign"
@@ -10,9 +12,12 @@ rows:
     startTime: "09:00"
     endTime: "16:00"
     details: "With HTTP/2, Service Workers, Responsive Images, Flexbox, SVG, WAI-ARIA roles and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites efficiently. We want to use all of these technologies and smart processes like atomic design, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time?<br><br>In this brand new workshop, Vitaly Friedman (editor-in-chief of Smashing Magazine), will cover practical techniques, clever tricks and useful strategies you need to be aware of when working on responsive websites. From responsive modules to clever navigation patterns and web form design techniques; the workshop will provide you with everything you need to know today to start designing better responsive experiences tomorrow.<br><br>The workshop is intended for intermediate/advanced designers and developers who have an understanding of responsive design and how it works.<br><br>Most techniques are borrowed from mid-size and large-scale real-life projects, such as large eCommerce projects, online magazines and web applications. We won't cover the basics, instead, the workshops covers more advanced techniques used in responsive design.<br>"
-    buyButtonText: "Buy tickets to this workshop"
-    
+    buyButtonText: "Buy ticket"
+    validFrom: "2016-10-01T00:01"
+    validThrough: "2016-11-01T23:59"
+
  -
+    id: 2
     title: "iOS Programming using Xcode and Swift 3.0"
     image: "people/Wei-MengLee.jpg"
     salesLink: "https://mobileera.hoopla.no/sales/swift3"
@@ -22,9 +27,12 @@ rows:
     startTime: "09:00"
     endTime: "16:00"
     details: "In this 1-day workshop, you will learn the key concepts of native iOS programming using Xcode 8. You will understand basic concepts such as Views, View Controllers, Protocols and Delegates, as well as how to use the IDE that helps you develop compelling iOS applications – Xcode. You will then dive into the details of programming the iPhone, such as how to invoke the built-in applications and access the hardware of the iOS device.<br><br>This course will use the latest Swift 3.0 programming language. Rather than spending your time reading the Swift documentation, you will learn the new language as you learn how to code your first iPhone application.<br>"
-    buyButtonText: "Buy tickets to this workshop"
-    
+    buyButtonText: "Buy ticket"
+    validFrom: "2016-10-01T00:01"
+    validThrough: "2016-11-01T23:59"
+
  -
+    id: 3
     title: "Android 101"
     image: "people/ChristofferMarcussen.jpg"
     salesLink: "https://mobileera.hoopla.no/sales/android101"
@@ -34,9 +42,13 @@ rows:
     startTime: "09:00"
     endTime: "13:00"
     details: "Learn how to build native Android apps from scratch! We will first live code a simple Spotify app and describe all relevant topics along the way. Then, you will get hands-on experience by doing assignments and developing a Twitter-like app.<br><br>This is a half-day workshop that provides a solid foundation for everyone who wants to learn Android development. You will be introduced to topics such as: Activities, events and intents, building flexible UIs, REST API integration with Retrofit and taking pictures with the device camera and uploading to Imgur (and our backend).<br><br>When doing the assignments you are free to either focus on creating a beautiful app, or implementing as much functionality as possible. If you have an Android Wear watch, why not add support for Wearables?<br>"
-    buyButtonText: "Buy tickets to this workshop"
+    buyButtonText: "Buy ticket"
+    validFrom: "2016-10-01T00:01"
+    validThrough: "2016-11-01T23:59"
+
 
  -
+    id: 4
     title: "Enterprise Mobile Application development with the Red Hat Mobile Application Platform"
     image: "partners/Logo_RH_RGB_Default.svg"
     salesLink: "https://mobileera.hoopla.no/sales/redhat"
@@ -46,9 +58,12 @@ rows:
     startTime: "09:00"
     endTime: "16:00"
     details: "Learn about mBaaS and the architecture of enterprise mobile applications. Get hands on with Red Hat Mobile Application platform, developing end to end mobile projects with custom cloud business logic.<br><br><strong>Agenda:</strong><br>1. Red Hat Mobile Application Platform Introduction<br>2. Detailed Architectural Overview<br>3. Platform Deep Dive.<br><br><strong>Hands on labs:</strong><br>4. Getting access to the platform and get set up for local development.<br>5. Create your 1st Mobile Application project using quick start templates.<br>6. Extend the functionality of the App: Create a new custom mBaaS Service and extend the application to use this service.<br><br><strong>Expected audience:</strong><br> 1. Basic understanding of Javascript, NodeJS and Git<br>2. Install GIT, Node, NPM, Grunt, MongoDB, Redis on laptop<br>"
-    buyButtonText: "Reserve a ticket to this workshop"
-    
- - 
+    buyButtonText: "Reserve ticket"
+    validFrom: "2016-10-01T00:01"
+    validThrough: "2016-11-01T23:59"
+
+ -
+    id: 5
     title: "Enterprise App Development – Samsung Knox"
     image: "partners/Samsung.svg"
     salesLink: "https://mobileera.hoopla.no/sales/samsungknox"
@@ -58,4 +73,6 @@ rows:
     startTime: "13:00"
     endTime: "16:00"
     details: "Samsung is pleased to invite leading app developers to our Enterprise App Developers workshop leveraging the Samsung Knox platform. During the workshop we will demonstrate different solutions and tools from the Knox Platform and facilitate hands-on demo. We encourage participants to contribute with your thoughts and experience. Highlighted topics to be discussed:<br><ul><li>What makes enterprise apps & solutions different?</li><li>The Samsung KNOX platform / development framwork</li><li>Think out of the box without rooting the device</li><li>Hands-on demo</li></ul><br>"
-    buyButtonText: "Reserve a ticket to this workshop"
+    buyButtonText: "Reserve ticket"
+    validFrom: "2016-10-01T00:01"
+    validThrough: "2016-11-01T23:59"

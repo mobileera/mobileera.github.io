@@ -28,6 +28,7 @@ $small-workshops-img-width: 150px;
     }
 	img {
 		max-width: $workshops-img-width;
+		width: 100%;
 		margin: 0 auto;
         @media (max-width: 767px) {
             max-width: $small-workshops-img-width;
