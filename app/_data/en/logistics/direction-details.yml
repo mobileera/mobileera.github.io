@@ -3,12 +3,12 @@ title: "Get around Oslo"
 cards:
  - {title: "From the Airport", information: 'Airport is easily reachable by car, public transport or taxi. More information is available at <a href="https://avinor.no/en/airport/oslo-airport/">airport website</a>.'}
  - {title: "Public Transit", information: 'You can plan your trip at <a href="https://ruter.no/en/">Ruter website</a>'}
- - {title: "Hotels", information: 'Oslo has lots of great hotels and hostels. More information about partner hotels will be available later.'}
+ - {title: "Hotels", information: 'Oslo has lots of great hotels and hostels.'}
 wideCards:
  -
-  title: "Questions?"
+  title: "Recommended Hotel"
   subCards:
    -
-    title: "Hotels"
+    title: "Comfort Hotel Børsparken"
     links:
-     - {link: "", text: "Partner hotels will be available soon"}
+     - {link: "https://www.nordicchoicehotels.com/comfort/comfort-hotel-borsparken/", text: "This is our speakers hotel. Comfort Hotel Børsparken is in a great location in the centre of Oslo, 2 minutes from Oslo S. You can work out free of charge in our stylish gym which covers an entire floor. Discover an affordable and modern hotel in the middle of the action - welcome!"}

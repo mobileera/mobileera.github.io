@@ -16,23 +16,24 @@ offers:
 #   validThrough: "2016-06-30T23:59"
 #   soldOut: true
 #   soldOutText: "Sold out"
-#  -
-#   name: "Early Bird"
-#   price: "2900"
-#   priceCurrency: "NOK"
-#   ticketsNumber: "50"
-#   buyButtonLink: "http://tickets.mobileera.rocks"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
-#   validFrom: "2016-07-01T00:01"
-#   validThrough: "2016-09-30T23:59"
-#   soldOut: true
-#   soldOutText: "Sold out"
+
+ -
+  name: "Diversity Ticket"
+  price: "&nbsp;&nbsp;&nbsp;FREE&nbsp;&nbsp;&nbsp;"
+  priceCurrency: ""
+  ticketsNumber: "50"
+  buyButtonLink: "http://mobileera.rocks/blog/scholarship-programme/"
+  buyButtonText: "Apply Now"
+  validFrom: "2016-10-10T00:01"
+  validThrough: "2016-10-20T23:59"
+  badge: "Limited"
+  ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
+  additionalInfo: "Scholarships are primarily intended to assist people from groups traditionally underrepresented in the local developer community, including women, people of non-Scandinavian descent and people with disabilities. "
 
  -
   name: "Late Bird"
   price: "3900"
-  ribbon: "Join us"
+  ribbon: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Last tickets"
   priceCurrency: "NOK"
   ticketsNumber: "50"
   buyButtonLink: "http://tickets.mobileera.rocks"
@@ -40,5 +41,18 @@ offers:
   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
   validFrom: "2016-10-01T00:01"
   validThrough: "2016-11-04T23:59"
-  featured: true
   badge: "≈ €440"
+  featured: true
+
+ -
+  name: "Student Ticket"
+  price: "590"
+  priceCurrency: "NOK"
+  ticketsNumber: "50"
+  buyButtonLink: "http://tickets.mobileera.rocks"
+  buyButtonText: "Buy Now"
+  validFrom: "2016-10-10T00:01"
+  validThrough: "2016-11-04T23:59"
+  badge: "Limited"
+  ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
+  additionalInfo: "Extremely discounted tickets for students. IMPORTANT: Requires valid student ID at entrance to the conference."

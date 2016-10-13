@@ -30,6 +30,9 @@
 							<li>{{ listItem }}</li>
 							{% endfor %}
 						</ul>
+						{% if ticketsOffer.additionalInfo != null %}
+						<span class="additional-info">{{ ticketsOffer.additionalInfo }}</span>
+						{% endif %}
 						{% if ticketsOffer.soldOut == true %}
 						<span class="button disabled">{{ ticketsOffer.soldOutText }}</span>
 						{% elsif ticketsOffer.disabled != true %}
