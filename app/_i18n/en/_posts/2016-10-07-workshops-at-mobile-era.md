@@ -13,6 +13,6 @@ Christoffer Marcussen, Samsung and Red Hat on diverse subjects.
 * Samsung - Catch up with Samsung Knox platform for Enterprise App Development
 * Red Hat - Learn Enterprise Mobile Application development with the Red Hat Mobile Application Platform
 
-The workshops require an seperate ticket. Vitaly Friedman, Wei-Meng Lee and Christoffer Marcussen have moderate tuition fees. The workshops offered by Samsung and Red Hat will be free of charge. Boost your career with new mobile knowledge!
+Admission to the workshops requires a separate ticket. We try to keep the prices as low as possible though. The workshops offered by Samsung and Red Hat are free of charge. Boost your career with new mobile knowledge!
 
 <a class="btn btn-primary" href="/workshops/">Go to Workshop page</a>

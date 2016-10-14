@@ -17,3 +17,4 @@ bottomLinks:
  - {link: "http://bit.ly/mobileera2016-cfp", text: "Become a speaker"}
 rightButtons:
  - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: null}
+ - {link: "/workshops/", text: "Attend the workshop", badge: "FREE options"}
