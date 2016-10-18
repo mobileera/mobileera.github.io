@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["css/main.css","95eab7199c06b8684ea87ab045d9cc68"],["googlee83bd89684c78156.html","b814d2c9d96f8432e4685f5b513f8088"],["index.html","4ad6cb1d083409c15ebedb59b9746304"],["js/bootstrap.min.js","b6d6c550cb657155feb06fdcd34b73cb"],["js/jquery.min.js","33cabfa15c1060aaa3d207c653afb1ee"],["js/libraries.js","23b4082d6fcb6cbced4d3443941a32cb"],["js/scripts.js","d35f0c60a2cdb3db4867b78c7e2ebe79"],["speaker.html","8a29371e0f42e30313241fa6cce8e2d1"],["sponsor.html","f603520613cbbb7da27da090154099ff"]];
+var precacheConfig = [];
 var cacheName = 'sw-precache-v2-zeppelin-grunt-' + (self.registration ? self.registration.scope : '');
 
 
