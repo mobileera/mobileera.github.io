@@ -2,6 +2,7 @@
 layout: post
 title:  "Mobile Era workshop tickets now available"
 date:   2016-10-07 08:00:00
+isStaticPost: false
 ---
 
 We have started selling tickets to our workshops, organized by Vitaly Friedman, Wei-Meng Lee,
