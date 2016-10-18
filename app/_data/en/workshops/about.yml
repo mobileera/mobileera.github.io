@@ -65,7 +65,7 @@ rows:
  -
     id: 5
     title: "Enterprise App Development – Samsung Knox"
-    image: "partners/Samsung.svg"
+    image: "workshops/knox.png"
     salesLink: "https://mobileera.hoopla.no/sales/samsungknox"
     speakerId: 137
     price: "FREE"
