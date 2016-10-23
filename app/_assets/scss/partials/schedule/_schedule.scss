@@ -188,3 +188,30 @@ $small-label-width: 80px;
 .service-description {
     margin-top: 15px;
 }
+.slot-badge {
+  background-color: orange;
+  border-radius: 3px;
+  position: absolute;
+  top: 2px;
+  right: 3px;
+  font-size: 12px;
+  color: #fff;
+  padding: 2px 4px 1px 4px;
+  text-transform: none;
+}
+
+.timeslot.lightning {
+    .timeslot-label {
+        font-size: 22px;
+        span {
+            font-size: 16px;
+        }
+    }
+    .slot-title {
+        font-size: 17px;
+    }
+    .slot-category {
+        font-size: 14px;
+    }
+
+}

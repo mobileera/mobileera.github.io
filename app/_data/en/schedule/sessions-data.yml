@@ -139,7 +139,7 @@
   category: "Cross-platform"
 -
   id: 110
-  title: "Use Xamarin + Azure App Services to build better apps"
+  title: "Use Xamarin + Azure App Service to build better apps"
   description: "Use Xamarin to develop 100% native apps on iOS, Android, and Windows Phone from a single code-base.<br>
 Combining an Xamarin app with Azure App Service is a powerful combination and may save a lot of development time and complexity.<br>
 Azure App Service provides all backend functionality such as storage, push notifications, offline synchronization, authentication/authorization management, automatic scaling.<br>
@@ -296,7 +296,7 @@ Curious about how it all works? Come learn! Architectures will be explained; app
   title: "Is your app secure?"
   description: "It is suprising how many apps fail when it comes to mobile security. Come and see everything that can go wrong, and gets some tips & tricks on how to think when it comes to secure data, integrations and access management. You will hopefully get some aha-moments! Demo is promised!"
   subtype: presentation
-  speakers: [131]
+  speakers: [131, 138]
   category: "Security"
 
 - id: 132
@@ -320,6 +320,84 @@ Curious about how it all works? Come learn! Architectures will be explained; app
   description: "You find RoboGuice simple but slow ? And you think Dagger 1 & 2 are fast but complex and bloated ? Toothpick is the best of both worlds ! Toothpick is a scope tree based, runtime but reflection free implementation of JSR 330. It is pure Java, with a special focus on Android. Toothpick is fast (even faster than Dagger 2 in some cases!) and is simpler to use, with less boilerplate code. Its syntax is very close to Guice. It supports named dependencies, lazy dependencies, providers, and has built-in support for custom scopes."
   subtype: presentation
   speakers: [134, 135]
+  category: "Android"
+
+-
+  id: 201
+  title: "Will it rain? How we made a weather widget in two days of innovation at NRK"
+  lightning: true
+  description: "Innovation days at NRK is where we get to dive into new technology. We can do the things we've always wanted to do in our projects that never gets priority. In this lightning talk I will tell you how we made a useful new widget for the Yr app over the course of two such innovation days."
+  subtype: lightning
+  speakers: [138]
+  category: "iOS"
+
+-
+  id: 202
+  title: "Red Hat Mobile Application Platform for rapid development of enterprise mobile applications"
+  description: "We will introduce the Red Hat Mobile Application Platform for rapid development of enterprise mobile application clients and integration to backend systems with Node.js mBaaS Services. This session will demonstrate how to rapidly  build a custom end to end mobile application from scratch, generate a client binary in the build farm and deploy the cloud/server side it to a production environment."
+  subtype: lightning
+  speakers: [139]
+  category: "Cross-platform"
+
+-
+  id: 203
+  title: "We are ditching Xamarin. Why?"
+  description: "Xamarin is evolving and has been recently acquired by Microsoft. Cross-platform development has never been trendier. Nubmer of users of Xamarin grows tremendously. <br>
+However, we are - FotMob, 11M-users app - jumping off this cross-platform train. In this talk, I want to share my insights about dark-side of Xamarin, something you probably don't think about when you start a brand new project.<br>
+All pros and cons we faced thoughout last 4 years."
+  subtype: lightning
+  speakers: [140]
+  category: "Cross-platform"
+
+-
+  id: 204
+  title: "When management orders an app"
+  description: "How do you respond when management decides that they should have an app?<br>
+  This talk discusses why you should embrace such activities, and why it's not about technology or applications."
+  subtype: lightning
+  speakers: [141]
+  category: "Cross-platform"
+
+-
+  id: 205
+  title: "Not ready to quit you day job? How to succeed with hobby projects."
+  description: "Do you have an idea for something you want to make? A product you want to develop, but you are not ready to quit your job to work at it yet and form a startup? Christian developed an app over several years: 'Oslo in old times' that was mentioned in Aftenposten.<br>
+Based on his experiences from this process, he wants to motivate people to take on hobby projects and will give useful adivce on how to do this kind of project."
+  subtype: lightning
+  speakers: [142]
+  category: "Cross-platform"
+
+-
+  id: 206
+  title: "When common sense is not enough: Insights from usertesting at Telenor (Min Bedrift 2.0)"
+  description: "Common sense is not enough - always check if you and your users talk the same language. How early prototyping and continuous user testing discovers the gaps between developers' and users' expectations - examples from  'MinBedrift 2.0', self-service solution for corporate customers of Telenor."
+  subtype: lightning
+  speakers: [143]
+  category: "UX"
+
+
+-
+  id: 207
+  title: "Tedious deployment tasks simplified with Fastlane"
+  description: "Have you ever cursed at your computer while renewing certificates and provisioning profiles, or when uploading your build to the App Store? Fastlane will help take most of your pain away with just a few lines of code."
+  subtype: lightning
+  speakers: [144]
+  category: "iOS"
+
+-
+  id: 208
+  title: "Pitfalls and best practices in Interface Building"
+  description: "A short, condensed version of lessons learned after a thousand of hoursspent in interface builder. With focus on deciphering AutoLayout, and a creating reusable UI."
+  subtype: lightning
+  speakers: [145]
+  category: "iOS"
+
+-
+  id: 209
+  title: "Filtering and predicate on Android"
+  description: "How to filter & use predictions on lists for Android. A comparison ofGoogle Guava and Kotlin. "
+  subtype: lightning
+  speakers: [146]
   category: "Android"
 
 -

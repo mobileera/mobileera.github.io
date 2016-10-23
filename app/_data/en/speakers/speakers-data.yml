@@ -443,8 +443,101 @@
   id: 136
   name: "Eoin"
   surname: "Crosbie"
+  ribbon: Workshop
   company: "Red Hat"
 
 - id: 137
   name: "Cheng Luo & Dan Helsing"
+  ribbon: Workshop
   company: "Samsung"
+
+-
+  id: 138
+  name: "Anders"
+  surname: "Ullnæss"
+  company: "Mesan AS"
+  bio: "Current leader of Mesan's expert group for mobile technology. Worked with Android, iOS and mobile backend the for several years making apps for Norgesgruppen, NRK and Tolletaten among others. Lectured Android programming at NITH (now part of Westerdals)."
+  thumbnailUrl: AndersUllnaess.jpg 
+  social:
+    - {name: "twitter", link: "https://twitter.com/andersullnass"}
+
+-
+  id: 139
+  name: "Bill"
+  surname: "Morkan"
+  company: "Red Hat"
+  bio: "Currently the Mobile Partner Enablement manager for Red Hat, Bill is a senior technology professional with almost 20 years’ experience working in various leadership roles in the Technology & Telecommunication Industries. He has held a number of technical & management roles during that time from software engineering and consulting to product management and partner business development."
+  thumbnailUrl: BillMorkan.jpg 
+  social:
+    - {name: "twitter", link: "https://twitter.com/billbomo"}
+
+-
+  id: 140
+  name: "Konstantin"
+  surname: "Loginov"
+  company: "Norapps"
+  bio: "Konstantin is a senior mobile-developer with 8 years of experience currently working on FotMob app @ NorApps AS. Thoughout these 8 years he's developed & shipped wide range of applications for iOS, Android, Windows Phone, webOS and Windows Mobile and put hands on all trendy mobile-technologies. Being a mobile-minded fanatic, he is passionate about organizing mobile developers community in Oslo."
+  thumbnailUrl: KonstantinLoginov.jpg 
+  social:
+    - {name: "twitter", link: "https://twitter.com/klogi_norge"}
+    - {name: "github", link: "https://twitter.com/ksloginov"}
+
+-
+  id: 141
+  name: "Håvard"
+  surname: "Hvassing"
+  company: "Shortcut"
+  bio: "Håvard dabbles in code and pretends to make software together with amazing people in order to create meaningful app experiences."
+  thumbnailUrl: HavardHvassing.jpg 
+  social:
+    - {name: "twitter", link: "https://twitter.com/hhvassing"}
+
+-
+  id: 142
+  name: "Christian"
+  surname: "Aamodt"
+  company: "Bouvet"
+  bio: "Christian is an experienced devolper and has worked as a consultant on java-based web projects since 1998. He has developed apps since 2010 and today works as a consultant for Bouvet."
+  thumbnailUrl: ChristianAamodt.jpg 
+  social:
+    - {name: "twitter", link: "https://twitter.com/caamodt"}
+
+-
+  id: 143
+  name: "Ekaterina"
+  surname: "Orlova"
+  company: "Accenture"
+  bio: "Front-end developer at Accenture, Angular trainer in Netology Russia, girlgeek."
+  thumbnailUrl: EkaterinaOrlova.jpg 
+  social:
+    - {name: "twitter", link: "https://twitter.com/cherrypick"}
+
+-
+  id: 144
+  name: "Terje"
+  surname: "Lønøy"
+  company: "Sopra Steria AS"
+  bio: "Terje Lønøy is a software engineer working for Sopra Steria AS. He has been working with both iOS and Android since 2012. Obsessed with simplifying and automating processes that are time-consuming, so he can focus more on developing."
+  thumbnailUrl: TerjeLonoy.jpg 
+  social:
+    - {name: "twitter", link: "https://twitter.com/terjelonoy"}
+
+-
+  id: 145
+  name: "Andreas"
+  surname: "Petrov"
+  company: "Giant Leap Technologies"
+  bio: "iOS Tech Lead at Giant Leap Technologies. Full time iOS developer since2011. "
+  thumbnailUrl: AndreasPetrov.jpg 
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/andersullnass"}
+
+-
+  id: 146
+  name: "Johannes"
+  surname: "Dvorak Lagos"
+  company: "Shortcut"
+  bio: "Senior Developer at Shortcut AS."
+  thumbnailUrl: JohannesDvorakLagos.jpg 
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/andersullnass"}

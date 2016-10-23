@@ -19,7 +19,7 @@
                 </div>
             </div>
             {% for timeslot in day.timeslots %}
-            <div class="timeslot" itemtype="http://schema.org/subEvent">
+            <div class="timeslot {% if timeslot.lightning %}lightning{% endif %}" itemtype="http://schema.org/subEvent">
                 <div class="timeslot-label">
                     <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
                         {% assign startTime = timeslot.startTime | split: ":" %}
@@ -44,6 +44,9 @@
                                         <!-- <span class="slot-language">{{session.language | upcase}}</span> -->
                                         {% if session.category != null %}
                                         <span class="slot-category">{{session.category}}</span>
+                                        {% endif %}
+                                        {% if session.subtype == "lightning" %}
+                                        <span class="slot-badge">Lightning Talk</span>
                                         {% endif %}
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.[site.lang].speakers.speakers-data %}
