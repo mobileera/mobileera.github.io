@@ -466,7 +466,7 @@
   name: "Bill"
   surname: "Morkan"
   company: "Red Hat"
-  bio: "Currently the Mobile Partner Enablement manager for Red Hat, Bill is a senior technology professional with almost 20 years’ experience working in various leadership roles in the Technology & Telecommunication Industries. He has held a number of technical & management roles during that time from software engineering and consulting to product management and partner business development."
+  bio: "Currently the Mobile Partner Enablement manager for Red Hat, Bill is a senior technology professional with almost 20 years of experience working in various leadership roles in the Technology & Telecommunication Industries. He has held a number of technical & management roles during that time from software engineering and consulting to product management and partner business development."
   thumbnailUrl: BillMorkan.jpg 
   social:
     - {name: "twitter", link: "https://twitter.com/billbomo"}
@@ -475,12 +475,12 @@
   id: 140
   name: "Konstantin"
   surname: "Loginov"
-  company: "Norapps"
+  company: "NorApps"
   bio: "Konstantin is a senior mobile-developer with 8 years of experience currently working on FotMob app @ NorApps AS. Thoughout these 8 years he's developed & shipped wide range of applications for iOS, Android, Windows Phone, webOS and Windows Mobile and put hands on all trendy mobile-technologies. Being a mobile-minded fanatic, he is passionate about organizing mobile developers community in Oslo."
   thumbnailUrl: KonstantinLoginov.jpg 
   social:
     - {name: "twitter", link: "https://twitter.com/klogi_norge"}
-    - {name: "github", link: "https://twitter.com/ksloginov"}
+    - {name: "github", link: "https://github.com/ksloginov"}
 
 -
   id: 141
@@ -517,7 +517,7 @@
   name: "Terje"
   surname: "Lønøy"
   company: "Sopra Steria AS"
-  bio: "Terje Lønøy is a software engineer working for Sopra Steria AS. He has been working with both iOS and Android since 2012. Obsessed with simplifying and automating processes that are time-consuming, so he can focus more on developing."
+  bio: "Terje Lønøy is a software engineer working for Sopra Steria AS. He has been working with both iOS and Android since 2012. Obsessed with simplifying and automating processes that are time-consuming so he can focus more on developing."
   thumbnailUrl: TerjeLonoy.jpg 
   social:
     - {name: "twitter", link: "https://twitter.com/terjelonoy"}
@@ -527,7 +527,7 @@
   name: "Andreas"
   surname: "Petrov"
   company: "Giant Leap Technologies"
-  bio: "iOS Tech Lead at Giant Leap Technologies. Full time iOS developer since2011. "
+  bio: "iOS Tech Lead at Giant Leap Technologies. Full time iOS developer since 2011."
   thumbnailUrl: AndreasPetrov.jpg 
   # social:
   #   - {name: "twitter", link: "https://twitter.com/andersullnass"}
