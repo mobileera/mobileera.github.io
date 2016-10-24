@@ -52,3 +52,95 @@
   social:
     - {name: "twitter", link: "https://twitter.com/KostiaKoval", description: "Twitter"}
     - {name: "github", link: "http://kostiakoval.github.io/", description: "GitHub" }
+
+-
+  id: 11
+  name: "Anum"
+  surname: "Qudsia"
+  title: ""
+  thumbnailUrl: anonymous.png
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}
+-
+  id: 12
+  name: "Ekaterina"
+  surname: "Orlova"
+  title: "Volunteers Organizer"
+  thumbnailUrl: anonymous.png
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/cheerypick"}
+    - {name: "github", link: "https://github.com/cheerypick"}
+-
+  id: 12
+  name: "Tatiana"
+  surname: "Lochehina"
+  title: ""
+  thumbnailUrl: anonymous.png
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/TatyanaLo"}
+    - {name: "github", link: "https://github.com/TatyanaLo"}
+-
+  id: 12
+  name: "Kjell"
+  surname: "Gustavsen"
+  title: ""
+  thumbnailUrl: anonymous.png
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/KjellGustavsen"}
+    - {name: "github", link: "https://github.com/kgustavs"}
+-
+  id: 12
+  name: "Jens Gorm"
+  surname: "Rye-Andersen"
+  title: ""
+  thumbnailUrl: anonymous.png
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jensgorm"}
+    - {name: "github", link: "https://github.com/jensgorm"}
+-
+  id: 12
+  name: "Konstantin"
+  surname: "Loginov"
+  title: "Workshops Manager"
+  thumbnailUrl: KonstantinLoginov.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/klogi_norge"}
+    - {name: "github", link: "https://github.com/ksloginov"}
+
+-
+  id: 21
+  name: "Darija"
+  surname: "Sapozenkova-Hauge"
+  title: ""
+  thumbnailUrl: anonymous.png
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}
+-
+  id: 22
+  name: "Lasse"
+  surname: "Magnussen"
+  title: ""
+  thumbnailUrl: anonymous.png
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}
+-
+  id: 23
+  name: "Kristina"
+  surname: "Simakova"
+  title: "Android Program Committee"
+  thumbnailUrl: anonymous.png
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}

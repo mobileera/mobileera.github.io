@@ -29,6 +29,9 @@
                         {% assign endTime = timeslot.endTime | split: ":" %}
                         {{ endTime[0] }}<span>{{ endTime[1] }}</span>
                     </time>
+                    {% if timeslot.lightning == true %}
+                    <div class="slot-badge">Lightning Talk</div>
+                    {% endif %}
                 </div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for slot in timeslot.sessionIds %}
@@ -45,9 +48,7 @@
                                         {% if session.category != null %}
                                         <span class="slot-category">{{session.category}}</span>
                                         {% endif %}
-                                        {% if session.subtype == "lightning" %}
-                                        <span class="slot-badge">Lightning Talk</span>
-                                        {% endif %}
+
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.[site.lang].speakers.speakers-data %}
                                                 {% for session_speaker in session.speakers %}
@@ -58,7 +59,7 @@
                                                     </p>
                                                     </li>
                                                     {% endif %}
-                                                {% endfor %}    
+                                                {% endfor %}
                                             {% endfor %}
                                         </ul>
                                     </div>
