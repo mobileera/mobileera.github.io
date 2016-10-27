@@ -27,6 +27,21 @@
   service: true
   description: "Even if the conference is over, we will recommend a place to go to if you are still in Oslo for even more mobile discussions!"
 
+# Lighting talks IDs: 200-299
+-
+  id: 200
+  title: "Lightning Talks"
+  description: "Speakers & exact details will be revelead closer to the conference date."
+  subtype: presentation
+
+# Workshop IDs: 200-299
+-
+  id: 801
+  title: "Android 101 Workshop"
+  description: ""
+  subtype: workshop
+  speakers: [8]
+
 -
   id: 002
   title: "Building component-driven UIs"
@@ -407,18 +422,3 @@ Based on his experiences from this process, he wants to motivate people to take 
   category: "Keynote"
   subtype: keynote
   speakers: [1]
-
-# Lighting talks IDs: 200-299
--
-  id: 200
-  title: "Lightning Talks"
-  description: "Speakers & exact details will be revelead closer to the conference date."
-  subtype: presentation
-
-# Workshop IDs: 200-299
--
-  id: 801
-  title: "Android 101 Workshop"
-  description: ""
-  subtype: workshop
-  speakers: [8]
