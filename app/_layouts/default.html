@@ -139,7 +139,10 @@
         </script>
     {% endif %}
 
+    <!-- JSON that should represent everything you would want to know about this conference -->
+    <script id="mobile-era-event-metadata" type="application/ld+json">
     {% include schema-event.html %}
+    </script>
 
     <script>
     if ('serviceWorker' in navigator) {
