@@ -87,7 +87,7 @@
     - {
         startTime: "12:45",
         endTime: "13:00",
-        sessionIds: [201, 203, 202],
+        sessionIds: [203, 201, 202],
         lightning: true
     }
     - {
