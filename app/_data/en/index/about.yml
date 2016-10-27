@@ -1,7 +1,7 @@
 title: "Mobile Era is Norway's first conference for mobile developers"
 abstract: "The conference will cover Android, iOS, Hybrid and Mobile Web development from both a design and development perspective.
 
-We have announced our first speakers, and are looking for more. We are also on the lookout for additional sponsors and volunteers for our organization team. If you would like to get updates, follows us on Twitter or sign up for our mailing list."
+We have announced our full program and we are close to SOLD OUT. If you would like to get updates, follows us on Twitter or sign up for our mailing list."
 blocks:
  - {title: "Want to learn?", image: "conference.jpg", text: "We have started selling tickets to our workshops, organized by Vitaly Friedman, Wei-Meng Lee, Christoffer Marcussen, Samsung and Red Hat on diverse subjects.", buttonText: "Get your ticket", buttonLink: "/workshops/" }
  - {title: "Want to sponsor?", image: "hackathon.jpg", text: "As a sponsor of the conference, you can help the mobile developer community in Oslo grow and show your commitment to the mobile era!", buttonText: "Sponsor packages", buttonPermalink: "/sponsors" }

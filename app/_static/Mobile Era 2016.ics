@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mobile Era 2016
+X-WR-TIMEZONE:Europe/Oslo
+X-WR-CALDESC:Mobile Era is Norway's first conference for mobile developers.
+  The conference will cover Android\, iOS\, Hybrid and Mobile Web developmen
+ t from both a design and development perspective.
+BEGIN:VEVENT
+DTSTART:20161103T080000Z
+DTEND:20161103T153000Z
+DTSTAMP:20161026T145204Z
+UID:6ejgto7dpo4dnfp3a1accjpth0@google.com
+CREATED:20161026T134712Z
+DESCRIPTION:The sessions of the first Mobile Era 2016 day. Check the detail
+ s on our website:\nhttp://mobileera.rocks/schedule/\n\nWe open the doors at
+  8:00\n\nThe venue:\nhttp://www.gamlemuseet.no/kontakt/
+LAST-MODIFIED:20161026T135509Z
+LOCATION:Gamle Museet Konferanse og Selskapslokaler\, Dronningensgate 4 Kva
+ draturen\, 0152 Oslo\, Norway
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Mobile Era 2016 Day #1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161104T080000Z
+DTEND:20161104T143000Z
+DTSTAMP:20161026T145204Z
+UID:ildf8kp3vfqg6rr9vpd7b389gk@google.com
+CREATED:20161026T134936Z
+DESCRIPTION:The sessions of the second Mobile Era 2016 day. Check the detai
+ ls on our website:\nhttp://mobileera.rocks/schedule/\n\nWe open the doors a
+ t 8:00\n\nThe venue:\nhttp://www.gamlemuseet.no/kontakt/
+LAST-MODIFIED:20161026T135520Z
+LOCATION:Gamle Museet Konferanse og Selskapslokaler\, Dronningensgate 4 Kva
+ draturen\, 0152 Oslo\, Norway
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mobile Era 2016 Day #2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161103T170000Z
+DTEND:20161103T225900Z
+DTSTAMP:20161026T145204Z
+UID:8eqhedeasba00qh5ce51i6q73o@google.com
+CREATED:20161026T135116Z
+DESCRIPTION:Let's have a Mobile Era 2016 party!\n\nThe venue:\nhttp://www.m
+ eshnorway.com/about/address
+LAST-MODIFIED:20161026T142845Z
+LOCATION:Mesh\, Tordenskiolds gate 3\, 0160 Oslo\, Norway
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mobile Era 2016 Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161102T163000Z
+DTEND:20161102T180000Z
+DTSTAMP:20161026T145204Z
+UID:pvd2anlov82hf9hm1a6v5v1rak@google.com
+CREATED:20160622T121418Z
+DESCRIPTION:For full details\, including the address\, and to RSVP see:\nht
+ tp://www.meetup.com/Mobile-Meetup-Oslo/events/231938661/\n\nThe venue:\nhtt
+ p://www.teknologihuset.no/\n\nAs the co-organizers of Mobile Era 2016 we ar
+ e happy to contribute back to the community by inviting rockstar-speakers f
+ rom the conference to present for Mobile Meetup members for free.\n\n==== \
+ n\nWe will serve some delicious snacks and drinks! Mobile Era Community Eve
+ ning is sponsored by Microsoft. \n\n====\n\nAgenda\n\n17:30 \nResponsive HT
+ ML5 games on tiny microcontrollers \nby István 'Flaki' Szmozsánszky\, Mobil
+ e & web dev @ Mozilla / DPC Consulting\n\nMany have discovered the power of
+  the HTML5 canvas quite early on in the game-creator scene and started crea
+ ting their own games playable across browsers\, just as they did before wit
+ h flash. Now we are taking this scene one bit further and I'll show you how
+  to recreate some classic and modern titles in JavaScript in "full" 1-bit p
+ ixel-glory and play them on pocket-sized Arduino-based DIY gaming rigs. \n\
+ n18:00  \nIncrease productivity with Design patterns\, Libraries and Tools 
+ \nby Viraj Tank\,  Mobile team lead @ Sociomantic Labs\n\nAs an Android dev
+ eloper\, we have plenty of choices when it comes to Design patterns\, Libra
+ ries and Tools. When it comes to making a selection\, there is no right or 
+ wrong choice\, it totally depends on the project requirements. \nIn this ta
+ lk\, you will be learning:\n\n• MVP vs MVVM and which one to use. \n• Diffe
+ rent multithreading libraries and which one to use. \n• Different boilerpla
+ te code reduction libraries and which one to use. \n• Different Cache\, Dat
+ abase and Network libraries and which one to use. \n• Different Testing\, D
+ ebugging and Monitoring tools and libraries and which one to use. \n\n18:30
+     \nPushing Performance To The Edge \nby Vitaly Friedman\, Editor-in-Chie
+ f @ Smashing Magazine\n\nPerformance matters. So how do we use fancy web te
+ chnologies today to make sure our website are delivered fast to the client?
+  How do we choose a web font loading strategy and how do we make use of HTT
+ P/2 and service workers to show our pages faster on the screen? \nIn this t
+ alk\, Vitaly Friedman will be speaking about the lessons learned from perfo
+ rmance optimization of Smashing Magazine\, highlighting the strategy and th
+ e front-end techniques used to bring the site “up to speed”. Beware: you wo
+ n’t be able to unlearn what you learn in this session!\n\n=======\n\nSpeake
+ rs\n\nIstván 'Flaki' Szmozsánszky \nIstván is a mobile & web dev who have t
+ ried everything from J2ME through Symbian and Android dev whilst once ended
+  up with the mobile web and somehow never looked back. He has been involved
+  with Mozillas Firefox OS and a huge proponent of the Progressive Webapps b
+ andwagon\, or whatever people call "webapps kicking native butt" these days
+ . \;)\n\nViraj Tank \nViraj work at Sociomantic Labs\, Berlin as Mobile tea
+ m lead\, developing our Android and iOS applications. \n\nVitaly Friedman\n
+ Vitaly Friedman loves beautiful content and does not give up easily. From M
+ insk in Belarus\, he studied computer science and mathematics in Germany\, 
+ discovered the passage a passion for typography\, writing and design. After
+  working as a freelance designer and developer for 6 years\, he co-founded 
+ Smashing Magazine\, a leading online magazine dedicated to design and web d
+ evelopment. Vitaly is the author\, co-author and editor of all Smashing boo
+ ks. He currently works as editor-in-chief of Smashing Magazine in the lovel
+ y city of Vilnius\, Lithuania.\n\n=======  \n\nMore awesomeness:\n• we'll s
+ hare Mobile Era swag\n• we'll raffle a couple of JetBrains licenses
+LAST-MODIFIED:20161026T142928Z
+LOCATION:Teknologihuset\, Pilestredet 56\, 0167 Oslo\, Norway
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Mobile Era Community Evening
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
