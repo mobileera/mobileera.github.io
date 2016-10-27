@@ -49,7 +49,7 @@
         "@id": {{ speaker.id }},
         "name" : "{{ speaker.name }} {{ speaker.surname }}",
         "image" : "{{ site.url | append: site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}",
-        "description": "{{ speaker.bio | strip_html | replace: '"', '\\"' }}",
+        "description": "{{ speaker.bio | replace: '<br>', '\\n' | strip_html | replace: '"', '\\"' }}",
         "jobTitle" : "{{ speaker.title }}",
         "worksFor" : {
             "@type" : "Organization",
@@ -73,7 +73,7 @@
                                 "@type": "SessionEvent",
                                 "id": {{ session.id }},
                                 "name": "{{ session.title | strip_html | replace: '"', '\\"' }}",
-                                "description": "{{ session.description | strip_html | replace: '"', '\\"' }}",
+                                "description": "{{ session.description | replace: '<br>', '\\n' | strip_html | replace: '"', '\\"' }}",
                                 "category": "{{ session.category }}",
                                 "startDate": "{{ day.date }}T{{ timeslot.startTime }}",
                                 "endDate": "{{ day.date }}T{{ timeslot.endTime }}",

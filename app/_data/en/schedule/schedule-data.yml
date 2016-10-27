@@ -7,8 +7,8 @@
     - {title: "Thor", color: "#e91e63"}
   timeslots:
     - {
-        startTime: "9:00",
-        endTime: "9:45",
+        startTime: "09:00",
+        endTime: "09:45",
         sessionIds: [1]
     }
     - {
@@ -64,8 +64,8 @@
     - {title: "Thor", color: "#e91e63"}
   timeslots:
     - {
-        startTime: "9:00",
-        endTime: "9:45",
+        startTime: "09:00",
+        endTime: "09:45",
         #IMPORTANT: Witalec (112) must speak on Friday
         sessionIds: [104, 4, 112]
     }
