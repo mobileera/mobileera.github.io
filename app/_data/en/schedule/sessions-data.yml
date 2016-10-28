@@ -16,16 +16,16 @@
   subtype: presentation
 -
   id: 995
-  title: "Party 🎉🍻"
-  place: "TBA"
+  title: "Party at MESH 🎉🍻"
+  place: "MESH"
   service: true
   description: "The best time to talk with speakers and attendees."
 -
   id: 994
   title: "Socializing 🍻"
-  place: "TBA"
+  place: "Beer Palace, Aker Brygge"
   service: true
-  description: "Even if the conference is over, we will recommend a place to go to if you are still in Oslo for even more mobile discussions!"
+  description: "The conference is over, but if you still would like to discuss mobile topics with fellow attendees, we recommend going to Beer Palace on Aker Brygge."
 
 # Lighting talks IDs: 200-299
 -
