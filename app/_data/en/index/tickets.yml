@@ -1,7 +1,6 @@
 title: "Buy a ticket"
-info: "<p>Get two days of excellent talks on mobile development and the conference party for an extremely good price.</p>
-
-<p>Accommodation is NOT included in the ticket price.</p><br /><br />"
+#   info: "<p>Get two days of excellent talks on mobile development and the conference party for an extremely good price.</p><p>Accommodation is NOT included in the ticket price.</p><br /><br />"
+info: "<p>Mobile Era is fully SOLD OUT. Follow us on Twitter @mobileeraconf or sign up for our mailing list to keep updated about Mobile Era 2017.</p><br /><br />"
 offers:
 
 #  -
@@ -28,7 +27,9 @@ offers:
   validThrough: "2016-10-20T23:59"
   badge: "Limited"
   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
-  additionalInfo: "Scholarships are primarily intended to assist people from groups traditionally underrepresented in the local developer community, including women, people of non-Scandinavian descent and people with disabilities. "
+  additionalInfo: "Scholarships are primarily intended to assist people from groups traditionally underrepresented in the local developer community, including women, people of non-Scandinavian descent and people with disabilities."
+  soldOut: true
+  soldOutText: "Sold out"
 
  -
   name: "Late Bird"
@@ -43,6 +44,8 @@ offers:
   validThrough: "2016-11-04T23:59"
   badge: "≈ €440"
   featured: true
+  soldOut: true
+  soldOutText: "Sold out"
 
  -
   name: "Student Ticket"
@@ -56,3 +59,5 @@ offers:
   badge: "Limited"
   ticketContentList: ["Access to all conference sections", "Coffee breaks", "Lunch both days", "Party"]
   additionalInfo: "Extremely discounted tickets for students. IMPORTANT: Requires valid student ID at entrance to the conference."
+  soldOut: true
+  soldOutText: "Sold out"

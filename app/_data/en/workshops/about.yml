@@ -15,6 +15,8 @@ rows:
     buyButtonText: "Buy ticket"
     validFrom: "2016-10-01T00:01"
     validThrough: "2016-11-01T23:59"
+    soldOut: true
+    soldOutText: "Sold out"
 
  -
     id: 2
@@ -30,6 +32,8 @@ rows:
     buyButtonText: "Buy ticket"
     validFrom: "2016-10-01T00:01"
     validThrough: "2016-11-01T23:59"
+    soldOut: true
+    soldOutText: "Sold out"
 
  -
     id: 3
@@ -45,6 +49,8 @@ rows:
     buyButtonText: "Buy ticket"
     validFrom: "2016-10-01T00:01"
     validThrough: "2016-11-01T23:59"
+    soldOut: true
+    soldOutText: "Sold out"
 
 
  -
@@ -61,6 +67,8 @@ rows:
     buyButtonText: "Reserve ticket"
     validFrom: "2016-10-01T00:01"
     validThrough: "2016-11-01T23:59"
+    soldOut: true
+    soldOutText: "Sold out"
 
  -
     id: 5
@@ -76,3 +84,5 @@ rows:
     buyButtonText: "Reserve ticket"
     validFrom: "2016-10-01T00:01"
     validThrough: "2016-11-01T23:59"
+    soldOut: true
+    soldOutText: "Sold out"

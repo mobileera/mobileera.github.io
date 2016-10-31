@@ -4,5 +4,4 @@ eventDate: "November 3rd-4th"
 typeoutTextValues: '"", "Oslo", "Norway", "Scandinavia"'
 typeoutFallback: "Oslo"
 buttons:
- - {link: "http://tickets.mobileera.rocks", text: "Buy a ticket", badge: null}
- - {link: "/workshops/", text: "Attend the workshop", badge: "FREE options"}
+ - {link: "/schedule/", text: "Check the program", badge: null}

@@ -1,8 +1,6 @@
 title: "Mobile Era is Norway's first conference for mobile developers"
-abstract: "The conference will cover Android, iOS, Hybrid and Mobile Web development from both a design and development perspective.
-
-We have announced our full program and we are close to SOLD OUT. If you would like to get updates, follows us on Twitter or sign up for our mailing list."
+abstract: "The conference will cover Android, iOS, Hybrid and Mobile Web development from both a design and development perspective. Follow us on Twitter @mobileeraconf or sign up for our mailing list to keep updated about Mobile Era 2017."
 blocks:
- - {title: "Want to learn?", image: "conference.jpg", text: "We have started selling tickets to our workshops, organized by Vitaly Friedman, Wei-Meng Lee, Christoffer Marcussen, Samsung and Red Hat on diverse subjects.", buttonText: "Get your ticket", buttonLink: "/workshops/" }
- - {title: "Want to sponsor?", image: "hackathon.jpg", text: "As a sponsor of the conference, you can help the mobile developer community in Oslo grow and show your commitment to the mobile era!", buttonText: "Sponsor packages", buttonPermalink: "/sponsors" }
- - {title: "Want to help?", image: "workshop.jpg", text: "As a volunteer for the conference, you get the chance to learn, grow your network and contribute to the good of your fellow kind.", buttonText: "Join our Slack", buttonLink: "http://mobileera.herokuapp.com/" }
+ - {title: "Want to learn?", image: "conference.jpg", text: "We are happy to have the workshops, organized by Vitaly Friedman, Wei-Meng Lee, Christoffer Marcussen, Samsung and Red Hat on diverse subjects.", buttonText: "Workshops", buttonLink: "/workshops/" }
+ - {title: "Want to sponsor in 2017?", image: "hackathon.jpg", text: "As a sponsor of the conference, you can help the mobile developer community in Oslo grow and show your commitment to the mobile era!", buttonText: "Contact us now", buttonPermalink: "mailto:contact@mobileera.rocks" }
+ - {title: "Want to help in 2017?", image: "workshop.jpg", text: "As a volunteer for the conference, you get the chance to learn, grow your network and contribute to the good of your fellow kind.", buttonText: "Join our Slack", buttonLink: "http://mobileera.herokuapp.com/" }

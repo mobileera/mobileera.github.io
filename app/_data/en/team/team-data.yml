@@ -58,7 +58,7 @@
   name: "Anum"
   surname: "Qudsia"
   title: "Organizer"
-  thumbnailUrl: anonymous.png
+  thumbnailUrl: AnumQudsia.jpg
   subTeam: true
   social:
     - {name: "twitter", link: "https://twitter.com/anumqudsia"}
@@ -68,7 +68,7 @@
   name: "Ekaterina"
   surname: "Orlova"
   title: "Volunteers coordinator"
-  thumbnailUrl: EkaterinaOrlova.png
+  thumbnailUrl: EkaterinaOrlova.jpg
   subTeam: true
   social:
     - {name: "twitter", link: "https://twitter.com/cheerypick"}
@@ -78,7 +78,7 @@
   name: "Tatiana"
   surname: "Lochehina"
   title: "Organizer"
-  thumbnailUrl: anonymous.png
+  thumbnailUrl: TatianaLochehina.jpg
   subTeam: true
   social:
     - {name: "twitter", link: "https://twitter.com/TatyanaLo"}
@@ -88,7 +88,7 @@
   name: "Kjell"
   surname: "Gustavsen"
   title: "Organizer"
-  thumbnailUrl: anonymous.png
+  thumbnailUrl: KjellGustavsen.jpg
   subTeam: true
   social:
     - {name: "twitter", link: "https://twitter.com/KjellGustavsen"}
@@ -98,7 +98,7 @@
   name: "Jens Gorm"
   surname: "Rye-Andersen"
   title: "Organizer"
-  thumbnailUrl: JensGormRye-Andersen.png
+  thumbnailUrl: JensGormRye-Andersen.jpg
   subTeam: true
   social:
     - {name: "twitter", link: "https://twitter.com/jensgorm"}
@@ -119,19 +119,19 @@
   name: "Darija"
   surname: "Sapozenkova-Hauge"
   title: "Graphic profile (contributor)"
-  thumbnailUrl: anonymous.png
+  thumbnailUrl: DarijaSapozenkova-Hauge.jpg
   subTeam: true
 -
   id: 22
   name: "Lasse"
   surname: "Magnussen"
   title: "Program selection (contributor)"
-  thumbnailUrl: anonymous.png
+  thumbnailUrl: LasseMagnussen.jpg
   subTeam: true
 -
   id: 23
   name: "Kristina"
   surname: "Simakova"
   title: "Program selection (contributor)"
-  thumbnailUrl: anonymous.png
+  thumbnailUrl: KristinaSimakova.jpg
   subTeam: true
