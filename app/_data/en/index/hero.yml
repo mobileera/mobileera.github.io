@@ -5,3 +5,4 @@ typeoutTextValues: '"", "Oslo", "Norway", "Scandinavia"'
 typeoutFallback: "Oslo"
 buttons:
  - {link: "/schedule/", text: "Check the program", badge: null}
+ - {link: "/workshops/", text: "Workshops", badge: "Last tickets"}

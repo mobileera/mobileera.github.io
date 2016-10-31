@@ -13,6 +13,8 @@ links:
     - {link: "https://facebook.com/mobileeraconf", text: "Facebook: Mobile Era Conf"}
     - {link: "https://linkedin.com/company/mobile-era-conference/", text: "LinkedIn: Mobile Era Conference"}
 bottomLinks:
- - {link: "/schedule/", text: "Our program", badge: null}
+ - {link: "/schedule/", text: "Check the program", badge: null}
+ - {link: "/workshops/", text: "Workshops", badge: "Last tickets"}
 rightButtons:
- - {link: "/schedule/", text: "Our program", badge: null}
+ - {link: "/schedule/", text: "Check the program", badge: null}
+ - {link: "/workshops/", text: "Workshops", badge: "Last tickets"}
