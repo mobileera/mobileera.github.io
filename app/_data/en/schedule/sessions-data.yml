@@ -19,13 +19,13 @@
   title: "Party at MESH 🎉🍻"
   place: "MESH"
   service: true
-  description: "The best time to talk with speakers and attendees."
+  description: "The best time to talk with speakers and attendees. Party is at <a href=\"https://www.google.com/maps/place/Mesh/@59.9131416,10.7341644,17z/data=!3m1!4b1!4m5!3m4!1s0x46416e7d879df3a9:0x2363c32e960440a0!8m2!3d59.9131416!4d10.7363584\">Mesh, Tordenskiolds gate, Oslo</a>."
 -
   id: 994
   title: "Socializing at Beer Palace 🍻"
   place: "Beer Palace, Aker Brygge"
   service: true
-  description: "The conference is over, but if you still would like to discuss mobile topics with fellow attendees, we recommend going to Beer Palace on Aker Brygge."
+  description: "The conference is over, but if you still would like to discuss mobile topics with fellow attendees, we recommend going to <a href='https://www.google.com/maps/place/Beer+Palace/@59.9106478,10.7242173,17z/data=!3m1!4b1!4m5!3m4!1s0x46416e81a9a1725f:0xa0adc51ecb5bb064!8m2!3d59.9106478!4d10.7264113'>Beer Palace on Aker Brygge</a>."
 
 # Lighting talks IDs: 200-299
 -
@@ -252,7 +252,7 @@ Curious about how it all works? Come learn! Architectures will be explained; app
 -
   id: 122
   title: "The Web or Bust!"
-  description: "So can this newly hailed king, 'progressive webapps' as they call itt really grow up to a point where it can take on the native hegemony — and would it even matter in a few years' time?"
+  description: "So can this newly hailed king, 'progressive webapps' as they call it really grow up to a point where it can take on the native hegemony — and would it even matter in a few years' time?"
   subtype: presentation
   speakers: [122]
 
@@ -280,7 +280,7 @@ Curious about how it all works? Come learn! Architectures will be explained; app
   category: "iOS"
 -
   id: 127
-  title: "Pain assesment through mobile solutions"
+  title: "Pain assessment through mobile solutions"
   description: "Pain is one of the most prolific health problems within the population and costs industry lost revenue. In this presentation, this challence is addressed through the examplification of our research project on a mobile solution for dealing with back-pain. A mobile app for visually diarizing the pain experience of pa- tients created on the Android platform is utilizedthrough a 3D centric application. Positive evaluations obtained provide evidence of the promising nature of the approach and indicate several future directions of research within mobile pain management."
   subtype: presentation
   speakers: [127]
