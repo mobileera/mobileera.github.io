@@ -5,4 +5,5 @@ typeoutTextValues: '"", "Oslo", "Norway", "Scandinavia"'
 typeoutFallback: "Oslo"
 buttons:
  - {link: "/schedule/", text: "Check the program", badge: null}
- - {link: "/workshops/", text: "Workshops", badge: "Last tickets"}
+ - {link: "https://itunes.apple.com/us/app/mobile-era-conference-2016/id1170206013?mt=8", text: "Mobile Era for iOS", badge: null}
+ - {link: "https://play.google.com/store/apps/details?id=com.computas.mobileera", text: "Mobile Era for Android", badge: null}
