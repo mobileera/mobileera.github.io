@@ -33,7 +33,7 @@ rows:
     validFrom: "2016-10-01T00:01"
     validThrough: "2016-11-01T23:59"
     soldOut: true
-    soldOutText: "Sold out"
+    soldOutText: "Ticket sales closed"
 
  -
     id: 3
@@ -50,7 +50,7 @@ rows:
     validFrom: "2016-10-01T00:01"
     validThrough: "2016-11-01T23:59"
     soldOut: true
-    soldOutText: "Sold out"
+    soldOutText: "Ticket sales closed"
 
 
  -
@@ -85,4 +85,4 @@ rows:
     validFrom: "2016-10-01T00:01"
     validThrough: "2016-11-01T23:59"
     soldOut: true
-    soldOutText: "Fully booked"
+    soldOutText: "Ticket sales closed"
