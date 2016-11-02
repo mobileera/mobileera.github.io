@@ -14,7 +14,7 @@
                     </div>
                     {% endfor %}
                     <div class="track-header-slot col-xs-12 visible-xs">
-                        <h5 class="slot-detail track-header-title"></h5>
+                        <h5 class="track-header-title">&nbsp;</h5>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
-                                        <!-- <span class="slot-language">{{session.language | upcase}}</span> -->
+                                        <span class="slot-language visible-xs">{{day.tracks[slotIndex].title}}</span>
                                         {% if session.category != null %}
                                         <span class="slot-category">{{session.category}}</span>
                                         {% endif %}
