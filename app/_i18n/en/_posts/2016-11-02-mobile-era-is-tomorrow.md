@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mobile Era begins tomorrow"
-date:   2016-11-02 12:00:00
+date:   2016-11-02 09:00:00
 isStaticPost: false
 ---
 
