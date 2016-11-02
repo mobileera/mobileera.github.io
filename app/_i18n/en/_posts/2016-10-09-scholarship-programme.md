@@ -5,7 +5,8 @@ date:   2016-10-09 08:00:00
 isStaticPost: false
 ---
 
-Mobile Era is a conference organized by and for the community, and it's important to us that all members of the community should be included, also those who would normally be unable to attend for financial reasons. We're very happy to be able to offer The Scholarship Programme (inspired by the one from <a href="http://webrebels.org">Web Rebels Conference</a>) to offer financial aid to people from underrepresented groups wanting to attend the conference.
+Mobile Era is a conference organized by and for the community, and it's important to us that all members of the community should be included, also those who would normally be unable to attend for financial reasons. We're very happy to be able to offer The Scholarship Programme (inspired by the one from
+<a href="http://webrebels.org">Web Rebels Conference</a>) to offer financial aid to people from underrepresented groups wanting to attend the conference.
 
 ####Eligibility
 
@@ -28,4 +29,4 @@ Just fill in the form. Submission is open until October 20th.
 All applicants will be notified via email by October 22th. If your application is accepted, you will receive your conference registration details and other relevant information along with the notification.
 
 #### Any questions?
-Email the organizers at [contact@mobileera.rocks](mailto:contact@mobileera.rocks)
+Email the organizers at <a href="malito:contact@mobileera.rocks">contact@mobileera.rocks</a>
