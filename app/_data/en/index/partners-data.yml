@@ -28,7 +28,8 @@ companions:
   -
     title: "Community partners"
     elements:
-      - {name: "Dataforeningen", description: "The Norwegian Computing Association", link: "http://www.dnd.no", imageUrl: "dataforeningen.png"}
+      - {name: "Dataforeningen", description: "The Norwegian Computing Association", link: "http://www.dnd.no", imageUrl: "dnd.png"}
+      - {name: "Vibble", description: "With vibble, you can turn your favorite playlists into creative mixes, just by swiping a finger", link: "http://www.vibble.co", imageUrl: "vibble.png"}
       - {name: "Microsoft", description: "", link: "http://www.microsoft.no", imageUrl: "microsoft.svg"}
       - {name: "AppAcademy", description: "Norway’s leading knowledge arena within Apps and Mobile 2.0", link: "https://www.facebook.com/AppAcademyNo/", imageUrl: "appacademy.png"}
       - {name: "DrinkEntrepreneurs Oslo", description: "The global and monthly social event for entrepreneurs to exchange, meet and help their peers around a drink!", link: "https://www.facebook.com/DrinkEntrepreneursOslo/", imageUrl: "drinkentrepreneurs.png"}
