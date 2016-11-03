@@ -1,8 +1,11 @@
 <!-- Begin Schedule Section -->
+
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
         {% for day in site.data.[site.lang].schedule.schedule-data %}
+
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+            <a class="btn btn-primary pull-right" href="https://goo.gl/forms/cfwSKIAXkskWnmI63"><span class="hidden-xs">Provide </span>Feedback</a>
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header">
                 <div class="track-header-label">Day {{ forloop.index }}</div>

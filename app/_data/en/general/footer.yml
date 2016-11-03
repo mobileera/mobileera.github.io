@@ -16,6 +16,7 @@ blocks:
   title: "Contacts"
   links:
    - {link: "mailto:contact@mobileera.rocks", text: "contact@mobileera.rocks"}
+   - {link: "https://goo.gl/forms/cfwSKIAXkskWnmI63", text: "Provide Feedback" }
  -
   title: "FAQ"
   links:
