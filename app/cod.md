@@ -11,4 +11,4 @@ In order to support this goal, we follow the [JSConf Code of Conduct](http://jsc
 
 ######Contacts:
 
-- Maxim Salnikov, +47 90 170 176, [salnikov@gmail.com](mailto:salnikov@gmail.com)
+- Mobile Era Team, [contact@mobileera.rocks](mailto:contact@mobileera.rocks)
