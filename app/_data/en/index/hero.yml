@@ -1,9 +1,9 @@
 image: "hero.jpg"
 title: "Mobile Era 2016 <typeout>"
 eventDate: "November 3rd-4th"
-typeoutTextValues: '"", "Oslo", "Norway", "Scandinavia"'
-typeoutFallback: "Oslo"
+typeoutTextValues: '"", "Thank you!", "Oslo", "Norway", "Scandinavia"'
+typeoutFallback: "Thank you!"
 buttons:
  - {link: "/schedule/", text: "Check the program", badge: null}
- - {link: "https://itunes.apple.com/us/app/mobile-era-conference-2016/id1170206013?mt=8", text: "Mobile Era for iOS", badge: null}
- - {link: "https://play.google.com/store/apps/details?id=com.computas.mobileera", text: "Mobile Era for Android", badge: null}
+ # - {link: "https://itunes.apple.com/us/app/mobile-era-conference-2016/id1170206013?mt=8", text: "Mobile Era for iOS", badge: null}
+ # - {link: "https://play.google.com/store/apps/details?id=com.computas.mobileera", text: "Mobile Era for Android", badge: null}

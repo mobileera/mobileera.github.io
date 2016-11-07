@@ -227,8 +227,8 @@ Curious about how it all works? Come learn! Architectures will be explained; app
   category: "iOS"
 -
   id: 118
-  title: "AsynConcurrency"
-  description: " An abstract though mildly practical look into how we model chronological order in programs with uncertain inputs."
+  title: "Building Easy, Complex UIControls"
+  description: "There’s UISegmentedControl. Then there’s the designer that challenges you to make something so custom, you spend four weeks basically making — you guessed it — UISegmentedControl. Yet it looks, feels, and behaves differently. Come along to hear how and why making custom controls can give your app that extra sparkle."
   subtype: presentation
   speakers: [118]
 
@@ -280,10 +280,10 @@ Curious about how it all works? Come learn! Architectures will be explained; app
   category: "iOS"
 -
   id: 127
-  title: "Pain assessment through mobile solutions"
-  description: "Pain is one of the most prolific health problems within the population and costs industry lost revenue. In this presentation, this challence is addressed through the examplification of our research project on a mobile solution for dealing with back-pain. A mobile app for visually diarizing the pain experience of pa- tients created on the Android platform is utilizedthrough a 3D centric application. Positive evaluations obtained provide evidence of the promising nature of the approach and indicate several future directions of research within mobile pain management."
+  title: "Increase productivity with Design patterns, Libraries and Tools"
+  description: "As an Android developer, we have plenty of choices when it comes to Design patterns, Libraries and Tools. When it comes to making a selection, there is no right or wrong choice, it totally depends on the project requirements. <br>In this talk, you will be learning:<br>• MVP vs MVVM and which one to use. <br>• Different view binding libraries. <br>• Different boilerplate code reduction libraries and which one to use. <br>• Different Cache, Database and Network libraries and which one to use. <br>• Different Debugging and Monitoring tools and libraries and which one to use. "
   subtype: presentation
-  speakers: [127]
+  speakers: [102]
   category: "Android"
 -
   id: 128
