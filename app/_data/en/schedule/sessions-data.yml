@@ -48,8 +48,8 @@
   description: "Learn how Spotify is using component-driven UIs to move faster than ever before, and how you can implement the same architecture in your app."
   subtype: presentation
   speakers: [2]
-
   category: "iOS"
+  video: https://vimeo.com/190713343
   # Use these for slides download etc.
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -422,3 +422,4 @@ Based on his experiences from this process, he wants to motivate people to take 
   category: "Keynote"
   subtype: keynote
   speakers: [1]
+  vimeo: https://vimeo.com/190542453
