@@ -15,7 +15,7 @@ markdown: kramdown
 
 # Site settings
 baseurl: ""
-url: "http://mobileera.rocks"
+url: "http://2016.mobileera.rocks"
 permalink: '/blog/:title'
 
 # i18n

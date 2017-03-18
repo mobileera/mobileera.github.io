@@ -21,7 +21,6 @@
     "grunt-sass": "~1.1.0",
     "grunt-svgmin": "~2.0.1",
     "jit-grunt": "~0.9.1",
-    "sw-precache": "^4.1.0",
     "time-grunt": "~1.1.0"
   },
   "engines": {
@@ -29,8 +28,5 @@
   },
   "scripts": {
     "test": "grunt deploy"
-  },
-  "dependencies": {
-    "sw-toolbox": "^3.3.0"
   }
 }
