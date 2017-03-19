@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://2016.mobileera.rocks/</link>
-    <atom:link href="http://2016.mobileera.rocks/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 19 Mar 2017 22:16:08 +0100</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 22:16:08 +0100</lastBuildDate>
+    <link>https://2016.mobileera.rocks/</link>
+    <atom:link href="https://2016.mobileera.rocks/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 19 Mar 2017 22:39:09 +0100</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 22:39:09 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -35,8 +35,8 @@ Just tweet a photo from the conference to &lt;a href=&quot;http://twitter.com/mo
 &lt;p&gt;See you at the conference!&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Nov 2016 10:00:00 +0100</pubDate>
-        <link>http://2016.mobileera.rocks/blog/mobile-era-is-tomorrow</link>
-        <guid isPermaLink="true">http://2016.mobileera.rocks/blog/mobile-era-is-tomorrow</guid>
+        <link>https://2016.mobileera.rocks/blog/mobile-era-is-tomorrow</link>
+        <guid isPermaLink="true">https://2016.mobileera.rocks/blog/mobile-era-is-tomorrow</guid>
         
         
             
@@ -64,8 +64,8 @@ Just tweet a photo from the conference to &lt;a href=&quot;http://twitter.com/mo
 &lt;p&gt;Admission to the workshops requires a separate ticket. We try to keep the prices as low as possible though. The workshops offered by Samsung and Red Hat are free of charge. &lt;a href=&quot;/workshops/&quot;&gt;Boost your career with new mobile knowledge!&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Oct 2016 12:00:00 +0200</pubDate>
-        <link>http://2016.mobileera.rocks/blog/ticket-sale-ends</link>
-        <guid isPermaLink="true">http://2016.mobileera.rocks/blog/ticket-sale-ends</guid>
+        <link>https://2016.mobileera.rocks/blog/ticket-sale-ends</link>
+        <guid isPermaLink="true">https://2016.mobileera.rocks/blog/ticket-sale-ends</guid>
         
         
             
@@ -105,8 +105,8 @@ Just tweet a photo from the conference to &lt;a href=&quot;http://twitter.com/mo
 &lt;p&gt;Email the organizers at &lt;a href=&quot;malito:contact@mobileera.rocks&quot;&gt;contact@mobileera.rocks&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Oct 2016 10:00:00 +0200</pubDate>
-        <link>http://2016.mobileera.rocks/blog/scholarship-programme</link>
-        <guid isPermaLink="true">http://2016.mobileera.rocks/blog/scholarship-programme</guid>
+        <link>https://2016.mobileera.rocks/blog/scholarship-programme</link>
+        <guid isPermaLink="true">https://2016.mobileera.rocks/blog/scholarship-programme</guid>
         
         
             
@@ -135,8 +135,8 @@ Christoffer Marcussen, Samsung and Red Hat on diverse subjects.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;/workshops/&quot;&gt;Go to Workshop page&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Oct 2016 10:00:00 +0200</pubDate>
-        <link>http://2016.mobileera.rocks/blog/workshops-at-mobile-era</link>
-        <guid isPermaLink="true">http://2016.mobileera.rocks/blog/workshops-at-mobile-era</guid>
+        <link>https://2016.mobileera.rocks/blog/workshops-at-mobile-era</link>
+        <guid isPermaLink="true">https://2016.mobileera.rocks/blog/workshops-at-mobile-era</guid>
         
         
             
@@ -156,8 +156,8 @@ Christoffer Marcussen, Samsung and Red Hat on diverse subjects.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;https://goo.gl/forms/OMpixHl2YPJEn8b82&quot;&gt;Submit to call for papers&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Oct 2016 11:00:00 +0200</pubDate>
-        <link>http://2016.mobileera.rocks/blog/lightning-talks-cfp</link>
-        <guid isPermaLink="true">http://2016.mobileera.rocks/blog/lightning-talks-cfp</guid>
+        <link>https://2016.mobileera.rocks/blog/lightning-talks-cfp</link>
+        <guid isPermaLink="true">https://2016.mobileera.rocks/blog/lightning-talks-cfp</guid>
         
         
             
@@ -172,7 +172,7 @@ Christoffer Marcussen, Samsung and Red Hat on diverse subjects.&lt;/p&gt;
         <title>Early bird tickets sales ends soon</title>
         <description>&lt;p&gt;Get your ticket now: The early bird ticket &lt;strong&gt;sale ends September 30th&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Mobile Era is Norway’s first conference for mobile developers. We have a program full of educational and inspiring talks from an internationally recognized lineup of speakers. There are too many highlights to mention in this post - take a look for yourself in our &lt;a href=&quot;http://mobileera.rocks/schedule&quot;&gt;program schedule&lt;/a&gt;. Tomorrow the price will go from 2900 NOK to 3900 NOK. The discounted price will give you the full two days of the conference, access to 35 talks and the conference party.&lt;/p&gt;
+&lt;p&gt;Mobile Era is Norway’s first conference for mobile developers. We have a program full of educational and inspiring talks from an internationally recognized lineup of speakers. There are too many highlights to mention in this post - take a look for yourself in our &lt;a href=&quot;/schedule&quot;&gt;program schedule&lt;/a&gt;. Tomorrow the price will go from 2900 NOK to 3900 NOK. The discounted price will give you the full two days of the conference, access to 35 talks and the conference party.&lt;/p&gt;
 
 &lt;p&gt;We are also proud that so many of our favorite companies are sponsoring the event. We have actually sold out all the spaces for our sponsors this year.&lt;/p&gt;
 
@@ -182,8 +182,8 @@ Christoffer Marcussen, Samsung and Red Hat on diverse subjects.&lt;/p&gt;
 &lt;p&gt;Email the organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#109;&amp;#111;&amp;#098;&amp;#105;&amp;#108;&amp;#101;&amp;#101;&amp;#114;&amp;#097;&amp;#046;&amp;#114;&amp;#111;&amp;#099;&amp;#107;&amp;#115;&quot;&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#109;&amp;#111;&amp;#098;&amp;#105;&amp;#108;&amp;#101;&amp;#101;&amp;#114;&amp;#097;&amp;#046;&amp;#114;&amp;#111;&amp;#099;&amp;#107;&amp;#115;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Sep 2016 08:00:00 +0200</pubDate>
-        <link>http://2016.mobileera.rocks/blog/early-bird-tickets</link>
-        <guid isPermaLink="true">http://2016.mobileera.rocks/blog/early-bird-tickets</guid>
+        <link>https://2016.mobileera.rocks/blog/early-bird-tickets</link>
+        <guid isPermaLink="true">https://2016.mobileera.rocks/blog/early-bird-tickets</guid>
         
         
             
@@ -212,8 +212,8 @@ Christoffer Marcussen, Samsung and Red Hat on diverse subjects.&lt;/p&gt;
 &lt;p&gt;We are looking forward to these and many more awesome speakers in November at Mobile Era.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Jun 2016 11:00:00 +0200</pubDate>
-        <link>http://2016.mobileera.rocks/blog/first-speakers-announced</link>
-        <guid isPermaLink="true">http://2016.mobileera.rocks/blog/first-speakers-announced</guid>
+        <link>https://2016.mobileera.rocks/blog/first-speakers-announced</link>
+        <guid isPermaLink="true">https://2016.mobileera.rocks/blog/first-speakers-announced</guid>
         
         
             
@@ -233,8 +233,8 @@ Christoffer Marcussen, Samsung and Red Hat on diverse subjects.&lt;/p&gt;
 &lt;h4 id=&quot;facebook-posthttpswwwfacebookcommobileeraconfposts506356659553268&quot;&gt;&lt;a href=&quot;https://www.facebook.com/mobileeraconf/posts/506356659553268&quot;&gt;Facebook post&lt;/a&gt;.&lt;/h4&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 11:00:00 +0200</pubDate>
-        <link>http://2016.mobileera.rocks/blog/start-selling-tickets</link>
-        <guid isPermaLink="true">http://2016.mobileera.rocks/blog/start-selling-tickets</guid>
+        <link>https://2016.mobileera.rocks/blog/start-selling-tickets</link>
+        <guid isPermaLink="true">https://2016.mobileera.rocks/blog/start-selling-tickets</guid>
         
         
             
@@ -284,8 +284,8 @@ Christoffer Marcussen, Samsung and Red Hat on diverse subjects.&lt;/p&gt;
 &lt;p&gt;Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#109;&amp;#111;&amp;#098;&amp;#105;&amp;#108;&amp;#101;&amp;#101;&amp;#114;&amp;#097;&amp;#046;&amp;#114;&amp;#111;&amp;#099;&amp;#107;&amp;#115;&quot;&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#109;&amp;#111;&amp;#098;&amp;#105;&amp;#108;&amp;#101;&amp;#101;&amp;#114;&amp;#097;&amp;#046;&amp;#114;&amp;#111;&amp;#099;&amp;#107;&amp;#115;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 May 2016 11:00:00 +0200</pubDate>
-        <link>http://2016.mobileera.rocks/blog/call-for-papers</link>
-        <guid isPermaLink="true">http://2016.mobileera.rocks/blog/call-for-papers</guid>
+        <link>https://2016.mobileera.rocks/blog/call-for-papers</link>
+        <guid isPermaLink="true">https://2016.mobileera.rocks/blog/call-for-papers</guid>
         
         
             
