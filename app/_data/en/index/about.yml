@@ -1,5 +1,5 @@
 title: "Mobile Era is Norway's first conference for mobile developers"
-abstract: "The conference will cover Android, iOS, Hybrid and Mobile Web development from both a design and development perspective. Follow us on Twitter @mobileeraconf or sign up for our mailing list to keep updated about Mobile Era 2017."
+abstract: "<div style='margin: 0 auto'><iframe width='640' height='360' src='https://www.youtube.com/embed/-5svVhDWJPU' frameborder='0' allowfullscreen style='margin: 0 auto'></iframe></div>The conference will cover Android, iOS, Hybrid and Mobile Web development from both a design and development perspective. Follow us on Twitter @mobileeraconf or sign up for our mailing list to keep updated about Mobile Era 2017."
 blocks:
  - {title: "Want to learn?", image: "conference.jpg", text: "We are happy to have the workshops, organized by Vitaly Friedman, Wei-Meng Lee, Christoffer Marcussen, Samsung and Red Hat on diverse subjects.", buttonText: "Workshops", buttonLink: "/workshops/" }
  - {title: "Want to sponsor in 2017?", image: "hackathon.jpg", text: "As a sponsor of the conference, you can help the mobile developer community in Oslo grow and show your commitment to the mobile era!", buttonText: "Contact us now", buttonPermalink: "mailto:contact@mobileera.rocks" }
