@@ -18,7 +18,7 @@ organizerAlternateName: "Mobile Era Committee"
 organizerDescription: "Mobile Era is organized by a dedicated team of volunteers"
 organizerEmail: "contact@mobileera.rocks"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://mobileera.rocks/team/"
+organizerLink: "/team/"
 
 # Documents
 c4pUrl: "http://bit.ly/mobileera2016-cfp"
@@ -27,7 +27,7 @@ c4pButton: "Become a speaker"
 # Varibles
 googleAnalyticsTrackingId: "UA-70868154-3"
 webtoolsSiteVerification: "googlee83bd89684c78156.html"
-disqusShortName: "mobileera2016"
+disqusShortName: "mobileera"
 
 # i18n
 languages:

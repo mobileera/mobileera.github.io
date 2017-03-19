@@ -7,7 +7,7 @@ isStaticPost: false
 
 Get your ticket now: The early bird ticket **sale ends September 30th**.
 
-Mobile Era is Norway's first conference for mobile developers. We have a program full of educational and inspiring talks from an internationally recognized lineup of speakers. There are too many highlights to mention in this post - take a look for yourself in our [program schedule](http://mobileera.rocks/schedule). Tomorrow the price will go from 2900 NOK to 3900 NOK. The discounted price will give you the full two days of the conference, access to 35 talks and the conference party.
+Mobile Era is Norway's first conference for mobile developers. We have a program full of educational and inspiring talks from an internationally recognized lineup of speakers. There are too many highlights to mention in this post - take a look for yourself in our [program schedule](/schedule). Tomorrow the price will go from 2900 NOK to 3900 NOK. The discounted price will give you the full two days of the conference, access to 35 talks and the conference party.
 
 We are also proud that so many of our favorite companies are sponsoring the event. We have actually sold out all the spaces for our sponsors this year.
 
